@@ -1,0 +1,44 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-4094823305",
+	"source": {
+		"name": "Question 9",
+		"showName": true,
+		"instructions": "True or False - The Page class provides methods to interact with the page's HTML elements, such as filling out forms, clicking buttons, and navigating to other pages\n",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "b7112ae6-e178-f374-ce72-845cc4ee2a7a",
+				"correct": true,
+				"answer": "True"
+			},
+			{
+				"_id": "525df3be-613f-c7d4-d8d1-2df9027d3124",
+				"correct": false,
+				"answer": "False"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

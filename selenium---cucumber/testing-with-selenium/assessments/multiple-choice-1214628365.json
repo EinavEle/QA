@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-1214628365",
+	"source": {
+		"name": "Question 3",
+		"showName": true,
+		"instructions": "When we look for an element and it’s not on the page, which error will we receive?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "0aeb2c87-49af-51c2-99c1-b5ae769b876f",
+				"correct": false,
+				"answer": "ElementNotVisibleException"
+			},
+			{
+				"_id": "df21f872-6d8c-751d-25c4-e212a4dab074",
+				"correct": true,
+				"answer": "NoSuchElementException"
+			},
+			{
+				"_id": "04c450ed-5575-18a4-8681-8b320079bcc7",
+				"correct": false,
+				"answer": "StaleElementReferenceException"
+			},
+			{
+				"_id": "90885536-ce8a-64bc-490b-9278729525b7",
+				"correct": false,
+				"answer": "NoSuchWindowException"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

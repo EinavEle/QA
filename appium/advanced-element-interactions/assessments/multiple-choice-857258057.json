@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-857258057",
+	"source": {
+		"name": "Question 9",
+		"showName": true,
+		"instructions": "The \"isDisplayed\" method in Appium is used to:",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "1cb51a67-a398-bd58-f72c-eaa173672f0e",
+				"correct": true,
+				"answer": "Check if an element is visible on the mobile app screen"
+			},
+			{
+				"_id": "d4e97cd3-22fe-8cdb-7313-ddf0ca689be3",
+				"correct": false,
+				"answer": "Check if an element is enabled for interaction"
+			},
+			{
+				"_id": "6bf0b23c-d280-f5e9-e3fe-eaa322f48c74",
+				"correct": false,
+				"answer": "Check if an element is selected in a dropdown"
+			},
+			{
+				"_id": "c8d410fd-a363-6e93-013a-2b0dac327a76",
+				"correct": false,
+				"answer": "Check if an element is draggable"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

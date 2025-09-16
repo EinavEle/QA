@@ -1,0 +1,11 @@
+Welcome to the Comprehension Check. In this section, you will be applying what you learned. Choose the best answer.
+{Check It!|assessment}(multiple-choice-104381842)
+{Check It!|assessment}(multiple-choice-86014021)
+{Check It!|assessment}(multiple-choice-4071943666)
+{Check It!|assessment}(multiple-choice-3112619448)
+{Check It!|assessment}(multiple-choice-881012373)
+{Check It!|assessment}(multiple-choice-3776342822)
+{Check It!|assessment}(multiple-choice-2315897426)
+{Check It!|assessment}(multiple-choice-2473267200)
+{Check It!|assessment}(multiple-choice-1485509501)
+{Check It!|assessment}(multiple-choice-482639099)

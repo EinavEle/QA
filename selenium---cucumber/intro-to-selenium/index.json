@@ -1,0 +1,29 @@
+{
+	"title": "Intro to Selenium-1",
+	"theme": "light",
+	"scripts": [],
+	"lexikonTopic": "",
+	"suppressPageNumbering": false,
+	"useSubmitButtons": true,
+	"useMarkAsComplete": true,
+	"hideMenu": false,
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideSectionsToggle": false,
+	"hideBackToDashboard": false,
+	"protectLayout": false,
+	"order": [
+		"Intro-and-Learning-Goals-1e8d",
+		"What-is-Selenium--3564",
+		"Selenium-s-Architecture-069f",
+		"Installation-and-Configuration-e2cf",
+		"Browser-Basics-426a",
+		"Spot-Check-a174",
+		"Locating-Elements-e8c0",
+		"Spot-Check-e88b",
+		"Basic-Element-Interactions-1745",
+		"Spot-Check-3fb3",
+		"Exercise-9b17",
+		"Comprehension-Check-1e2a"
+	]
+}

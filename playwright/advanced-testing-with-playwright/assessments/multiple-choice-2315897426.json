@@ -1,0 +1,44 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-2315897426",
+	"source": {
+		"name": "Question 7",
+		"showName": true,
+		"instructions": "Passing state in fixtures can cause problems in tests and is generally discouraged in Playwright.",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "53f9a7dc-3f06-82e1-ac85-cb3ef6447bdd",
+				"correct": true,
+				"answer": "True"
+			},
+			{
+				"_id": "472d6350-df22-9500-3fa8-01123995cad4",
+				"correct": false,
+				"answer": "False"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

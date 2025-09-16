@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-1438856290",
+	"source": {
+		"name": "Question 2",
+		"showName": true,
+		"instructions": "What are the differences between the beforeEach hook and scenario background? Select all that apply.",
+		"multipleResponse": true,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "9f3fc938-5ecc-7118-194e-a6fb0fe9186a",
+				"correct": false,
+				"answer": "They are practically the same"
+			},
+			{
+				"_id": "676a7a2b-908c-4fa8-9dc3-cda648fc7a02",
+				"correct": true,
+				"answer": "Scenario background executes steps per feature and not for all tests"
+			},
+			{
+				"_id": "b75a72e4-e431-026c-adaa-c083f40ab4bf",
+				"correct": true,
+				"answer": "beforeEach can execute any code, not just steps"
+			},
+			{
+				"_id": "a611e1ce-061c-8996-e815-48ec347fa6db",
+				"correct": false,
+				"answer": "beforeEach can contain code that steps can’t perform"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

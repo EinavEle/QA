@@ -1,0 +1,27 @@
+{
+	"title": "Test Types and Techniques",
+	"theme": "light",
+	"scripts": [],
+	"lexikonTopic": "",
+	"suppressPageNumbering": false,
+	"useSubmitButtons": true,
+	"useMarkAsComplete": true,
+	"hideMenu": false,
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideSectionsToggle": false,
+	"hideBackToDashboard": false,
+	"protectLayout": false,
+	"order": [
+		"Intro---Learning-Goals-86ed",
+		"Testing-Fundamentals-647b",
+		"Test-Types-3f41",
+		"Spot-Check-6f54",
+		"Test-Techniques-5385",
+		"Spot-Check-ec2c",
+		"Test-Levels-ff12",
+		"Spot-Check-f4c3",
+		"Exercise-614e",
+		"Comprehension-Check-a318"
+	]
+}

@@ -1,0 +1,44 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-4262960939",
+	"source": {
+		"name": "9",
+		"showName": true,
+		"instructions": " Android Studio's built-in emulator is the only option available for running Android emulators; there are no third-party options.\n",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "438ecdd8-f47b-7092-93af-1c19a02727fa",
+				"correct": false,
+				"answer": "True"
+			},
+			{
+				"_id": "166446d3-a6d5-d8ab-54fc-1542109aa341",
+				"correct": true,
+				"answer": "False"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

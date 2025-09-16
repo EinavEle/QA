@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-3112619448",
+	"source": {
+		"name": "Question 4",
+		"showName": true,
+		"instructions": "What is the purpose of the testInfo object in Playwright tests?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "4c8e3af7-16b0-6292-9740-4769f49f82fb",
+				"correct": true,
+				"answer": "To provide information about the currently running test"
+			},
+			{
+				"_id": "c2f5b2a9-db51-5a50-38d7-783ee85b274f",
+				"correct": false,
+				"answer": "To store the expected results for each test"
+			},
+			{
+				"_id": "e1ac340b-02be-53d5-4053-83a248f38869",
+				"correct": false,
+				"answer": "To define the title of the test"
+			},
+			{
+				"_id": "b20ccc28-c19e-9375-5c51-853702a0b3dd",
+				"correct": false,
+				"answer": "To indicate whether the test is marked as skipped"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

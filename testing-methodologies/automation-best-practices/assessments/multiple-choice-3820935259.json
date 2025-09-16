@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-3820935259",
+	"source": {
+		"name": "6",
+		"showName": true,
+		"instructions": "Which of the following is a key principle of \"Always Clean\" in automation testing?\n",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "5732fc04-4164-d9c4-dec0-7902a1a8be5c",
+				"correct": false,
+				"answer": "Having a high number of flaky tests.\n"
+			},
+			{
+				"_id": "558f6cb2-3b69-a00b-b3f8-c7a7d0584248",
+				"correct": false,
+				"answer": "Ignoring false negatives in test results.\n"
+			},
+			{
+				"_id": "0a52d5dd-d445-237a-ec60-b63ed62fb159",
+				"correct": true,
+				"answer": "Cleaning up resources and data after each test.\n"
+			},
+			{
+				"_id": "b12de956-366c-3dc4-7aec-5b526f59cc4d",
+				"correct": false,
+				"answer": "Not investigating the cause of test failures.\n"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

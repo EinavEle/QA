@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-767248306",
+	"source": {
+		"name": "Question 3",
+		"showName": true,
+		"instructions": "Why should you wrap API responses with a generic class?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "be66292b-b1ba-9bff-ced4-77bacc7f6a23",
+				"correct": false,
+				"answer": "You don't have to"
+			},
+			{
+				"_id": "0495d9bc-9021-f466-5704-930e6f4c44d9",
+				"correct": false,
+				"answer": "To make all API calls return the same data"
+			},
+			{
+				"_id": "0ea41367-17c6-f422-f88b-15dcf6acb424",
+				"correct": false,
+				"answer": "To make your code simpler"
+			},
+			{
+				"_id": "420cc50f-efac-49c8-2588-37fdb9d17c6b",
+				"correct": true,
+				"answer": "To make responses easier to handle by clients"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

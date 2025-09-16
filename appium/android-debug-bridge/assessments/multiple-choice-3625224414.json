@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-3625224414",
+	"source": {
+		"name": "2",
+		"showName": true,
+		"instructions": "Which of the following tasks can you perform using ADB?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "c8b6a807-4b6f-ce33-e06b-931f420a037a",
+				"correct": true,
+				"answer": "Modify system files on your Android device\n"
+			},
+			{
+				"_id": "8772f3a7-08c9-5fc6-ac6a-20902a51057e",
+				"correct": false,
+				"answer": "Play games on your Android device remotely\n"
+			},
+			{
+				"_id": "7dd16386-5d5c-30e0-695d-b8e469394fac",
+				"correct": false,
+				"answer": "Browse the internet on your computer using your Android device\n"
+			},
+			{
+				"_id": "f106c638-48a6-260c-d8c0-47c288aed9b2",
+				"correct": false,
+				"answer": "Create custom themes for your Android device\n"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-263278206",
+	"source": {
+		"name": "Question 7",
+		"showName": true,
+		"instructions": "How should you handle dynamic content?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "96fa3a53-42d6-f546-727f-30158d478bf4",
+				"correct": false,
+				"answer": "Use template locators (String.format)\n"
+			},
+			{
+				"_id": "29fd9848-4dec-7a89-adce-97fbfe52e9be",
+				"correct": false,
+				"answer": "Use waits to wait for dynamic elements to appear\n"
+			},
+			{
+				"_id": "8c27ddef-ec9c-51f9-e473-22331b4db785",
+				"correct": false,
+				"answer": "Try locating elements only when they should be on the page"
+			},
+			{
+				"_id": "097ef30c-a104-f647-4eaf-d290f19ae896",
+				"correct": true,
+				"answer": "All of the above"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

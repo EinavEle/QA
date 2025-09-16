@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-676925843",
+	"source": {
+		"name": "Question 4",
+		"showName": true,
+		"instructions": "How can you get data from a response in Playwright?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "e0db6b0e-3a7d-140f-431a-e9eb6471b6e2",
+				"correct": false,
+				"answer": "Use the parseResponse() method"
+			},
+			{
+				"_id": "9ddff716-6438-112a-90e8-bf7c993d0597",
+				"correct": false,
+				"answer": "Use the getResponseData() function"
+			},
+			{
+				"_id": "ef4076de-cead-028b-bfa1-8a51a0c9e132",
+				"correct": true,
+				"answer": "Use the json() method on the response object"
+			},
+			{
+				"_id": "d5d8eeb4-2a84-40a3-52b9-103d06c0bc90",
+				"correct": false,
+				"answer": "Use the extractResponseData() function"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

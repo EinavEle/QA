@@ -1,0 +1,17 @@
+- [Api Testing Basics Home](./README.md)
+
+- [Intro-and-Learning-Goals](./Intro-and-Learning-Goals.md "Intro-and-Learning-Goals")
+- [What-is-API-testing-](./What-is-API-testing-.md "What-is-API-testing-")
+- [Types-of-APIs](./Types-of-APIs.md "Types-of-APIs")
+- [REST-API](./REST-API.md "REST-API")
+- [HTTP-Request-and-Response](./HTTP-Request-and-Response.md "HTTP-Request-and-Response")
+- [JSON](./JSON.md "JSON")
+- [Developer-Tools](./Developer-Tools.md "Developer-Tools")
+- [Postman](./Postman.md "Postman")
+- [How-to-Test-API](./How-to-Test-API.md "How-to-Test-API")
+- [Data-Validation](./Data-Validation.md "Data-Validation")
+- [Spot-Check](./Spot-Check.md "Spot-Check")
+- [Exercise](./Exercise.md "Exercise")
+
+- [⬅ Back to Module](../README.md)
+- [⬅ Back to Course](../../README.md)

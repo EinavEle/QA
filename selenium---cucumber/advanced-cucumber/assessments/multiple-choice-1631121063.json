@@ -1,0 +1,44 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-1631121063",
+	"source": {
+		"name": "Question 4",
+		"showName": true,
+		"instructions": "True or False: Scenario Outline will execute the same scenario multiple times with different data sets.",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "b231ea91-d0ba-837c-4110-ff43886397b1",
+				"correct": true,
+				"answer": "True"
+			},
+			{
+				"_id": "c41d0f6c-aa39-f1f4-f09f-940456c8965f",
+				"correct": false,
+				"answer": "False"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

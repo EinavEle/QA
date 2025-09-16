@@ -1,0 +1,44 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-2928058647",
+	"source": {
+		"name": "3",
+		"showName": true,
+		"instructions": "True/False: Using the AAA pattern helps improve test readability and consistency.",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "1f6ff5b1-8974-ed85-a483-fa8c0cd3e786",
+				"correct": true,
+				"answer": "True"
+			},
+			{
+				"_id": "5965af69-2dd7-834b-30f1-4e34b94622fa",
+				"correct": false,
+				"answer": "False"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

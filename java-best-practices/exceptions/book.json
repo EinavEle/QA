@@ -1,0 +1,53 @@
+{
+ "name": "Exceptions",
+ "children": [
+  {
+   "title": "Intro",
+   "id": "3a76e86a-8f9b-f938-9f92-67e9e3041a97",
+   "pageId": "3a76e86a-8f9b-f938-9f92-67e9e3041a97",
+   "type": "page"
+  },
+  {
+   "title": "Using exceptions",
+   "id": "03848c0c-0544-cb30-283e-30a9a91c553e",
+   "pageId": "03848c0c-0544-cb30-283e-30a9a91c553e",
+   "type": "page"
+  },
+  {
+   "id": "4e534a54-1b33-c952-6335-ee89db7755f4",
+   "title": "Types of throwable",
+   "pageId": "a1f371a0-ea88-6648-6e9c-d34afab97570",
+   "type": "page"
+  },
+  {
+   "id": "44f7a8d5-b01f-20ab-5fa4-a38093d6cfdb",
+   "title": "Using existing exceptions",
+   "pageId": "1797b991-7553-70f4-9446-4fc17e5e81e6",
+   "type": "page"
+  },
+  {
+   "id": "d8260944-14cb-f2af-f7aa-1a7688e69298",
+   "title": "Failure Atomicity",
+   "pageId": "cf0da7a4-fcc6-715f-a4cf-7dd0b70125f5",
+   "type": "page"
+  },
+  {
+   "id": "873c4f68-8927-2245-0a90-089466e57379",
+   "title": "Failure Capture",
+   "pageId": "7fffed09-2ab0-77c1-5b80-ce2817194c94",
+   "type": "page"
+  },
+  {
+   "id": "b332ea5f-8d2c-954a-7491-2092028841b6",
+   "title": "Comprehension Check",
+   "pageId": "a1250935-280e-cfbd-c41f-f62b62d75ce8",
+   "type": "page"
+  },
+  {
+   "id": "1f31d932-9720-916f-1606-179ad2b81b95",
+   "title": "Exercise",
+   "pageId": "2452a447-5114-5abe-9f08-e1e18d09c58a",
+   "type": "page"
+  }
+ ]
+}

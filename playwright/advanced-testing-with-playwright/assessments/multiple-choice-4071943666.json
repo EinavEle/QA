@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-4071943666",
+	"source": {
+		"name": "Question 3",
+		"showName": true,
+		"instructions": "What is the primary benefit of using fixtures in Playwright?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "82c5ba3a-47df-ce53-bd2b-652b9085b15c",
+				"correct": false,
+				"answer": "To customize the behavior of tests based on metadata"
+			},
+			{
+				"_id": "8ad1c586-99d3-f13c-4d62-0e89d36d9ae1",
+				"correct": true,
+				"answer": "To streamline resource setup and reuse in tests"
+			},
+			{
+				"_id": "6ed1f6d8-0040-52a8-5de0-48df7ce13892",
+				"correct": false,
+				"answer": "To provide authentication for tests"
+			},
+			{
+				"_id": "34124a07-48ea-d5ab-4c43-ad8fe6439c23",
+				"correct": false,
+				"answer": "To avoid duplicating setup code in tests"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-2337895008",
+	"source": {
+		"name": "Question 2",
+		"showName": true,
+		"instructions": "Which of the following is not a type of API?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "21bb02af-d3dd-1665-6c8a-b0a048a29d7d",
+				"correct": false,
+				"answer": "SOAP"
+			},
+			{
+				"_id": "9941c424-1325-b65c-42ff-111642c91474",
+				"correct": false,
+				"answer": "REST"
+			},
+			{
+				"_id": "778d29f1-6f57-fdaf-a9ec-b5bed745db9f",
+				"correct": true,
+				"answer": "Mongo"
+			},
+			{
+				"_id": "c4ec5b3d-f147-f20f-9b2f-49feff285b19",
+				"correct": false,
+				"answer": "GraphQL"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

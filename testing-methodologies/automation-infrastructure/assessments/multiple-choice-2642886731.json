@@ -1,0 +1,44 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-2642886731",
+	"source": {
+		"name": "12",
+		"showName": true,
+		"instructions": "The utils layer in automation testing focuses on setting up the necessary resources and configurations for running automated tests.\n",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "2cc2a467-b084-4b12-8a9d-65e49bcf62b9",
+				"correct": false,
+				"answer": "True"
+			},
+			{
+				"_id": "054846d4-3e99-6076-85b2-5eb919037430",
+				"correct": true,
+				"answer": "False"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

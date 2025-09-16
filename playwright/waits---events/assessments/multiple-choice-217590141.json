@@ -1,0 +1,44 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-217590141",
+	"source": {
+		"name": "Question 1",
+		"showName": true,
+		"instructions": "True or False - ‘WaitForLoadState’ a method in Playwright that waits for a page's load state to reach a certain point before proceeding with further actions",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "deb1a37f-7ae4-c94a-ebac-748c4d01c8c0",
+				"correct": true,
+				"answer": "True"
+			},
+			{
+				"_id": "76faa1ae-b123-88e2-198d-ab14b5814efc",
+				"correct": false,
+				"answer": "False"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

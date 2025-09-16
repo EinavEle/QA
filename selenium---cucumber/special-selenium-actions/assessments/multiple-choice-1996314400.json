@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-1996314400",
+	"source": {
+		"name": "Question 7",
+		"showName": true,
+		"instructions": "Using the dataset mentioned above, rearrange the columns so it looks like this:\n| impound_no | Animal_ID  | Date    | Data_Type  |\n|------------|------------|---------|----------|\n\nNow, hide rows 2-20.\n\nWhat do you see in Row C72?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "bfb79db7-228c-70ae-e2ed-b902fbf85c41",
+				"correct": false,
+				"answer": "10/19/2017 12:00:00 AM"
+			},
+			{
+				"_id": "e3f516e4-3081-0a7b-ead5-390d2bcbb474",
+				"correct": true,
+				"answer": "11/06/2017 12:00:00 AMS"
+			},
+			{
+				"_id": "afe45a6e-0d0d-2e61-b591-c77780a5e73d",
+				"correct": false,
+				"answer": "Regional Animal Services of King County"
+			},
+			{
+				"_id": "5fb796fe-2701-1f0c-8664-80718e39ce09",
+				"correct": false,
+				"answer": "Something else"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

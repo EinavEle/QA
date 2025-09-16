@@ -1,0 +1,44 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-3443684997",
+	"source": {
+		"name": "Question 9",
+		"showName": true,
+		"instructions": "The \"initPage\" method in Playwright POM is responsible for creating a new webpage instance.",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "441366e3-88e6-ce18-1a7c-b92f23d21362",
+				"correct": false,
+				"answer": "True"
+			},
+			{
+				"_id": "b83e9a09-3381-9c39-e986-4ed2ce090e17",
+				"correct": true,
+				"answer": "False"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

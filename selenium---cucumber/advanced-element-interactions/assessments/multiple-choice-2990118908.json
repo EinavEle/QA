@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-2990118908",
+	"source": {
+		"name": "Question 8",
+		"showName": true,
+		"instructions": "What action can be used to simply position the mouse pointer over an element?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "cf8c996d-ae05-b442-ff31-7f68f704e481",
+				"correct": false,
+				"answer": "Drag and drop\n"
+			},
+			{
+				"_id": "701fa4a7-e070-2669-b1e4-b227a7b8f2d1",
+				"correct": true,
+				"answer": "Hover"
+			},
+			{
+				"_id": "426b26ad-e86e-0827-c269-8d250432baf0",
+				"correct": false,
+				"answer": "Check"
+			},
+			{
+				"_id": "06318661-ae54-e795-1ac0-e6325c3132dd",
+				"correct": false,
+				"answer": "Select"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

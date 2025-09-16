@@ -1,0 +1,47 @@
+{
+ "name": "Code Standards",
+ "children": [
+  {
+   "title": "Intro",
+   "id": "f246e0b4-2804-2461-abca-69b7d0491c21",
+   "type": "page",
+   "pageId": "f246e0b4-2804-2461-abca-69b7d0491c21"
+  },
+  {
+   "title": "Conventions",
+   "id": "66c1cad6-e1b9-15b1-98fe-a6ae2f006faa",
+   "type": "page",
+   "pageId": "66c1cad6-e1b9-15b1-98fe-a6ae2f006faa"
+  },
+  {
+   "title": "Indentation and Line Breaks",
+   "id": "0aa25f4b-995e-5b37-9521-20f90121f198",
+   "type": "page",
+   "pageId": "3bbb1316-e266-21f9-e498-869cd27f20b9"
+  },
+  {
+   "title": "Blocks and Curly Braces",
+   "id": "772dc5dc-76ed-619c-b1bd-454e488a239c",
+   "type": "page",
+   "pageId": "772dc5dc-76ed-619c-b1bd-454e488a239c"
+  },
+  {
+   "title": "Spacing",
+   "id": "878f09f5-107b-d31c-6b67-475a780601b6",
+   "type": "page",
+   "pageId": "c51fa1d5-1c91-d3ae-8756-6cfb060a5929"
+  },
+  {
+   "title": "Meaningful Naming",
+   "id": "6520fb4f-0793-0e60-e477-c27e55ed5d8c",
+   "type": "page",
+   "pageId": "6520fb4f-0793-0e60-e477-c27e55ed5d8c"
+  },
+  {
+   "title": "Comments",
+   "id": "bcc120e9-be98-1033-d17f-c58c727f3fae",
+   "type": "page",
+   "pageId": "bcc120e9-be98-1033-d17f-c58c727f3fae"
+  }
+ ]
+}

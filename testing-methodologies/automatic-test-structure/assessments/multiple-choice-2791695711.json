@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-2791695711",
+	"source": {
+		"name": "9",
+		"showName": true,
+		"instructions": "What is the purpose of the teardown step in testing?\n",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "035de156-c09b-0265-8b48-069e9204c4e0",
+				"correct": false,
+				"answer": "To initialize objects and test data before the test."
+			},
+			{
+				"_id": "48d6b2d7-7a50-8755-c465-1df7cea3b3f1",
+				"correct": true,
+				"answer": "To clean up resources and restore the environment after the test.\n"
+			},
+			{
+				"_id": "8f408da1-5cf4-b90b-dc35-b453ea55d74a",
+				"correct": false,
+				"answer": "To execute assertions and verify the expected outcomes."
+			},
+			{
+				"_id": "c75ba9a2-43ae-a5ff-4978-c2c32be221a3",
+				"correct": false,
+				"answer": "To define the specific behavior or functionality being tested.\n"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

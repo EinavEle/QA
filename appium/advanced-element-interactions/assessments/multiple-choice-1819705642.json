@@ -1,0 +1,44 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-1819705642",
+	"source": {
+		"name": "Question 5",
+		"showName": true,
+		"instructions": "The \"clear\" method is used to clear the text or input of an editable element in a mobile application.",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "49d6506b-3317-98aa-67f0-08bb62427352",
+				"correct": true,
+				"answer": "True"
+			},
+			{
+				"_id": "a62f5989-4c1d-e26b-faa4-4e1158c66426",
+				"correct": false,
+				"answer": "False"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

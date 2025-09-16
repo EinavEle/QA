@@ -1,0 +1,198 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2299954543",
+  "source": {
+   "name": "Exceptions 1",
+   "showName": true,
+   "instructions": "Exceptions should be used only for errors and problems in our code.",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "62f454da-21f8-809c-42ef-054009a76a25",
+     "correct": true,
+     "answer": "True"
+    },
+    {
+     "_id": "dc3d75dc-c2c1-fbad-f675-f53f0970d7fe",
+     "correct": false,
+     "answer": "False"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3803918540",
+  "source": {
+   "name": "Exception 2",
+   "showName": true,
+   "instructions": "Which of the throwable types is designated for recoverable situations?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "f265558d-b9c3-6ae3-6338-e60e56c718dd",
+     "correct": false,
+     "answer": "Errors"
+    },
+    {
+     "_id": "2beeb5c0-4856-a324-46bc-d4cae8014eee",
+     "correct": true,
+     "answer": "Checked exceptions"
+    },
+    {
+     "_id": "d30e657c-99b2-7700-e30c-9afd1c865cde",
+     "correct": false,
+     "answer": "Runtime exceptions"
+    },
+    {
+     "_id": "e7dc57f5-9208-d064-6a76-15cc76257401",
+     "correct": false,
+     "answer": "None of the above"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-281109008",
+  "source": {
+   "name": "Exceptions 3",
+   "showName": true,
+   "instructions": "Why is it better to use commonly used Java exceptions and not custom ones?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "d4196be0-0fb5-bd2e-1ea5-6116f6aeb62f",
+     "correct": false,
+     "answer": "It is not"
+    },
+    {
+     "_id": "25248c26-09bb-ad52-d787-8dbb44bf3832",
+     "correct": false,
+     "answer": "Because common exceptions have more data"
+    },
+    {
+     "_id": "cf82ecf7-58cf-ddac-7eae-025d7f2ded21",
+     "correct": false,
+     "answer": "Because custom exceptions take longer to load"
+    },
+    {
+     "_id": "cc22aae8-4f3b-3f92-0a96-34839d7eca01",
+     "correct": true,
+     "answer": "Because programmers are familiar with them"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-4123669901",
+  "source": {
+   "name": "Exceptions 4",
+   "showName": true,
+   "instructions": "Which of these is better?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "f41ba454-1059-cf96-c59e-03ace6bbf5a7",
+     "correct": false,
+     "answer": "```\nthrow new IllegalArgumentException();\n```"
+    },
+    {
+     "_id": "e4e65130-80ef-921a-9419-f9b5d0ddb794",
+     "correct": true,
+     "answer": "```\nthrow new IllegalStateException(\"Provided int: \" + number + \" is illegal\");\n```"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]

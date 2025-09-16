@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-2116002298",
+	"source": {
+		"name": "Question 2",
+		"showName": true,
+		"instructions": "How can we locate elements in Selenium?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "c4bba62b-f233-2827-4af8-b631d89d4271",
+				"correct": false,
+				"answer": "Using XPath"
+			},
+			{
+				"_id": "bddbe245-4567-1e66-83b8-cc400cbac1ae",
+				"correct": false,
+				"answer": "Using Element IDs"
+			},
+			{
+				"_id": "5b856b9c-2260-ac86-65e0-fafa1e20a3d5",
+				"correct": false,
+				"answer": "Using CSS Selectors"
+			},
+			{
+				"_id": "1fc7de10-4eb5-e84b-027d-082179ff1a09",
+				"correct": true,
+				"answer": "All of the above"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

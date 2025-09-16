@@ -1,0 +1,44 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "485b9fa9-199a-fbe3-c5c0-6182a3bf81d5",
+				"answer": "True",
+				"correct": true
+			},
+			{
+				"_id": "63fde1c0-73be-ed30-aca8-3f94ecdc34ed",
+				"answer": "False",
+				"correct": false
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "Static factory methods can help us reuse objects instead of creating new ones.\n",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"maxAttemptsCount": 1,
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "Static factory methods 2",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"showName": true
+	},
+	"taskId": "multiple-choice-2211212424",
+	"type": "multiple-choice"
+}

@@ -1,0 +1,44 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-2954929758",
+	"source": {
+		"name": "Question 8",
+		"showName": true,
+		"instructions": "Playwright provides features to work with network requests and responses, including intercepting and modifying them.",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "2698f3f0-3c37-1640-19d9-32845b5789b9",
+				"correct": true,
+				"answer": "True"
+			},
+			{
+				"_id": "d3180b33-ce1f-6336-f957-ff0d362b75d2",
+				"correct": false,
+				"answer": "False"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

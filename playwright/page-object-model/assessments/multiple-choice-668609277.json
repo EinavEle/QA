@@ -1,0 +1,44 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-668609277",
+	"source": {
+		"name": "Question 2",
+		"showName": true,
+		"instructions": "Playwright POM follows the principle of \"Encapsulation\" by bundling data and behavior within a single unit.",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "f9361194-cc98-208d-ae68-c332d6694876",
+				"correct": true,
+				"answer": "True"
+			},
+			{
+				"_id": "94bbdf3e-7df7-4d4d-aa3c-8769e25bd944",
+				"correct": false,
+				"answer": "False"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

@@ -1,0 +1,31 @@
+{
+	"title": "Automation Best Practices",
+	"theme": "light",
+	"scripts": [],
+	"lexikonTopic": "",
+	"suppressPageNumbering": false,
+	"useSubmitButtons": true,
+	"useMarkAsComplete": true,
+	"hideMenu": false,
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideSectionsToggle": false,
+	"hideBackToDashboard": false,
+	"protectLayout": false,
+	"order": [
+		"Intro---Learning-Goals-a5dc",
+		"Manual-vs--Automatic-3fec",
+		"Failure-Types-2675",
+		"False-Flags-5b48",
+		"Fail-Fast-082d",
+		"API-vs--UI-951d",
+		"Spot-Check-9685",
+		"The-Tests-Pyramid-202f",
+		"Sleep---Retry-1af7",
+		"Spot-Check-0bbf",
+		"Stability-d0e4",
+		"Tagging-556a",
+		"Reporting-461a",
+		"Comprehension-Check-2bef"
+	]
+}

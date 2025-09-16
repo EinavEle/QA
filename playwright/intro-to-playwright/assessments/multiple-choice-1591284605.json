@@ -1,0 +1,44 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-1591284605",
+	"source": {
+		"name": "Question 3",
+		"showName": true,
+		"instructions": "True or False - Playwright works with different web browsers like Chrome, Firefox, and WebKit\n",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "dea5dba9-e080-119d-a7e6-c8c29a71c1d9",
+				"correct": true,
+				"answer": "True"
+			},
+			{
+				"_id": "feb1ae48-a53c-03ab-7ce3-61398a51ba03",
+				"correct": false,
+				"answer": "False"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

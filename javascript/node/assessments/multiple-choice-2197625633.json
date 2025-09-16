@@ -1,0 +1,51 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "bf771892-90d6-88ca-b698-d892dd5865e7",
+				"answer": "Every file we write in node is automatically wrapped in a module for us",
+				"correct": false
+			},
+			{
+				"_id": "5c7d1186-c527-ade4-1fed-a9d817caebc5",
+				"answer": "We can export and import modules from one file to another so we don't have to rely on our index.html to import everything",
+				"correct": false
+			},
+			{
+				"_id": "6454b9e5-339c-e867-7947-69b5574227a8",
+				"answer": "Every node file has a built in exports object where we can assign keys to this object in order to export them to other file",
+				"correct": false
+			},
+			{
+				"_id": "4f24d18b-989e-f76f-b8d5-29532ec4bc26",
+				"answer": "Modules are automatically imported in Node so we don't need to use the require function to access other files",
+				"correct": true
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "Which statement is NOT true about Node?",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "3.",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": false
+	},
+	"taskId": "multiple-choice-2197625633",
+	"type": "multiple-choice"
+}

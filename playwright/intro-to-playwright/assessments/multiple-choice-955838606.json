@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-955838606",
+	"source": {
+		"name": "Question 7",
+		"showName": true,
+		"instructions": "What is a Persistent Context in Playwright?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "64d27aad-648e-0457-3ca7-f10d8ee8404b",
+				"correct": false,
+				"answer": "A type of room in a browser where you can do your own thing without disturbing what's happening in other rooms.\n"
+			},
+			{
+				"_id": "04815823-b5cc-f347-0ffe-fe5c26850cbb",
+				"correct": false,
+				"answer": "A way to share things between rooms in a browser, like sharing cookies or cache data.\n"
+			},
+			{
+				"_id": "55e2f93c-ce0a-3442-2216-a2fa4f49b35a",
+				"correct": false,
+				"answer": "A separate browser instance that stays open even after you leave.\n"
+			},
+			{
+				"_id": "4473e70f-68db-e9d0-0763-7a1bede90c18",
+				"correct": true,
+				"answer": "A type of context whose data is saved on the hard drive, allowing tests to use the same context data later.\n"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

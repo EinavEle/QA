@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-3649210664",
+	"source": {
+		"name": "4",
+		"showName": true,
+		"instructions": "What do JUnit annotations help with?\n",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "657c47de-da18-7959-085f-92cbdde4b61b",
+				"correct": true,
+				"answer": "Defining and verifying test cases"
+			},
+			{
+				"_id": "cfea0b96-facd-5ff9-45f1-98a5c3cc9ccd",
+				"correct": false,
+				"answer": "Managing project dependencies\n"
+			},
+			{
+				"_id": "a112e023-a508-c176-7922-cd6485dcb114",
+				"correct": false,
+				"answer": "Formatting code"
+			},
+			{
+				"_id": "1db4a997-3f49-775d-3589-c3866e7b4028",
+				"correct": false,
+				"answer": "Writing JavaDoc comments\n"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

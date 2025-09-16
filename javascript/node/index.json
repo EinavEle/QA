@@ -1,0 +1,33 @@
+{
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideBackToDashboard": false,
+	"hideMenu": false,
+	"hideSectionsToggle": false,
+	"lexikonTopic": "",
+	"order": [
+		"Node-JS-Intro-Video-ee32",
+		"Intro-8a4c",
+		"Clients-vs--Servers-b8df",
+		"Installing-Node---finally-0a20",
+		"Running-Files-with-Node-e7c7",
+		"VS-Code---Debugging-789f",
+		"Node-JS-Modules-2e7f",
+		"CommonJS-Modules-Video-a8c7",
+		"CommonJS-Modules-f7af",
+		"Spot-Check--5f9c",
+		"ES-Modules-349c",
+		"Spot-Check-39f2",
+		"Spot-Check--6f93",
+		"Global-Scope-and-Node-693d",
+		"Exercises-a09c",
+		"Comprehension-Check-eab6"
+	],
+	"protectLayout": false,
+	"scripts": [],
+	"suppressPageNumbering": false,
+	"theme": "light",
+	"title": "Node",
+	"useMarkAsComplete": true,
+	"useSubmitButtons": true
+}

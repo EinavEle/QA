@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-2052611576",
+	"source": {
+		"name": "Question 6",
+		"showName": true,
+		"instructions": "Take a look at [this dataset](https://docs.google.com/spreadsheets/d/1xHLcG9jgDv6t-hUHqUyZwoHe4G7RbATOhfcwTLLmqFU/edit#gid=233321134).\nWhy is it not considered tabular?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "b5ac8c4f-ca0a-03b4-db28-faa9823ebd3f",
+				"correct": false,
+				"answer": "Lack of Headers"
+			},
+			{
+				"_id": "b12724d2-6135-1d77-c920-34089894b633",
+				"correct": true,
+				"answer": "Missing information in certain columns"
+			},
+			{
+				"_id": "595ceab4-f4c8-efb4-ba6b-891d37f988fd",
+				"correct": false,
+				"answer": "Data is repetitive"
+			},
+			{
+				"_id": "305bff01-f75c-3a8f-fcc5-71de7cd22dfa",
+				"correct": false,
+				"answer": "Capitalization is inconsistent"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

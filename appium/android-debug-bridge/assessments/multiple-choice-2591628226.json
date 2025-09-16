@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-2591628226",
+	"source": {
+		"name": "6",
+		"showName": true,
+		"instructions": "Which ADB command is used to view the device's log messages?\n",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "05e6503c-bb85-06e9-a356-dbd7ef79bbc1",
+				"correct": false,
+				"answer": "adb pull\n"
+			},
+			{
+				"_id": "895ab255-d328-6910-e846-6043e1ba8fa3",
+				"correct": true,
+				"answer": "adb logcat\n"
+			},
+			{
+				"_id": "0184593d-c782-6500-f66e-48236e57b20a",
+				"correct": false,
+				"answer": "adb uninstall\n"
+			},
+			{
+				"_id": "5ccac50b-f55f-2ed3-cfd5-641152948e0d",
+				"correct": false,
+				"answer": "adb reboot\n"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

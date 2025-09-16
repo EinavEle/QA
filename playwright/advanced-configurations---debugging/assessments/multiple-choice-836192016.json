@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-836192016",
+	"source": {
+		"name": "Question 5",
+		"showName": true,
+		"instructions": "Which annotation is used to mark a test as irrelevant and not run by Playwright Test?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "510b58dc-4d04-e640-f183-0d5e14cb247b",
+				"correct": true,
+				"answer": "test.skip()"
+			},
+			{
+				"_id": "0fa5f91f-61b2-eaa9-60fd-c52b176f1d55",
+				"correct": false,
+				"answer": "test.fail()"
+			},
+			{
+				"_id": "df54c166-959c-fa76-04c9-2f0e0117ed15",
+				"correct": false,
+				"answer": "test.fixme()"
+			},
+			{
+				"_id": "a55ae25a-92b4-0c11-3451-e85c76bbbb33",
+				"correct": false,
+				"answer": "test.slow()"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-1288496525",
+	"source": {
+		"name": "Question 1",
+		"showName": true,
+		"instructions": "When should you use JavaScript in Playwright?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "5be4a551-e50c-a36e-8451-2d4e6445fa78",
+				"correct": false,
+				"answer": "Only for automating tasks with dynamic functionality"
+			},
+			{
+				"_id": "587c3d8b-74b8-7558-f024-a0d944cbddbf",
+				"correct": false,
+				"answer": "To avoid interacting with elements on a webpage"
+			},
+			{
+				"_id": "1042e527-b83a-54f7-bc8c-b4b9a0c52027",
+				"correct": true,
+				"answer": "To simulate user behavior and add custom functionality to tests"
+			},
+			{
+				"_id": "118f11d4-c9f7-bfb8-25e7-c785aa456c69",
+				"correct": false,
+				"answer": "None of the above"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

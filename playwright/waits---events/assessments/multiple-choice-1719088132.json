@@ -1,0 +1,44 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-1719088132",
+	"source": {
+		"name": "Question 3",
+		"showName": true,
+		"instructions": "True or False - ‘WaitForLoadState’ allow you to specify which load state you want to wait for",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "5d9a480d-540d-390c-0a3a-8b1909e84790",
+				"correct": true,
+				"answer": "True"
+			},
+			{
+				"_id": "c7e6d305-6ae3-a808-5010-52489c745929",
+				"correct": false,
+				"answer": "False"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

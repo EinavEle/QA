@@ -1,0 +1,23 @@
+{
+ "name": "Functions Mini Lesson - Optional!",
+ "children": [
+  {
+   "title": "More Functions",
+   "id": "15f9f87d-6680-f9a9-a516-ad7b5555f101",
+   "pageId": "15f9f87d-6680-f9a9-a516-ad7b5555f101",
+   "type": "page"
+  },
+  {
+   "title": "Functions Galore",
+   "id": "8bd583b8-0e55-a0a1-8b81-8315af16e775",
+   "pageId": "8bd583b8-0e55-a0a1-8b81-8315af16e775",
+   "type": "page"
+  },
+  {
+   "id": "0c156505-0642-ca32-ba33-ed63f3c01122",
+   "title": "Exercises",
+   "pageId": "ab5a8457-f293-1dd6-2c01-d3689b763fc9",
+   "type": "page"
+  }
+ ]
+}

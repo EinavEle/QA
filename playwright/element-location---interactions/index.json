@@ -1,0 +1,25 @@
+{
+	"title": "Element Location & Interactions",
+	"theme": "light",
+	"scripts": [],
+	"lexikonTopic": "",
+	"suppressPageNumbering": false,
+	"useSubmitButtons": true,
+	"useMarkAsComplete": true,
+	"hideMenu": false,
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideSectionsToggle": false,
+	"hideBackToDashboard": false,
+	"protectLayout": false,
+	"order": [
+		"Intro---Learning-Goals-6232",
+		"Locating-Elements-41b1",
+		"Spot-Check-c2bd",
+		"Element---Locator-Actions-47ab",
+		"Spot-Check-f872",
+		"IFrames-9a4b",
+		"Exercise-ee21",
+		"Comprehension-Check-d678"
+	]
+}

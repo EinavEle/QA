@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-735961381",
+	"source": {
+		"name": "Question 3",
+		"showName": true,
+		"instructions": "In REST API, which method is used for adding new data?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "518a3133-e427-05f7-7895-969de05cfc1c",
+				"correct": false,
+				"answer": "PUT"
+			},
+			{
+				"_id": "ab25b507-a617-ccdd-0b06-910b39ca1507",
+				"correct": true,
+				"answer": "POST"
+			},
+			{
+				"_id": "34d989bb-05e1-b141-9538-6e049b6f2946",
+				"correct": false,
+				"answer": "GET"
+			},
+			{
+				"_id": "46e6a8b2-d7f2-1c65-f438-b81c01ef7b34",
+				"correct": false,
+				"answer": "PATCH"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

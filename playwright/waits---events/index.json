@@ -1,0 +1,27 @@
+{
+	"title": "Waits & Events",
+	"theme": "light",
+	"scripts": [],
+	"lexikonTopic": "",
+	"suppressPageNumbering": false,
+	"useSubmitButtons": true,
+	"useMarkAsComplete": true,
+	"hideMenu": false,
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideSectionsToggle": false,
+	"hideBackToDashboard": false,
+	"protectLayout": false,
+	"order": [
+		"Intro---Learning-Goals-ac80",
+		"Auto-Waiting-705d",
+		"WaitForSelector-ea5f",
+		"Spot-Check-2dd9",
+		"WaitForLoadState-c69e",
+		"WaitForEvent-9943",
+		"Spot-Check-6532",
+		"Timeouts-ad5a",
+		"Exercise-a5a5",
+		"Comprehension-Check-3ca4"
+	]
+}

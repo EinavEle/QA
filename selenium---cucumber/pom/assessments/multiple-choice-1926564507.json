@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-1926564507",
+	"source": {
+		"name": "Question 7",
+		"showName": true,
+		"instructions": "What is the purpose of the initPage() method?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "b684c7ba-62d5-9ae5-63ea-7ba22a2856db",
+				"correct": false,
+				"answer": "To launch the browser"
+			},
+			{
+				"_id": "91f8ffe5-72d9-809d-8848-a4fbddd998af",
+				"correct": false,
+				"answer": "To open a new tab"
+			},
+			{
+				"_id": "a20a3546-4c7e-3a9c-3425-3361cd4b0e3b",
+				"correct": true,
+				"answer": "To make sure the page is ready"
+			},
+			{
+				"_id": "37278c21-eaf5-7d56-0ab0-8df9b526426a",
+				"correct": false,
+				"answer": "To locate all elements"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

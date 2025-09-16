@@ -1,0 +1,53 @@
+{
+ "name": "Java Basics-1",
+ "children": [
+  {
+   "title": "Intro",
+   "id": "39e31745-49e1-3c98-b365-2c34876cfa73",
+   "pageId": "39e31745-49e1-3c98-b365-2c34876cfa73",
+   "type": "page"
+  },
+  {
+   "title": "Primitives & Objects",
+   "id": "46ad19ec-2348-99b6-54ae-87d4d8716048",
+   "pageId": "46ad19ec-2348-99b6-54ae-87d4d8716048",
+   "type": "page"
+  },
+  {
+   "id": "d7102893-a848-5606-f4d0-24b13ff2ef5e",
+   "title": "The Main Method",
+   "pageId": "7c12996c-7a2e-9a2c-da9f-e8915c0b2f45",
+   "type": "page"
+  },
+  {
+   "id": "b4a3e690-1421-00d4-e54e-6d347bec7e0c",
+   "title": "Conditions",
+   "pageId": "6e07dcde-ac34-c912-f139-d6ceec83529e",
+   "type": "page"
+  },
+  {
+   "id": "124caf5b-e4ca-58c3-a5ec-de0429220c62",
+   "title": "Loops",
+   "pageId": "d2153c93-061d-8e07-4ce2-9adae433c897",
+   "type": "page"
+  },
+  {
+   "id": "fb3ea28f-2a21-ef2e-bd17-d62a260bfdac",
+   "title": "Break/Continue",
+   "pageId": "d438e7e8-fb60-42b4-60fd-d2d641454814",
+   "type": "page"
+  },
+  {
+   "id": "dba94b95-a576-7d4b-62d7-96b0056a6805",
+   "title": "Collections",
+   "pageId": "53533dc9-694b-d638-f919-0f098702a391",
+   "type": "page"
+  },
+  {
+   "id": "29620145-2b73-b527-b086-5633494b3902",
+   "title": "Exercise",
+   "pageId": "e514ad99-712f-0274-97e1-5780b940d388",
+   "type": "page"
+  }
+ ]
+}

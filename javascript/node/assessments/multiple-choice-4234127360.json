@@ -1,0 +1,56 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "0483de23-02b4-a2a5-19fc-d62e30c61244",
+				"answer": "create servers",
+				"correct": false
+			},
+			{
+				"_id": "bacce588-fe97-c50e-b8c2-8845aa4c238b",
+				"answer": "serve data to users",
+				"correct": false
+			},
+			{
+				"_id": "9ac33dc7-0d68-a464-543d-9d8157087e0c",
+				"answer": "communicate with external APIs",
+				"correct": false
+			},
+			{
+				"_id": "d2e8e5e0-a8f5-603c-d8a6-da329745fcb0",
+				"answer": "communicate with databases simply",
+				"correct": false
+			},
+			{
+				"_id": "d09c30c2-6bb9-f57a-18b8-777928c7cb30",
+				"answer": "All of the above",
+				"correct": true
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "Node allows us to...",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "2.",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": true
+	},
+	"taskId": "multiple-choice-4234127360",
+	"type": "multiple-choice"
+}

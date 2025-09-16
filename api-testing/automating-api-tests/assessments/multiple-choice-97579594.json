@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-97579594",
+	"source": {
+		"name": "Question 2",
+		"showName": true,
+		"instructions": "Why do we use an HTTP facade?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "7a419398-dfb2-460d-198a-75d120579186",
+				"correct": true,
+				"answer": "To avoid code reuse and have all our http infra in one place"
+			},
+			{
+				"_id": "0333f4d0-7411-fea7-cc45-8c5d0b626521",
+				"correct": false,
+				"answer": "To make faster API calls"
+			},
+			{
+				"_id": "9ccbc003-8b13-7aa6-7d35-efe1444b102b",
+				"correct": false,
+				"answer": "To be able to make http requests in different ways"
+			},
+			{
+				"_id": "8247964f-e336-4b12-d1a2-6926df6e46d0",
+				"correct": false,
+				"answer": "To use different http libraries in our project"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

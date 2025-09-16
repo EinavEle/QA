@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-928239960",
+	"source": {
+		"name": "Question 2",
+		"showName": true,
+		"instructions": "What is a feature in Cucumber?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "c705adf7-4c31-5eb6-a671-e8073fd36031",
+				"correct": false,
+				"answer": "A certain functionality of the product"
+			},
+			{
+				"_id": "7fb2d9ba-f7f2-83c7-ca71-9fcf6290cfa4",
+				"correct": true,
+				"answer": "A set of scenarios that may have the same background"
+			},
+			{
+				"_id": "fc44d6d0-9aca-4561-8af8-ca7f4395f787",
+				"correct": false,
+				"answer": "A test"
+			},
+			{
+				"_id": "deb4d3b2-9b1c-3124-5e3a-d5822034b1b3",
+				"correct": false,
+				"answer": "A plugin that helps run tests"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

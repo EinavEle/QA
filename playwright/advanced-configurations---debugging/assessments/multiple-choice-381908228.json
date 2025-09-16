@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-381908228",
+	"source": {
+		"name": "Question 7",
+		"showName": true,
+		"instructions": "What does tracing in Playwright help you with?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "7e34dcc6-f09c-31cb-bc36-8fcf1c3b4480",
+				"correct": false,
+				"answer": "Analyzing the performance of your test scripts"
+			},
+			{
+				"_id": "71491f72-2205-e530-de08-d225b0bb9e09",
+				"correct": true,
+				"answer": "Debugging and understanding the flow of your automation code"
+			},
+			{
+				"_id": "15c990b5-2ec2-99d0-ee0c-b1b0459a9836",
+				"correct": false,
+				"answer": "Automatically generating test reports"
+			},
+			{
+				"_id": "9bdd832a-86ca-d0e0-8df7-d16c899bb4b2",
+				"correct": false,
+				"answer": "Running tests in parallel"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

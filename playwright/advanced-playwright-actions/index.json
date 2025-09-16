@@ -1,0 +1,27 @@
+{
+	"title": "Advanced Playwright Actions",
+	"theme": "light",
+	"scripts": [],
+	"lexikonTopic": "",
+	"suppressPageNumbering": false,
+	"useSubmitButtons": true,
+	"useMarkAsComplete": true,
+	"hideMenu": false,
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideSectionsToggle": false,
+	"hideBackToDashboard": false,
+	"protectLayout": false,
+	"order": [
+		"Intro---Learning-Goals-3498",
+		"Executing-JavaScript-17c0",
+		"Spot-Check-5a0a",
+		"Keyboard---Mouse-Actions-f971",
+		"Spot-Check-7940",
+		"Using-network-requests---responses-2540",
+		"Using-request-response-data-f162",
+		"Spot-Check-fa6c",
+		"Exercise-af0c",
+		"Comprehension-Check-aad1"
+	]
+}

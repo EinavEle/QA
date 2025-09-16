@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-4294688214",
+	"source": {
+		"name": "Question 7",
+		"showName": true,
+		"instructions": "Which of the following statements is true about autonomous tests?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "98075fde-33d6-b5e4-65f1-1e15baf4f07c",
+				"correct": false,
+				"answer": "Autonomous tests require external dependencies to function properly."
+			},
+			{
+				"_id": "2731869b-1e62-decc-ea7d-20b4cc79256b",
+				"correct": false,
+				"answer": "Autonomous tests are only used for unit testing."
+			},
+			{
+				"_id": "62e47794-858c-4e1f-bfe6-3b5e9961e42f",
+				"correct": false,
+				"answer": "Autonomous tests make debugging and troubleshooting more challenging."
+			},
+			{
+				"_id": "fe56fb93-359a-dbf3-df99-8474ee42073f",
+				"correct": true,
+				"answer": "Autonomous tests can be run simultaneously without conflicts."
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

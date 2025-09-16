@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-1430058399",
+	"source": {
+		"name": "8",
+		"showName": true,
+		"instructions": "Why is it important to separate setup and teardown steps from the test itself?\n",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "bc71901d-53ba-0607-bc37-d07a083d245f",
+				"correct": false,
+				"answer": "It reduces the execution time of the test.\n"
+			},
+			{
+				"_id": "4f14f745-69b7-3d8e-ae14-fbe20a3a61df",
+				"correct": true,
+				"answer": "It ensures that teardown will be executed regardless of test results\n"
+			},
+			{
+				"_id": "70d2defc-bd6e-3e9e-bf70-0344a4574075",
+				"correct": false,
+				"answer": "It ensures that the test passes without any issues.\n"
+			},
+			{
+				"_id": "a12de85a-83c6-fb87-73e3-83201e0f8b6f",
+				"correct": false,
+				"answer": "It eliminates the need for setup and teardown in testing.\n"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

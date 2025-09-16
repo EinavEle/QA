@@ -1,0 +1,30 @@
+{
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideBackToDashboard": false,
+	"hideMenu": false,
+	"hideSectionsToggle": false,
+	"lexikonTopic": "",
+	"order": [
+		"Intro-0f09",
+		"Accessibility-40ab",
+		"Spot-Check-1-3ae4",
+		"Spot-Check-2-e5c4",
+		"Mutability-0f30",
+		"Spot-Check-896a",
+		"Inheritance-vs--Composition-1183",
+		"Spot-Check-f99e",
+		"Abstract-Classes-vs--Interfaces-e496",
+		"Bad-Practices-c9be",
+		"Comprehension-Check-8cee",
+		"Exercise-2436",
+		"Exercise-2-ed2a"
+	],
+	"protectLayout": false,
+	"scripts": [],
+	"suppressPageNumbering": false,
+	"theme": "light",
+	"title": "Classes \u0026 Interfaces",
+	"useMarkAsComplete": true,
+	"useSubmitButtons": true
+}

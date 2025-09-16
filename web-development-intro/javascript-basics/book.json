@@ -1,0 +1,107 @@
+{
+ "name": "JavaScript Basics",
+ "children": [
+  {
+   "title": "Intro",
+   "id": "f246e0b4-2804-2461-abca-69b7d0491c21",
+   "type": "page",
+   "pageId": "f246e0b4-2804-2461-abca-69b7d0491c21"
+  },
+  {
+   "title": "Setup",
+   "id": "83a46fd0-5395-816d-f1e5-7ce37cfc8a77",
+   "type": "page",
+   "pageId": "83a46fd0-5395-816d-f1e5-7ce37cfc8a77"
+  },
+  {
+   "title": "Variables",
+   "id": "05c3306f-45db-1c7a-06e7-645a86e94ccf",
+   "type": "page",
+   "pageId": "7b15d2a8-08ab-0d56-74d6-f864530accfe"
+  },
+  {
+   "title": "Identifiers",
+   "id": "16c02a73-ced6-6da6-1a54-69d5228dcf8e",
+   "type": "page",
+   "pageId": "78903902-8a66-176e-a939-177ccf517921"
+  },
+  {
+   "title": "Operators",
+   "id": "f6161327-c57f-4758-6ed0-2ade71ea5e84",
+   "type": "page",
+   "pageId": "84c7f85e-fd19-0220-1871-40b739ede1f3"
+  },
+  {
+   "id": "ed1ab34d-6320-fbe3-b1fd-51c66efa97d2",
+   "title": "Logical Statements Usage",
+   "pageId": "69779cff-126b-6418-d800-e264d3aa0c71",
+   "type": "page"
+  },
+  {
+   "title": "Exercises",
+   "id": "66c1cad6-e1b9-15b1-98fe-a6ae2f006faa",
+   "type": "page",
+   "pageId": "66c1cad6-e1b9-15b1-98fe-a6ae2f006faa"
+  },
+  {
+   "title": "Conditional Statements",
+   "id": "0aa25f4b-995e-5b37-9521-20f90121f198",
+   "type": "page",
+   "pageId": "3bbb1316-e266-21f9-e498-869cd27f20b9"
+  },
+  {
+   "title": "Exercises",
+   "id": "772dc5dc-76ed-619c-b1bd-454e488a239c",
+   "type": "page",
+   "pageId": "772dc5dc-76ed-619c-b1bd-454e488a239c"
+  },
+  {
+   "title": "Arrays",
+   "id": "878f09f5-107b-d31c-6b67-475a780601b6",
+   "type": "page",
+   "pageId": "c51fa1d5-1c91-d3ae-8756-6cfb060a5929"
+  },
+  {
+   "title": "Exercises",
+   "id": "6520fb4f-0793-0e60-e477-c27e55ed5d8c",
+   "type": "page",
+   "pageId": "6520fb4f-0793-0e60-e477-c27e55ed5d8c"
+  },
+  {
+   "title": "Objects",
+   "id": "b691fe30-bd08-4628-2455-64bed5954f1b",
+   "type": "page",
+   "pageId": "2bb461eb-1a0e-0b4a-e47d-9d817ba9ddbd"
+  },
+  {
+   "title": "Exercises",
+   "id": "bcc120e9-be98-1033-d17f-c58c727f3fae",
+   "type": "page",
+   "pageId": "bcc120e9-be98-1033-d17f-c58c727f3fae"
+  },
+  {
+   "title": "Loops",
+   "id": "944414db-fa87-bf24-1822-2dacd906659f",
+   "type": "page",
+   "pageId": "0572d44a-e958-09f9-2a99-8eebaacc7952"
+  },
+  {
+   "title": "Exercises",
+   "id": "03848623-dea6-1ff1-6b4d-8f1e31aaf36b",
+   "type": "page",
+   "pageId": "bf249f0b-6a11-3ac2-b1fe-9a611e6b6dad"
+  },
+  {
+   "title": "Comprehension Check",
+   "id": "6e8ddad7-9051-0bec-f87f-9809c03a08c6",
+   "type": "page",
+   "pageId": "6e8ddad7-9051-0bec-f87f-9809c03a08c6"
+  },
+  {
+   "title": "Done",
+   "id": "69d299c4-4662-094d-98a2-01811e8eecf1",
+   "type": "page",
+   "pageId": "f9f38cbc-c346-a5b0-f620-0eaf5f4f4840"
+  }
+ ]
+}

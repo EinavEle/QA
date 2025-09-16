@@ -1,0 +1,301 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2142411962",
+  "source": {
+   "name": "Anonymous Classes",
+   "showName": true,
+   "instructions": "Anonymous classes are mostly replaceable by lambdas",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "9397eccf-de79-ddde-0781-172140759ca8",
+     "correct": true,
+     "answer": "True"
+    },
+    {
+     "_id": "1386980d-c35b-3d98-43bc-e774fd295b82",
+     "correct": false,
+     "answer": "False"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3695399521",
+  "source": {
+   "name": "Function Interfaces 1",
+   "showName": true,
+   "instructions": "A functional interface",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "b80a1649-55d3-afee-de3f-f0a0ee2c68d7",
+     "correct": false,
+     "answer": "Has one abstract method"
+    },
+    {
+     "_id": "fd069116-f728-c5ec-1bd5-f41dbd681029",
+     "correct": false,
+     "answer": "Can be implemented as an anonymous class"
+    },
+    {
+     "_id": "04e056ce-9539-8491-98ca-c2771ec5b5df",
+     "correct": false,
+     "answer": "Can be instantiated with lambda"
+    },
+    {
+     "_id": "29d241ab-3729-fd8e-699c-85d14f64fec6",
+     "correct": true,
+     "answer": "All of the above"
+    },
+    {
+     "_id": "1ff81ab4-5b38-e0fc-4963-eb97b3adee29",
+     "correct": false,
+     "answer": "Answers A + C"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-5716617",
+  "source": {
+   "name": "Method Reference",
+   "showName": true,
+   "instructions": "You should always use method reference when possible",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "385221c3-170e-d3de-7f52-ce54591e52ad",
+     "correct": false,
+     "answer": "True"
+    },
+    {
+     "_id": "9658a87a-cd2f-3255-e743-519fdf814423",
+     "correct": true,
+     "answer": "False"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3752089692",
+  "source": {
+   "name": "Functional Interfaces 3",
+   "showName": true,
+   "instructions": "Which functional interface is implemented by this lambda?\n```\n(Student stu) -> stu.getName().hashCode();\n```",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "4c52d869-db2c-114b-a973-08b5ecabc1a1",
+     "correct": true,
+     "answer": "Function"
+    },
+    {
+     "_id": "8e3c156a-d888-78db-14ee-fec7f23ec8d0",
+     "correct": false,
+     "answer": "Supplier"
+    },
+    {
+     "_id": "bf6d0731-b8ed-c257-4721-73eff15dfb12",
+     "correct": false,
+     "answer": "Predicate"
+    },
+    {
+     "_id": "85f2d3cc-29be-c52e-ba49-4e23e2782233",
+     "correct": false,
+     "answer": "Consumer"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-212913867",
+  "source": {
+   "name": "Functional Interfaces 2",
+   "showName": true,
+   "instructions": "Which functional interface is implemented by this lambda?\n```\n(Student stu) -> stu.getBirthDate().isBefore(LocalDateTime.now().minus(20, ChronoUnit.YEARS));\n```",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "3f1ede17-6e85-89d1-9121-270b7b04d866",
+     "correct": false,
+     "answer": "UnaryOperator"
+    },
+    {
+     "_id": "d38f74a7-505c-0489-ee11-057507b625de",
+     "correct": false,
+     "answer": "Supplier"
+    },
+    {
+     "_id": "f8456e8a-a649-322e-3dd3-162d264ad80b",
+     "correct": true,
+     "answer": "Predicate"
+    },
+    {
+     "_id": "ab8e85ef-6624-d37b-825d-0434aea16810",
+     "correct": false,
+     "answer": "Consumer"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-4241044146",
+  "source": {
+   "name": "Functional Interfaces 4",
+   "showName": true,
+   "instructions": "True or False - `Function` is a functional interface that accepts one argument and returns void.",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "22637334-2dd0-bc7c-3546-3b6c453626a5",
+     "correct": false,
+     "answer": "True"
+    },
+    {
+     "_id": "afff9a41-25f7-1707-5bca-d364a9b2c616",
+     "correct": true,
+     "answer": "False"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]

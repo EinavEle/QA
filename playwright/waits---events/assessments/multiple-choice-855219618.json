@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-855219618",
+	"source": {
+		"name": "Question 2",
+		"showName": true,
+		"instructions": "How many load states does a page have in Playwright?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "5ffae5ee-66f9-0e4e-8557-c02b145b3d5a",
+				"correct": false,
+				"answer": "2"
+			},
+			{
+				"_id": "a0085878-ed0b-efab-0552-ef1e4a5b3d4b",
+				"correct": true,
+				"answer": "3"
+			},
+			{
+				"_id": "b25bc490-c3dd-e01c-33a4-2d4365282a9e",
+				"correct": false,
+				"answer": "4"
+			},
+			{
+				"_id": "5c3822da-6c82-99f1-6cd8-0a6749ffc5ef",
+				"correct": false,
+				"answer": "6"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

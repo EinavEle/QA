@@ -1,0 +1,41 @@
+{
+ "name": "HTML Basics",
+ "children": [
+  {
+   "title": "Intro",
+   "id": "846ec988-2233-aa7b-cdfc-60f7f90796ee",
+   "pageId": "846ec988-2233-aa7b-cdfc-60f7f90796ee",
+   "type": "page"
+  },
+  {
+   "title": "HTML Nodes and Elements",
+   "id": "7bf92183-5b3f-216f-602b-f23372ae2bb3",
+   "pageId": "7bf92183-5b3f-216f-602b-f23372ae2bb3",
+   "type": "page"
+  },
+  {
+   "id": "48951bd1-e940-c547-c217-9dd6175f2cbf",
+   "title": "Structure",
+   "pageId": "c31f520b-f7ca-22c6-99f4-beff41a6c26d",
+   "type": "page"
+  },
+  {
+   "id": "a4f299be-70c9-cb76-1285-c8bee5ea93e0",
+   "title": "HTML Attributes",
+   "pageId": "e982f616-1911-6b75-03f9-22f1ccb7cb69",
+   "type": "page"
+  },
+  {
+   "id": "4694860a-ebf7-2caf-3763-550629a9c6f7",
+   "title": "Common HTML Tags",
+   "pageId": "c85dcb52-4a44-6daf-2cbc-c1a04e067157",
+   "type": "page"
+  },
+  {
+   "id": "1ab11420-6479-bcfc-bf2b-28decd253ee2",
+   "title": "Now You!",
+   "pageId": "a857432a-ba70-96a2-fcd2-6c3f6714eccc",
+   "type": "page"
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-3843293331",
+	"source": {
+		"name": "10",
+		"showName": true,
+		"instructions": "The infra layer in automation testing handles the core business logic and functionalities of the application.\n",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "b93bc972-d82a-8550-6464-af2e62ac045c",
+				"correct": false,
+				"answer": "True"
+			},
+			{
+				"_id": "95ba1aed-7133-0d8c-af0b-9a98c8326c46",
+				"correct": true,
+				"answer": "False"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

@@ -1,0 +1,54 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "3c19bd85-e73d-3ae0-285f-5fa2cc08357b",
+				"answer": "public",
+				"correct": false
+			},
+			{
+				"_id": "e88c0b7a-b2f4-ff3a-d206-2b41b026429e",
+				"answer": "protected",
+				"correct": false
+			},
+			{
+				"_id": "76da7419-3c01-dcf3-5867-ddefc025b7fd",
+				"answer": "package private",
+				"correct": false
+			},
+			{
+				"_id": "3ce066a5-5b71-a202-99e8-a68377196866",
+				"answer": "private",
+				"correct": true
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "A method that is only used by the class itself should be?",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"maxAttemptsCount": 1,
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "Accessibility 1",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"showName": true
+	},
+	"taskId": "multiple-choice-3929692330",
+	"type": "multiple-choice"
+}

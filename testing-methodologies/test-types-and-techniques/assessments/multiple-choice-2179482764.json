@@ -1,0 +1,44 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-2179482764",
+	"source": {
+		"name": "2",
+		"showName": true,
+		"instructions": "True of False - Sanity testing is done to ensure that that the most basic functionality of the system works correctly.\n",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "c1c1d23f-78b6-5e99-9306-9f7ea11708cf",
+				"correct": true,
+				"answer": "True"
+			},
+			{
+				"_id": "fa2cfd46-1ed0-41b0-f7a9-74d464c967f9",
+				"correct": false,
+				"answer": "False"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

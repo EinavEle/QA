@@ -1,0 +1,44 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-2874669099",
+	"source": {
+		"name": "Question 1",
+		"showName": true,
+		"instructions": "The List reporter is the default reporter in Playwright, and it displays failures at the end of the run.",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "7541ac6e-44ba-82fe-a7c1-5081e73e8efb",
+				"correct": true,
+				"answer": "True"
+			},
+			{
+				"_id": "bbc5e47a-c5c6-684a-8967-4cf95ee6fb3b",
+				"correct": false,
+				"answer": "False"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

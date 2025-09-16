@@ -1,0 +1,106 @@
+{
+ "sections": [
+  {
+   "id": "40ab4183-eef0-b2e6-36fc-334d8f07b75e",
+   "title": "Intro",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-40ab.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "34d5994f-1de3-870e-5a06-26d51e0c8d32",
+   "title": "Properties",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Properties-34d5.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "2839daf8-1f4f-17ce-67fe-51e185ddb3b7",
+   "title": "CSS Selectors",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/CSS-Selectors-2839.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "faf38bf7-2db5-e37f-b86c-9d1e36da1be1",
+   "title": "Sport Check",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Sport-Check-faf3.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "cab67d0c-2ca7-cf3d-fffb-b690d9c80ffc",
+   "title": "Specificity",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Specificity-cab6.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "89295611-0312-fe85-d220-f20d1ec5088e",
+   "title": "Display",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Display-8929.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "9245931b-ccf5-674e-0a24-c1831ad80152",
+   "title": "Exercises",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Exercises-9245.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

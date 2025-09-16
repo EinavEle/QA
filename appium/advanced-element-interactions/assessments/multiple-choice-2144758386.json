@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-2144758386",
+	"source": {
+		"name": "Question 2",
+		"showName": true,
+		"instructions": "Explicit wait is…",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "5471d115-8c43-83cf-9ddc-daa5f3bd4199",
+				"correct": false,
+				"answer": "a default wait time for all elements in the script."
+			},
+			{
+				"_id": "570690dc-bb90-df4b-f0b0-a94aefb58707",
+				"correct": true,
+				"answer": "a custom wait time for a specific element or condition."
+			},
+			{
+				"_id": "4826ed18-b839-cb2b-f13b-806cba3a02ad",
+				"correct": false,
+				"answer": "a way to force an element to appear on the page."
+			},
+			{
+				"_id": "5313cc9a-4731-697f-fe79-963718ede6f9",
+				"correct": false,
+				"answer": "a technique used to speed up test execution time."
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

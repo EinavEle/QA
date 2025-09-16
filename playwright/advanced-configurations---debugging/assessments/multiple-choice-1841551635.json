@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-1841551635",
+	"source": {
+		"name": "Question 2",
+		"showName": true,
+		"instructions": "What is parallelism in the context of testing with Playwright?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "17055556-dcb7-673e-27e7-04d92f39d242",
+				"correct": false,
+				"answer": "Running tests in sequence one after the other"
+			},
+			{
+				"_id": "8b0c34fc-c448-4d9b-5340-8f599c6b15a1",
+				"correct": false,
+				"answer": "Running multiple tests simultaneously on separate machines"
+			},
+			{
+				"_id": "33b503c8-8f45-818d-43c5-f8fbcd37c2a6",
+				"correct": true,
+				"answer": "Running multiple tests simultaneously on the same machine"
+			},
+			{
+				"_id": "f76bb604-2337-8e6b-8b95-605e0a3b58e7",
+				"correct": false,
+				"answer": "Running tests in sequence with some dependencies"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

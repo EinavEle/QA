@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-1743443790",
+	"source": {
+		"name": "Question 4",
+		"showName": true,
+		"instructions": "What can we use to better understand test failures?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "7f0c5e34-a619-1961-3616-06899e8941bc",
+				"correct": false,
+				"answer": "The browser console log"
+			},
+			{
+				"_id": "45447575-fb06-c343-6688-184a860e748a",
+				"correct": false,
+				"answer": "Screenshots"
+			},
+			{
+				"_id": "5fdcc56c-87c9-cd9b-15a2-e62c8b6d392e",
+				"correct": false,
+				"answer": "Test log and error"
+			},
+			{
+				"_id": "4225dfd9-2523-adb7-e7fb-a0b2ce6b5fe2",
+				"correct": true,
+				"answer": "All of the above"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

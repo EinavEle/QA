@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-951053569",
+	"source": {
+		"name": "Question 3",
+		"showName": true,
+		"instructions": "What does the waitForResponse() function do in Playwright?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "a762268e-09ce-f1f0-01cb-479c90770a8a",
+				"correct": false,
+				"answer": "Waits for the webpage to load completely"
+			},
+			{
+				"_id": "56591af1-ee9d-98c3-3e37-3ce32cf8dd75",
+				"correct": true,
+				"answer": "Waits for a specific network response to complete"
+			},
+			{
+				"_id": "65c850db-7503-a937-0dbc-16dadd7981bb",
+				"correct": false,
+				"answer": "Pauses the test execution for a specified amount of time"
+			},
+			{
+				"_id": "ad104996-3254-69c2-5ccc-e45aa92357cb",
+				"correct": false,
+				"answer": "Waits for a specific DOM element to become visible"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

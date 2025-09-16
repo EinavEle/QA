@@ -1,0 +1,44 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-2408495030",
+	"source": {
+		"name": "Question 5",
+		"showName": true,
+		"instructions": "True or False - Playwright is a solid, reliable tool backed by a small company with no plans for future improvements\n",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "791b8f51-f675-2e33-f5bc-3aeb24b492ff",
+				"correct": false,
+				"answer": "True"
+			},
+			{
+				"_id": "ba07f6c3-bc72-f04b-334f-00e1af0f824d",
+				"correct": true,
+				"answer": "False"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

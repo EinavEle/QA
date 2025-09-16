@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-1104994332",
+	"source": {
+		"name": "3",
+		"showName": true,
+		"instructions": "What should you be cautious of when using ADB?\n",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "294c756f-7d66-90e9-c8be-a8ed343bb216",
+				"correct": false,
+				"answer": "It can damage your computer's operating system\n"
+			},
+			{
+				"_id": "bb6f7cd6-764d-f2d3-7229-5021a0f3304c",
+				"correct": true,
+				"answer": "Some commands may result in your Android device being permanently disabled\n"
+			},
+			{
+				"_id": "174bfea8-c316-31ce-1381-da97bb1211a8",
+				"correct": false,
+				"answer": "It only works with rooted Android devices\n"
+			},
+			{
+				"_id": "55a3d29a-02d3-1556-3b77-f598506432ef",
+				"correct": false,
+				"answer": "It requires an internet connection to function properly\n"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

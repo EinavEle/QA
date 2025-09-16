@@ -1,0 +1,94 @@
+{
+ "sections": [
+  {
+   "id": "846ec988-2233-aa7b-cdfc-60f7f90796ee",
+   "title": "Intro",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-846e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "7bf92183-5b3f-216f-602b-f23372ae2bb3",
+   "title": "HTML Nodes and Elements",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/HTML-Nodes-and-Elements-7bf9.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "c31f520b-f7ca-22c6-99f4-beff41a6c26d",
+   "title": "Structure",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Structure-c31f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "e982f616-1911-6b75-03f9-22f1ccb7cb69",
+   "title": "HTML Attributes",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/HTML-Attributes-e982.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "c85dcb52-4a44-6daf-2cbc-c1a04e067157",
+   "title": "Common HTML Tags",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Common-HTML-Tags-c85d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "a857432a-ba70-96a2-fcd2-6c3f6714eccc",
+   "title": "Now You!",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Now-You--a857.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

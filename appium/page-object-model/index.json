@@ -1,0 +1,24 @@
+{
+	"title": "Page Object Model",
+	"theme": "light",
+	"scripts": [],
+	"lexikonTopic": "",
+	"suppressPageNumbering": false,
+	"useSubmitButtons": true,
+	"useMarkAsComplete": true,
+	"hideMenu": false,
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideSectionsToggle": false,
+	"hideBackToDashboard": false,
+	"protectLayout": false,
+	"order": [
+		"Intro---Learning-Goals-e90e",
+		"What-is-POM--ed4a",
+		"Implementing-POM-0021",
+		"Spot-Check-3db6",
+		"Testing-with-POM-0d40",
+		"Spot-Check-acf6",
+		"Comprehension-Check-252e"
+	]
+}

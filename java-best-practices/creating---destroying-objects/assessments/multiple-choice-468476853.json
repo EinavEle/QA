@@ -1,0 +1,54 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "6ead15a7-b26e-d640-7542-3949e0b4af0e",
+				"answer": "Performance",
+				"correct": false
+			},
+			{
+				"_id": "06136a85-3295-b14a-081f-8b58143b3190",
+				"answer": "Decoupling",
+				"correct": true
+			},
+			{
+				"_id": "6c3dd981-013f-dae2-8e6f-96669d4c0f3c",
+				"answer": "Cleaner Code",
+				"correct": false
+			},
+			{
+				"_id": "e7e90aa8-64db-0ffc-b7ac-298648212b1b",
+				"answer": "All of the above",
+				"correct": false
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "Injecting a resource into a service dynamically is good for:",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"maxAttemptsCount": 1,
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "Dependency Injection 2",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"showName": true
+	},
+	"taskId": "multiple-choice-468476853",
+	"type": "multiple-choice"
+}

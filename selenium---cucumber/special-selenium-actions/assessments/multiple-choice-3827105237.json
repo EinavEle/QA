@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-3827105237",
+	"source": {
+		"name": "Question 8",
+		"showName": true,
+		"instructions": "Make a copy of the sheet, call it New Pets. On this new sheet, delete all of the columns where the header DOES NOT begin with A.\n\nNow, figure out how many times the word \"Male\" appears on ALL sheets. Your search should be case sensitive (Male, not male).\n\nHow many times?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "bd1dd812-7725-fe15-9243-80e2cb43575a",
+				"correct": true,
+				"answer": "536"
+			},
+			{
+				"_id": "5176d2ba-c9fb-44fd-296c-512271bd965a",
+				"correct": false,
+				"answer": "971"
+			},
+			{
+				"_id": "4cfc5339-781e-0b69-7224-7c7d2df83189",
+				"correct": false,
+				"answer": "260"
+			},
+			{
+				"_id": "d734ed47-cf71-66f1-6dc5-ae6ef192b593",
+				"correct": false,
+				"answer": "Something else"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

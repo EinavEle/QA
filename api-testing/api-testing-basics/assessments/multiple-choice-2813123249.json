@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-2813123249",
+	"source": {
+		"name": "Question 7",
+		"showName": true,
+		"instructions": "Which of the following statements about Postman is true?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "ba66379b-c88d-f41e-f54d-3a435083b1cc",
+				"correct": false,
+				"answer": "Postman is a software tool used by developers to design websites."
+			},
+			{
+				"_id": "06c641cb-0803-686b-0377-49be12fee6ea",
+				"correct": false,
+				"answer": "Postman is only available as a web-based version called Postman Cloud."
+			},
+			{
+				"_id": "f5adb409-fb93-ac12-5166-14cd02aabd81",
+				"correct": false,
+				"answer": "With Postman, developers can easily create requests with only one HTTP method."
+			},
+			{
+				"_id": "a6f78bdc-522f-6bee-189d-aeaa85e2e5bc",
+				"correct": true,
+				"answer": "Postman allows developers to generate documentation for their APIs."
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

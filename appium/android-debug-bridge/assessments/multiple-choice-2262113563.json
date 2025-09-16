@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-2262113563",
+	"source": {
+		"name": "5",
+		"showName": true,
+		"instructions": "What is the purpose of the following ADB command: \"adb push local_file_path /sdcard/remote_file_path\"?\n",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "42ef088a-d246-a69e-8236-9384ad9b0b4d",
+				"correct": false,
+				"answer": "Takes a screenshot of the device's screen\n"
+			},
+			{
+				"_id": "d5299b96-0320-7480-3d99-e0f7e5a39d72",
+				"correct": false,
+				"answer": "Installs an application on the device\n"
+			},
+			{
+				"_id": "26f39701-ab02-a9f0-c605-9f111e59391b",
+				"correct": true,
+				"answer": "Copies a file from the local machine to the device\n"
+			},
+			{
+				"_id": "00e7376e-5e09-9546-ddc8-950e1d2516e2",
+				"correct": false,
+				"answer": "Records the device's screen and saves it to the local machine\n"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

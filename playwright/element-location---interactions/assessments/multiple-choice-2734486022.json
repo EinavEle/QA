@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-2734486022",
+	"source": {
+		"name": "Question 2",
+		"showName": true,
+		"instructions": "Which of the following locator functionality is used to select elements based on a certain criteria or condition?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "7ae98813-f483-7105-d0a1-63d222e3fbe6",
+				"correct": false,
+				"answer": "Nth"
+			},
+			{
+				"_id": "96f77eb6-5680-5896-fa5c-391bbc19219a",
+				"correct": false,
+				"answer": "Count"
+			},
+			{
+				"_id": "65616858-f115-807b-74c6-f305bb621c37",
+				"correct": true,
+				"answer": "Filter"
+			},
+			{
+				"_id": "aba6e829-6f6c-cb28-74ab-f3d65e5cf758",
+				"correct": false,
+				"answer": "None of the above."
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

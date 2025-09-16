@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-3340673811",
+	"source": {
+		"name": "Question 2",
+		"showName": true,
+		"instructions": "When will you use Selenium Action class?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "9c612123-179c-e9e0-451c-b77793184485",
+				"correct": false,
+				"answer": "Always"
+			},
+			{
+				"_id": "e150f8a5-7370-df86-ae9a-2044a83bb7d4",
+				"correct": false,
+				"answer": "When you need to interact with elements on the page"
+			},
+			{
+				"_id": "fc399298-2bac-6863-90ef-780d55f26050",
+				"correct": true,
+				"answer": "When you need to do things that simple webdriver commands can’t do"
+			},
+			{
+				"_id": "98032ca4-3cec-ac3c-d10d-c361695a3797",
+				"correct": false,
+				"answer": "When you want things to happen fast"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

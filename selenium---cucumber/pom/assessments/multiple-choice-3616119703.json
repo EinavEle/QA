@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-3616119703",
+	"source": {
+		"name": "Question 3",
+		"showName": true,
+		"instructions": "What are compound actions?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "a8583817-4754-1fe5-c1ac-7aebd0f55fa3",
+				"correct": false,
+				"answer": "Actions we perform using the keyboard or mouse"
+			},
+			{
+				"_id": "e2544f30-10c7-3cda-a677-0806c409cf82",
+				"correct": true,
+				"answer": "An action flow that involves more than one single action"
+			},
+			{
+				"_id": "a87b42c1-bb24-fe2c-2f6a-81f8706f74fc",
+				"correct": false,
+				"answer": "Actions that require complex code"
+			},
+			{
+				"_id": "c306d65d-2640-9403-937f-bfa9ec69e39f",
+				"correct": false,
+				"answer": "Actions that Selenium can’t perform"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

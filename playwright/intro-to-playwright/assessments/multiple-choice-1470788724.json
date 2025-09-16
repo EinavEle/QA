@@ -1,0 +1,44 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-1470788724",
+	"source": {
+		"name": "Question 11",
+		"showName": true,
+		"instructions": "True or False - Locator is a class in Playwright that is used to find and interact with elements on a web page\n",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "38f19404-542e-7535-e5bc-4ff645c37f7a",
+				"correct": true,
+				"answer": "True"
+			},
+			{
+				"_id": "9e058c4a-e645-1b90-0985-3e149cae1ba1",
+				"correct": false,
+				"answer": "False"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

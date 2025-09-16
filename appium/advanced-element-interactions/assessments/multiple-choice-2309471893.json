@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-2309471893",
+	"source": {
+		"name": "Question 8",
+		"showName": true,
+		"instructions": "Which method is used to select an option from a dropdown list based on its visible text in Appium?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "2bd234ce-0c77-a7ae-ea85-95661bc10947",
+				"correct": false,
+				"answer": "selectByIndex"
+			},
+			{
+				"_id": "b48fa227-281a-8ac3-179f-1959cf88988e",
+				"correct": false,
+				"answer": "selectByValue"
+			},
+			{
+				"_id": "21def407-5142-7a7f-bdb7-771389808345",
+				"correct": true,
+				"answer": "selectByVisibleText"
+			},
+			{
+				"_id": "df343122-592e-b1a8-2dd9-5efb3de9d8f5",
+				"correct": false,
+				"answer": "selectByText"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

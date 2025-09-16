@@ -1,0 +1,44 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-1568296830",
+	"source": {
+		"name": "9",
+		"showName": true,
+		"instructions": "True/False: Failing fast in testing allows testers to catch bugs and issues early, leading to efficient troubleshooting and cost savings.\n",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "e06463c8-0ae6-9e1b-7371-8e245193d829",
+				"correct": true,
+				"answer": "True"
+			},
+			{
+				"_id": "0836cb95-c3d7-c20a-2ae3-39d7fbc65b5a",
+				"correct": false,
+				"answer": "False"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

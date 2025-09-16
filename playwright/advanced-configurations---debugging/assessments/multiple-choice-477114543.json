@@ -1,0 +1,44 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-477114543",
+	"source": {
+		"name": "Question 3",
+		"showName": true,
+		"instructions": "Video recording in Playwright is the preferred method for analyzing test failures and issues during test execution.",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "b88e4fc1-8aff-7628-84f9-c4918dbc79a0",
+				"correct": false,
+				"answer": "True"
+			},
+			{
+				"_id": "21252bf7-43c7-53fc-a618-6f9970a97c52",
+				"correct": true,
+				"answer": "False"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

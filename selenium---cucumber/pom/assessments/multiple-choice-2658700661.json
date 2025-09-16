@@ -1,0 +1,49 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-2658700661",
+	"source": {
+		"name": "Question 1",
+		"showName": true,
+		"instructions": "What is Page Object Model?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "a3d09086-1215-9854-0dac-15ddc4f7a34f",
+				"correct": true,
+				"answer": "A design pattern that models each page to a class"
+			},
+			{
+				"_id": "286fff15-b240-a2e4-e75a-e0ab003f09a2",
+				"correct": false,
+				"answer": "A model of web page design"
+			},
+			{
+				"_id": "c8ad18d1-3994-8823-2a63-0de1756e0dae",
+				"correct": false,
+				"answer": "A testing paradigm"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

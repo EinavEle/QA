@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-2501119558",
+	"source": {
+		"name": "1",
+		"showName": true,
+		"instructions": "Which is not part of the capabilities of infrastructure construction?\n",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "745ad215-2a2c-2591-825b-547194403b0d",
+				"correct": false,
+				"answer": "Each layer is easy to use\n"
+			},
+			{
+				"_id": "c517b0a8-2886-5c8f-ca2e-e068b7472bb2",
+				"correct": false,
+				"answer": "Readability"
+			},
+			{
+				"_id": "198d436e-2e2e-915d-18b3-03ae2cbb8238",
+				"correct": true,
+				"answer": "Code duplication\n"
+			},
+			{
+				"_id": "5df4f18f-9959-e55c-e5ce-812d108a24e5",
+				"correct": false,
+				"answer": "Stable"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

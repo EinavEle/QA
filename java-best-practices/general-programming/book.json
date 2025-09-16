@@ -1,0 +1,83 @@
+{
+ "name": "Java Basics",
+ "children": [
+  {
+   "title": "Intro",
+   "id": "f44815ff-751c-0608-0911-2775bb4789b4",
+   "type": "page",
+   "pageId": "f44815ff-751c-0608-0911-2775bb4789b4"
+  },
+  {
+   "title": "Code Reuse",
+   "id": "b9038503-632a-845f-6212-58ac49611807",
+   "type": "page",
+   "pageId": "b9038503-632a-845f-6212-58ac49611807"
+  },
+  {
+   "title": "Local Variable Scope",
+   "id": "93389eec-6c21-356c-6254-7eedc53a6f26",
+   "type": "page",
+   "pageId": "972c17eb-b616-8218-844d-fe7f662b7c0d"
+  },
+  {
+   "title": "Spot Check 1",
+   "id": "11b33015-ad5a-0adf-48e9-2fd57e24882d",
+   "type": "page",
+   "pageId": "ee0b5c42-8a0e-f150-648f-cc51c99b3dcc"
+  },
+  {
+   "title": "For VS. Foreach",
+   "id": "8a7d5b89-b1a5-6722-2a43-31b90f69f956",
+   "type": "page",
+   "pageId": "6e44eb39-bcb9-9ac1-fce8-c0ac7419cb16"
+  },
+  {
+   "id": "27f56c2d-7f11-e735-436d-ebf2a3cc807b",
+   "title": "Spot Check",
+   "pageId": "09628c3e-2ab0-23a2-aea3-f23892902465",
+   "type": "page"
+  },
+  {
+   "title": "Primitives and boxed primitives",
+   "id": "5bad313d-0400-05e6-58a8-99bfc37398dc",
+   "type": "page",
+   "pageId": "76bf97a2-3e34-5d63-305f-1c9ed6f67453"
+  },
+  {
+   "id": "8cc104cd-2e30-9393-ec3a-5eda51bb4b80",
+   "title": "Spot Check",
+   "pageId": "63e2c178-1fdb-58c2-38d0-8f797f512915",
+   "type": "page"
+  },
+  {
+   "title": "Using Strings",
+   "id": "90eb56ef-36e3-2712-4e9b-f9ce84ffb247",
+   "type": "page",
+   "pageId": "3c35af9c-d8c2-44cb-5791-158108ac1924"
+  },
+  {
+   "id": "2ddcd967-d7b0-3863-31f2-60a4ae8a6684",
+   "title": "Spot Check",
+   "pageId": "916d7e22-4d24-c934-1706-d61338b711d9",
+   "type": "page"
+  },
+  {
+   "title": "Naming Conventions",
+   "id": "4005b625-e29b-eedf-8f96-78e778514260",
+   "type": "page",
+   "pageId": "69942e06-3d86-899c-bccd-2b43d5f9b2de"
+  },
+  {
+   "title": "Comprehension Check",
+   "id": "4b10df2d-6a37-84d3-6b7b-8602180c34e6",
+   "type": "page",
+   "pageId": "40956604-af18-e2ef-f3c7-fee9097d50b5"
+  },
+  {
+   "id": "e4928ef9-0180-0502-dec3-273c2967cf73",
+   "title": "Exercise",
+   "pageId": "6c114270-71ed-6c01-4941-3299c2085f58",
+   "type": "page"
+  }
+ ]
+}

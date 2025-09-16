@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-3734543254",
+	"source": {
+		"name": "Question 9",
+		"showName": true,
+		"instructions": "Which method should be used to obtain the value of test-id attribute in an element?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "04ba531e-5c47-ea30-7b05-1171037fe654",
+				"correct": false,
+				"answer": "Check"
+			},
+			{
+				"_id": "4a30c505-93de-20c3-3a51-fd49fb196d90",
+				"correct": false,
+				"answer": "Select"
+			},
+			{
+				"_id": "ddcb8c6c-5688-9b1c-9a01-19375176e036",
+				"correct": true,
+				"answer": "getAttribute"
+			},
+			{
+				"_id": "db36d549-ccc0-47b9-6122-6070c1a877c9",
+				"correct": false,
+				"answer": "Clear"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

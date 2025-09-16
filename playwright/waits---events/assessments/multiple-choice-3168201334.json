@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-3168201334",
+	"source": {
+		"name": "Question 7",
+		"showName": true,
+		"instructions": "Using the dataset mentioned above, rearrange the columns so it looks like this:\n\n![alt text](.guides/img/tabelPic.png)\n\nNow, hide rows 2-20.\n\nWhat do you see in Row C72?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "2d089f1e-87e9-4f66-5761-1049ed927e71",
+				"correct": false,
+				"answer": "10/19/2017 12:00:00 AM"
+			},
+			{
+				"_id": "80559cd3-4839-d5a6-4996-79d3ece8a1aa",
+				"correct": true,
+				"answer": "11/06/2017 12:00:00 AM"
+			},
+			{
+				"_id": "a70d9f56-4ac0-697c-b029-0e72b82ab97b",
+				"correct": false,
+				"answer": "Regional Animal Services of King County"
+			},
+			{
+				"_id": "6360abfe-d8b3-9fca-5d9b-6b398c02f3a1",
+				"correct": false,
+				"answer": "Something else"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

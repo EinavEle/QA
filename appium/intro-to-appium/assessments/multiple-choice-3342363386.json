@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-3342363386",
+	"source": {
+		"name": "7",
+		"showName": true,
+		"instructions": "In the given configuration, what is \"appium:appPackage\" used for?\n",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "e1e4943e-e8e5-6df4-4897-649c8a44613b",
+				"correct": false,
+				"answer": "Specifying the main activity of the application.\n"
+			},
+			{
+				"_id": "d68ebce7-cdd1-92bf-9165-c2116edec4d6",
+				"correct": true,
+				"answer": "Defining the package name of the application to be tested on Android.\n"
+			},
+			{
+				"_id": "97f57ca7-e3b9-0e40-9b0a-9c0745df626c",
+				"correct": false,
+				"answer": "Setting the hostname of the device.\n"
+			},
+			{
+				"_id": "f79419d0-b314-0aa7-f4dd-f3af47c67b74",
+				"correct": false,
+				"answer": "Specifying the name of the iOS simulator.\n"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

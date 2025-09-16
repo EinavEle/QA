@@ -1,0 +1,44 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-91918880",
+	"source": {
+		"name": "Question 10",
+		"showName": true,
+		"instructions": "True or False - The Page class cannot be used to interact with the browser itself, such as taking screenshots, emulating devices, and intercepting network requests\n",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "3394668f-feaa-f67b-3e15-ec9a960139ad",
+				"correct": false,
+				"answer": "True"
+			},
+			{
+				"_id": "b284c1ce-f836-44b8-901e-a7d3f34ef0a5",
+				"correct": true,
+				"answer": "False"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

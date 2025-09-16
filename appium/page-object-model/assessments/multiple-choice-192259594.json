@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-192259594",
+	"source": {
+		"name": "Question 2",
+		"showName": true,
+		"instructions": "Which design pattern is used in automaion to create more organized and maintainable code?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "7b3e02c9-9c44-278f-a24c-b64e1bc1aab7",
+				"correct": false,
+				"answer": "Singleton pattern"
+			},
+			{
+				"_id": "517678ff-1151-afd5-fb8b-e19ef0ff1383",
+				"correct": false,
+				"answer": "Factory pattern"
+			},
+			{
+				"_id": "563b25d2-9eba-044c-620c-243eb12282bc",
+				"correct": false,
+				"answer": "Decorator pattern"
+			},
+			{
+				"_id": "6512ff7d-df6a-b0d5-116b-1b14ead9f153",
+				"correct": true,
+				"answer": "Page Object Model pattern"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

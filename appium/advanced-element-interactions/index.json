@@ -1,0 +1,26 @@
+{
+	"title": "Appium - Advanced Element Interactions",
+	"theme": "light",
+	"scripts": [],
+	"lexikonTopic": "",
+	"suppressPageNumbering": false,
+	"useSubmitButtons": true,
+	"useMarkAsComplete": true,
+	"hideMenu": false,
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideSectionsToggle": false,
+	"hideBackToDashboard": false,
+	"protectLayout": false,
+	"order": [
+		"Intro---Learning-Goals-73c9",
+		"Waits-b137",
+		"Spot-Check-a5fe",
+		"More-Element-Interactions-d562",
+		"Spot-Check-7d4a",
+		"Lists-and-Tables-ebf6",
+		"Spot-Check-dd80",
+		"Dynamic-Content-0e42",
+		"Comprehension-Check-dd94"
+	]
+}

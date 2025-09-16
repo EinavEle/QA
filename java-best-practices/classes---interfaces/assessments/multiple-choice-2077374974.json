@@ -1,0 +1,54 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "fd7e0706-6014-5e07-0e66-a0b8ebd9ca27",
+				"answer": "Nothing is final",
+				"correct": false
+			},
+			{
+				"_id": "80c31f3c-bb76-c75b-f380-086b21e4eebd",
+				"answer": "Whatever can be final is final (immutable)",
+				"correct": true
+			},
+			{
+				"_id": "b9d65ebd-63ce-b318-1106-e3fe8ce6c5f2",
+				"answer": "Every field has a setter method",
+				"correct": false
+			},
+			{
+				"_id": "323751ed-ce85-25a9-935d-304f3af300cd",
+				"answer": "The class is final",
+				"correct": false
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "In a public mutable class...",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"maxAttemptsCount": 1,
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "Mutability 3",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"showName": true
+	},
+	"taskId": "multiple-choice-2077374974",
+	"type": "multiple-choice"
+}

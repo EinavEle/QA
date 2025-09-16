@@ -1,0 +1,54 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "853be65b-f1c2-eb54-3547-33fcfb85bc6f",
+				"answer": "An abstract class that extends another abstract class",
+				"correct": false
+			},
+			{
+				"_id": "5efbcf31-0351-adb1-639c-08a544405bad",
+				"answer": "A class that implements two interfaces",
+				"correct": false
+			},
+			{
+				"_id": "397d96c5-314a-3001-67cb-8465aa910b72",
+				"answer": "An abstract class that partially implements an interface",
+				"correct": true
+			},
+			{
+				"_id": "11cdeb0b-ce76-d314-842e-3f6c0f29cd2c",
+				"answer": "An interface that extends another interface",
+				"correct": false
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "What is a skeletal implementation?",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"maxAttemptsCount": 1,
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "Interfaces 3",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"showName": true
+	},
+	"taskId": "multiple-choice-4025147951",
+	"type": "multiple-choice"
+}

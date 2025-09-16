@@ -1,0 +1,49 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-1529553102",
+	"source": {
+		"name": "Question 6",
+		"showName": true,
+		"instructions": "What are the benefits of POM? Select all that apply.",
+		"multipleResponse": true,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "133a9056-2fb8-04c7-cdd1-f79d0cd17d01",
+				"correct": false,
+				"answer": "Faster tests\n"
+			},
+			{
+				"_id": "6aff742a-2249-d9a0-a0ec-be22ae842e06",
+				"correct": true,
+				"answer": "More code reuse\n"
+			},
+			{
+				"_id": "9338b8e9-ff12-df76-7b67-f7768f39fd27",
+				"correct": true,
+				"answer": "Separation of Concerns"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

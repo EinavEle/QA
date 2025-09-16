@@ -1,0 +1,47 @@
+{
+ "name": "CSS Basics",
+ "children": [
+  {
+   "title": "Intro",
+   "id": "40ab4183-eef0-b2e6-36fc-334d8f07b75e",
+   "pageId": "40ab4183-eef0-b2e6-36fc-334d8f07b75e",
+   "type": "page"
+  },
+  {
+   "id": "9558a6c3-04a8-8437-8822-fe62c720676f",
+   "title": "Properties",
+   "pageId": "34d5994f-1de3-870e-5a06-26d51e0c8d32",
+   "type": "page"
+  },
+  {
+   "id": "2256a3f5-e280-332c-7d3d-ced33577bf26",
+   "title": "CSS Selectors",
+   "pageId": "2839daf8-1f4f-17ce-67fe-51e185ddb3b7",
+   "type": "page"
+  },
+  {
+   "id": "54262a8c-c1bb-043e-b212-7e8fa7054cb5",
+   "title": "Sport Check",
+   "pageId": "faf38bf7-2db5-e37f-b86c-9d1e36da1be1",
+   "type": "page"
+  },
+  {
+   "id": "f07b23c8-74e0-1221-0dcf-afc9e1be7137",
+   "title": "Specificity",
+   "pageId": "cab67d0c-2ca7-cf3d-fffb-b690d9c80ffc",
+   "type": "page"
+  },
+  {
+   "id": "fd552e5e-916f-a1bb-5242-6bfae7d7e8db",
+   "title": "Display",
+   "pageId": "89295611-0312-fe85-d220-f20d1ec5088e",
+   "type": "page"
+  },
+  {
+   "id": "a6409886-5c52-f583-39a6-b97f6fdbe21b",
+   "title": "Exercises",
+   "pageId": "9245931b-ccf5-674e-0a24-c1831ad80152",
+   "type": "page"
+  }
+ ]
+}

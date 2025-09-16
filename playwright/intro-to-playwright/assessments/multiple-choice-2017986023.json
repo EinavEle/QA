@@ -1,0 +1,44 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-2017986023",
+	"source": {
+		"name": "Question 2",
+		"showName": true,
+		"instructions": "True or False - Puppeteer is a similar library developed by Microsoft in 2019",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "8d2b4100-8fdc-3689-ee9e-cfed1ec1443a",
+				"correct": false,
+				"answer": "True"
+			},
+			{
+				"_id": "8cfb3a81-2863-1035-1eb7-047dcdcde11f",
+				"correct": true,
+				"answer": "False"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

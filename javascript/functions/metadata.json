@@ -1,0 +1,113 @@
+{
+ "sections": [
+  {
+   "id": "03718285-c226-db33-26f7-e37a137a52d9",
+   "title": "Intro",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-0371.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "949a6301-dfb7-1024-0cdc-13bcdcacc3e5",
+   "title": "Parameters & Arguments",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Parameters---Arguments-949a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "6fb1b42f-d832-d4ed-fa80-09050defe806",
+   "title": "Return",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Return-6fb1.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "1f6edd62-8ff8-1466-cfe4-8f47335ed194",
+   "title": "Function Expression vs. Function Declaration, Methods",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Function-Expression-vs--Function-Declaration--Methods-1f6e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "e55c1b30-4a09-cf35-b272-b557cc3a8823",
+   "title": "Spot Check",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Spot-Check-e55c.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "c20b5b67-2101-b384-72c0-c93752342a37",
+   "title": "Exercises",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Exercises-c20b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "6e3f3f25-9878-2361-5bc6-7309614ead38",
+   "title": "Comprehension Check",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Comprehension-Check-6e3f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

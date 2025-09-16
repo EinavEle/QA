@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-1828096707",
+	"source": {
+		"name": "Question 6",
+		"showName": true,
+		"instructions": "Which of the following can we validate in API tests?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "4f200ec6-3ef3-6e23-a05c-ffbac1e05b48",
+				"correct": false,
+				"answer": "The received data"
+			},
+			{
+				"_id": "6fdab461-cbef-6cd2-7f67-ccc62fd74daf",
+				"correct": false,
+				"answer": "The status of the response"
+			},
+			{
+				"_id": "23d4ddf2-643f-95dd-eebe-695aec7f67c5",
+				"correct": false,
+				"answer": "The schema of the response"
+			},
+			{
+				"_id": "4ec81699-9d05-bc90-f185-331d236ed2d6",
+				"correct": true,
+				"answer": "All of the above"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

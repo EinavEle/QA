@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-1019633834",
+	"source": {
+		"name": "Question 7",
+		"showName": true,
+		"instructions": "In Playwright POM, what is the purpose of defining locators as private variables in a class?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "14947e07-8117-b5cd-000d-2fa7b0e03cf5",
+				"correct": false,
+				"answer": "To make them accessible from outside the class."
+			},
+			{
+				"_id": "7b3272f8-fd33-2669-8fa4-7112f27e6970",
+				"correct": true,
+				"answer": "To hide the complexity of internal workings from other classes."
+			},
+			{
+				"_id": "03ca847b-6363-d218-c4ae-a7bb75004ac9",
+				"correct": false,
+				"answer": "To ensure they can be reused across multiple pages."
+			},
+			{
+				"_id": "1f2fc6f4-2b2d-21ef-ddde-f99e4842f141",
+				"correct": false,
+				"answer": "To allow direct interaction with the web elements."
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-890693805",
+	"source": {
+		"name": "1",
+		"showName": true,
+		"instructions": "In which test technique do we test without a pre-made script?\n",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "729e5c6d-9241-42d5-3179-0bb18ea7c9eb",
+				"correct": false,
+				"answer": "Usability Testing"
+			},
+			{
+				"_id": "fe7a4ec3-33b1-1d28-0e0d-a33511629e0b",
+				"correct": false,
+				"answer": "State transition testing\n"
+			},
+			{
+				"_id": "d626b8b0-a6ec-fc4c-61ad-d4e30dd5f9c4",
+				"correct": true,
+				"answer": "Exploratory testing\n"
+			},
+			{
+				"_id": "a18a13ee-ee32-8e29-6df1-d02c923cbfef",
+				"correct": false,
+				"answer": "Regression testing"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"title": "Planning, Execution, and Bugs",
+	"theme": "light",
+	"scripts": [],
+	"lexikonTopic": "",
+	"suppressPageNumbering": false,
+	"useSubmitButtons": true,
+	"useMarkAsComplete": true,
+	"hideMenu": false,
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideSectionsToggle": false,
+	"hideBackToDashboard": false,
+	"protectLayout": false,
+	"order": [
+		"Intro---Learning-Goals-a165",
+		"Coverage-8263",
+		"Software-Development-Life-Cycle--SDLC--a0ff",
+		"Test-Planning-9f98",
+		"Spot-Check-62cf",
+		"Test-Execution-2807",
+		"Defects--Bugs--7562",
+		"Spot-Check-a8b2",
+		"Exercise-123b"
+	]
+}

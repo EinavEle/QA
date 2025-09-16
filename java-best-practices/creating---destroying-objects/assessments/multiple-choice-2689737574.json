@@ -1,0 +1,49 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "ac17d20a-7b82-b7c4-dd0e-0374fde953a4",
+				"answer": "Never",
+				"correct": false
+			},
+			{
+				"_id": "5da73263-0e8b-3002-9687-75254c24fb2c",
+				"answer": "Always",
+				"correct": false
+			},
+			{
+				"_id": "e1206ce4-b174-e4ed-cd8b-cb157e6953f5",
+				"answer": "In case it's not happening automatically",
+				"correct": true
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "When should you null-out object references?",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"maxAttemptsCount": 1,
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "Objects",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"showName": true
+	},
+	"taskId": "multiple-choice-2689737574",
+	"type": "multiple-choice"
+}

@@ -1,0 +1,47 @@
+{
+ "name": "Generics",
+ "children": [
+  {
+   "title": "Intro",
+   "id": "3a678918-969e-ae1e-2b8d-399d2031116d",
+   "type": "page",
+   "pageId": "3a678918-969e-ae1e-2b8d-399d2031116d"
+  },
+  {
+   "title": "Generic Types",
+   "id": "fbf34b1d-de16-fcf8-a3c9-1945dfa39f34",
+   "type": "page",
+   "pageId": "fbf34b1d-de16-fcf8-a3c9-1945dfa39f34"
+  },
+  {
+   "title": "Spot Check",
+   "id": "f4a8339a-3992-9866-549e-6d4fe2a03491",
+   "type": "page",
+   "pageId": "fa4e6ba9-e540-7f05-7d79-ccab6b6a7d8c"
+  },
+  {
+   "title": "List vs. Arrays",
+   "id": "decf61cd-548b-3f06-3c26-8519b4c61d76",
+   "type": "page",
+   "pageId": "9724cc9d-ced6-ec67-cc21-a8cfd6ecf91e"
+  },
+  {
+   "title": "Generic Methods",
+   "id": "1270c8c2-37ac-5684-78aa-f7b31e9ab3f1",
+   "type": "page",
+   "pageId": "028aab0e-d6f6-3eb9-dfe0-fc8f90d00994"
+  },
+  {
+   "title": "Comprehension Check",
+   "id": "07fa2c04-b811-05fc-fa80-3999c046f50b",
+   "type": "page",
+   "pageId": "b6b1e5fe-62e9-269a-1ba8-614902adeb4c"
+  },
+  {
+   "title": "Exercise",
+   "id": "d13d2a08-366f-af92-aea8-b20dcf5726aa",
+   "type": "page",
+   "pageId": "693178c6-25e3-e4b1-f9dc-0f5426ffae29"
+  }
+ ]
+}

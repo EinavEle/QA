@@ -1,0 +1,31 @@
+{
+	"title": "Advanced Configurations & Debugging",
+	"theme": "light",
+	"scripts": [],
+	"lexikonTopic": "",
+	"suppressPageNumbering": false,
+	"useSubmitButtons": true,
+	"useMarkAsComplete": true,
+	"hideMenu": false,
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideSectionsToggle": false,
+	"hideBackToDashboard": false,
+	"protectLayout": false,
+	"order": [
+		"Intro---Learning-Goals-80d9",
+		"Parallelism-9a93",
+		"Test-Annotations---Tags-4c25",
+		"Spot-Check-d191",
+		"Executing-from-Command-Line-3d39",
+		"Config-Playwright-6d11",
+		"Reporters-c06d",
+		"Spot-Check-6d29",
+		"Tracing-95b2",
+		"Video-a591",
+		"UI-Mode-b023",
+		"Spot-Check-e156",
+		"Exercise-b814",
+		"Comprehension-Check-72ca"
+	]
+}

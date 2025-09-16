@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-2879501551",
+	"source": {
+		"name": "Question 4",
+		"showName": true,
+		"instructions": "What does the method sendKeys() do?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "af9a7d89-9070-4589-7c25-bc03a2b929e4",
+				"correct": false,
+				"answer": "Writes data into an input field\n"
+			},
+			{
+				"_id": "b9bf5da3-3bfa-7916-a5fb-b92107d3f962",
+				"correct": false,
+				"answer": "Sets the text of a div\n"
+			},
+			{
+				"_id": "78dacfb0-11fe-7a37-800b-67750526cefc",
+				"correct": false,
+				"answer": "Sends keys like RETURN/ESC/ARROW_UP to an element"
+			},
+			{
+				"_id": "34882b54-fcec-8ad7-860d-32aacff80630",
+				"correct": true,
+				"answer": "A and C"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

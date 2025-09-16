@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-2501729733",
+	"source": {
+		"name": "Question 6",
+		"showName": true,
+		"instructions": "Which of the following is a benefit of independent tests?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "3b6464ba-d239-27eb-354e-c06742793f10",
+				"correct": false,
+				"answer": "They increase the complexity of the testing process."
+			},
+			{
+				"_id": "8e26661e-7f4c-8691-5abb-ab8440e40951",
+				"correct": true,
+				"answer": "They make debugging and troubleshooting easier."
+			},
+			{
+				"_id": "2caa4049-8227-f18f-5662-f7443dfec3f0",
+				"correct": false,
+				"answer": "They rely on other tests and external dependencies."
+			},
+			{
+				"_id": "11e2a952-e732-6281-59c7-059e6f6e2ac2",
+				"correct": false,
+				"answer": "They reduce test coverage."
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

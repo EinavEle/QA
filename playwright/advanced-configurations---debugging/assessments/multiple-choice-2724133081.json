@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-2724133081",
+	"source": {
+		"name": "Question 10",
+		"showName": true,
+		"instructions": "How can you enable tracing in Playwright?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "4b4434d1-e55a-d240-836e-47f2783a8967",
+				"correct": false,
+				"answer": "Use the --trace option when running the tests"
+			},
+			{
+				"_id": "2784069a-7652-b31e-fe0f-22bcb96a72f4",
+				"correct": true,
+				"answer": "Set trace: 'on' in the Playwright config file"
+			},
+			{
+				"_id": "c9303839-e214-9a4b-059b-ff651bb62e37",
+				"correct": false,
+				"answer": "Use the trace() function in the test code"
+			},
+			{
+				"_id": "3453d41f-cf4d-4fc1-f5af-40fb60e2d90f",
+				"correct": false,
+				"answer": "Enable tracing in the browser's developer tools"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

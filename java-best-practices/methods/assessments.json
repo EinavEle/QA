@@ -1,0 +1,345 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3346349377",
+  "source": {
+   "name": "Parameter Validation 1",
+   "showName": true,
+   "instructions": "True or False - Assertions are an internal tool and will only throw errors if turned on",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "bb3f5f4b-6298-7f38-10f2-76ecb65c259d",
+     "correct": true,
+     "answer": "True"
+    },
+    {
+     "_id": "da131568-2098-9a95-d339-57788b489dbe",
+     "correct": false,
+     "answer": "False"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1568099825",
+  "source": {
+   "name": "Parameter Validation 2",
+   "showName": true,
+   "instructions": "What are the risks of not using parameter validation?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "0f281d3b-aaac-a222-0329-5ee1f70ea31f",
+     "correct": false,
+     "answer": "The root of an error could be harder to find"
+    },
+    {
+     "_id": "57a5ffd2-a001-c25c-2eb3-de50daebcf52",
+     "correct": false,
+     "answer": "A method might be invoked with illegal values"
+    },
+    {
+     "_id": "12fe9584-a2d4-4966-0b62-a3658b467b39",
+     "correct": false,
+     "answer": "Our program will be slower"
+    },
+    {
+     "_id": "3d37d4e0-fe87-06a8-496c-54e4f28319ad",
+     "correct": false,
+     "answer": "All of the above"
+    },
+    {
+     "_id": "b000fa80-e69c-88a4-5ad1-d3b5e10367ca",
+     "correct": true,
+     "answer": "Answers A & B are correct"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3605632601",
+  "source": {
+   "name": "Defensive Copies 1",
+   "showName": true,
+   "instructions": "When should you defensively copy an object?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "d71cf4c5-c35c-54de-8c2a-6e2a8e033eac",
+     "correct": false,
+     "answer": "When writing a public API"
+    },
+    {
+     "_id": "8c447e08-5bf4-867b-a671-d6dc84d7dc78",
+     "correct": false,
+     "answer": "When using classes out side my package"
+    },
+    {
+     "_id": "a40a0025-983f-a178-60bb-b6d14f4293ba",
+     "correct": true,
+     "answer": "When using mutables inside an immutable class"
+    },
+    {
+     "_id": "e49bb37c-9887-dc4b-d4db-bd89758c5a24",
+     "correct": false,
+     "answer": "None of the above"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2527689170",
+  "source": {
+   "name": "Defensive Copies 2",
+   "showName": true,
+   "instructions": "True or False - This class is completely safe from modifications of its internal fields.\n```\npublic final class Period {\n    private final Date start;\n    private final Date end;\n\n    /**\n     * @param start the beginning of the period\n     * @param end   the end of the period; must not precede start\n     * @throws IllegalArgumentException if start is after end\n     * @throws NullPointerException     if start or end is null\n     */\n    public Period(Date start, Date end) {\n        if (start.compareTo(end) > 0)\n            throw new IllegalArgumentException(\n                    start + \" after \" + end);\n        this.start = start;\n        this.end = end;\n    }\n\n    public Date start() {\n        return new Date(start.getTime());\n    }\n\n    public Date end() {\n        return new Date(end.getTime());\n    }\n}\n```",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "41a48b81-f72c-383a-95c5-41fbd03116d7",
+     "correct": false,
+     "answer": "True"
+    },
+    {
+     "_id": "0ffad464-1628-7194-082d-791bd245a134",
+     "correct": true,
+     "answer": "False"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1618528386",
+  "source": {
+   "name": "Empties And Nulls",
+   "showName": true,
+   "instructions": "Why should we return empty collections and not nulls?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "57ca0557-dbd3-6f87-dbcc-2dff0e8877ee",
+     "correct": true,
+     "answer": "It requires less code to be written."
+    },
+    {
+     "_id": "ad0e277c-caa3-9fab-56e2-6e0936cf9a11",
+     "correct": false,
+     "answer": "It is faster"
+    },
+    {
+     "_id": "9433c066-f7fd-b213-4977-39a319af070f",
+     "correct": false,
+     "answer": "It is more memory efficient"
+    },
+    {
+     "_id": "826063a2-2e92-53a8-71d4-3c5a8425e2a0",
+     "correct": false,
+     "answer": "It is more generic"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2565398780",
+  "source": {
+   "name": "Optionals 1",
+   "showName": true,
+   "instructions": "We should use `Optional` to return `Integer`",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "20bc31a9-c6e9-70d1-ff90-c12e03c16f3d",
+     "correct": true,
+     "answer": "True"
+    },
+    {
+     "_id": "af399ee4-43f9-2576-6357-a4139e1e0c22",
+     "correct": false,
+     "answer": "False"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2441406515",
+  "source": {
+   "name": "Optionals 3",
+   "showName": true,
+   "instructions": "`Optional` has better performance than returning nulls",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "1a54c97b-51c7-8794-dc0b-2edf0cbb4404",
+     "correct": false,
+     "answer": "True"
+    },
+    {
+     "_id": "38837a21-a17d-5015-cc82-60cfe449707b",
+     "correct": true,
+     "answer": "False"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]

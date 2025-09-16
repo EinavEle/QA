@@ -1,0 +1,27 @@
+{
+	"title": "Testing With Selenium",
+	"theme": "light",
+	"scripts": [],
+	"lexikonTopic": "",
+	"suppressPageNumbering": false,
+	"useSubmitButtons": true,
+	"useMarkAsComplete": true,
+	"hideMenu": false,
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideSectionsToggle": false,
+	"hideBackToDashboard": false,
+	"protectLayout": false,
+	"order": [
+		"Intro---Learning-Goals-8a49",
+		"Your-First-Selenium-Test-827a",
+		"Combining-API-with-UI-07de",
+		"Spot-Check-d35d",
+		"Common-Errors-dc5c",
+		"Spot-Check-61f8",
+		"Useful-Tools-5e5a",
+		"Spot-Check-65fd",
+		"Exercise-41a8",
+		"Comprehension-Check-857b"
+	]
+}

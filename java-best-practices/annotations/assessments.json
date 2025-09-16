@@ -1,0 +1,100 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3130987670",
+  "source": {
+   "name": "Annotations 1",
+   "showName": true,
+   "instructions": "Annotations are used to mark entities for specific use",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "5471ac85-82e9-f4b3-2176-ddfe793c5de1",
+     "correct": true,
+     "answer": "True"
+    },
+    {
+     "_id": "89e413ed-12a5-0528-8e95-630722079f21",
+     "correct": false,
+     "answer": "False"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1745253614",
+  "source": {
+   "name": "Annotations 2",
+   "showName": true,
+   "instructions": "You can annotate the following in Java:",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "d562bc49-d97d-a1a7-bcf1-dd09f2af5a63",
+     "correct": false,
+     "answer": "Fields"
+    },
+    {
+     "_id": "c7415b0b-5c0c-66b2-4f65-41eeea336835",
+     "correct": false,
+     "answer": "Methods"
+    },
+    {
+     "_id": "d36f2ec8-c45d-a5bf-46a1-01040ff524ea",
+     "correct": false,
+     "answer": "Classes"
+    },
+    {
+     "_id": "166fbb4f-42f1-62bd-a34b-efb6c4e1e936",
+     "correct": true,
+     "answer": "All of the above"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]

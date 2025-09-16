@@ -1,0 +1,44 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-1998136275",
+	"source": {
+		"name": "Question 4",
+		"showName": true,
+		"instructions": "The \"isEnabled\" method is used to check if an element is visible on the mobile app screen.",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "fb4732d0-d411-37dc-41ab-8666bab31614",
+				"correct": false,
+				"answer": "True"
+			},
+			{
+				"_id": "d985aa06-1c1d-cc62-3d4a-c033ede4f17f",
+				"correct": true,
+				"answer": "False"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-2773096602",
+	"source": {
+		"name": "Question 4",
+		"showName": true,
+		"instructions": "What is a “step” in Cucumber?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "c1e4e06a-6c69-808c-086f-f742f3a5b829",
+				"correct": false,
+				"answer": "A method annotated with Given/When/Then"
+			},
+			{
+				"_id": "a5a7755d-bbdc-5013-3ba7-6bd179e0b313",
+				"correct": false,
+				"answer": "A single action in the test"
+			},
+			{
+				"_id": "972ffb3f-879a-eb7f-364a-37f35b994922",
+				"correct": false,
+				"answer": "A line of text that when executed runs a specific method"
+			},
+			{
+				"_id": "27caa6a6-d277-7b68-614d-774083211df5",
+				"correct": true,
+				"answer": "All of the above"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

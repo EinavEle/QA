@@ -1,0 +1,44 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-1859936615",
+	"source": {
+		"name": "Question 5",
+		"showName": true,
+		"instructions": "Polymorphism in POM enables objects of different classes to be treated as if they were of the same class.",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "98d063c4-55cb-8db2-8304-cef24f5608cb",
+				"correct": true,
+				"answer": "True"
+			},
+			{
+				"_id": "295e7fff-f5a6-a8d1-c368-5ffe90f94ba1",
+				"correct": false,
+				"answer": "False"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

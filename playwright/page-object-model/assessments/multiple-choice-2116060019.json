@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-2116060019",
+	"source": {
+		"name": "Question 1",
+		"showName": true,
+		"instructions": "In Playwright, what does POM stand for?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "77d86a62-6fce-82c2-ffb3-a3125d6e8392",
+				"correct": false,
+				"answer": "Plain Old Model"
+			},
+			{
+				"_id": "30dbe841-d353-6679-ee5f-7e2ac35b51c6",
+				"correct": true,
+				"answer": "Page Object Model"
+			},
+			{
+				"_id": "8b60bfc8-e836-72d2-206f-89ec5e03678d",
+				"correct": false,
+				"answer": "Playwright Object Model"
+			},
+			{
+				"_id": "e829233b-3c83-c1eb-5156-799983e42108",
+				"correct": false,
+				"answer": "Project Organization Method"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

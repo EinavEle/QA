@@ -1,0 +1,29 @@
+{
+ "name": "Enums",
+ "children": [
+  {
+   "title": "Intro",
+   "id": "5c1d5c1e-0c46-7d4d-c5e8-ce6ce720c6ed",
+   "pageId": "5c1d5c1e-0c46-7d4d-c5e8-ce6ce720c6ed",
+   "type": "page"
+  },
+  {
+   "title": "Enums",
+   "id": "7a0839dd-c3cc-b59e-6511-a7049accb802",
+   "pageId": "7a0839dd-c3cc-b59e-6511-a7049accb802",
+   "type": "page"
+  },
+  {
+   "id": "9bbc706b-d2fd-3388-3bf7-8a250c00e727",
+   "title": "Comprehension Check",
+   "pageId": "a5611447-a6de-f32d-405c-66afa59734a6",
+   "type": "page"
+  },
+  {
+   "id": "ef291d52-b938-c578-7d04-69f34311c3f3",
+   "title": "Exercise",
+   "pageId": "c03f98f6-d4e1-4232-6340-76074a3e87b9",
+   "type": "page"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-4013670959",
+	"source": {
+		"name": "7",
+		"showName": true,
+		"instructions": "Which of the following best describes the concept of \"Fail Fast\" in testing?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "712807e4-2470-402e-f068-608ef6e0faee",
+				"correct": false,
+				"answer": "A testing approach that deliberately introduces failures to assess system resilience.\n"
+			},
+			{
+				"_id": "016f3adc-3217-02f3-4799-568844caeb37",
+				"correct": true,
+				"answer": "A testing strategy that prioritizes failure detection and reporting as early as possible."
+			},
+			{
+				"_id": "ed9faca0-897a-9216-09ef-fffd935cb501",
+				"correct": false,
+				"answer": "A testing technique that focuses on identifying and fixing bugs during the post-production phase."
+			},
+			{
+				"_id": "c8d9af17-5a0a-9dcb-a2d3-1e5d5beff200",
+				"correct": false,
+				"answer": "A testing methodology that emphasizes extensive test case coverage to minimize failure rates."
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

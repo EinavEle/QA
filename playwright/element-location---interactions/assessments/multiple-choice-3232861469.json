@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-3232861469",
+	"source": {
+		"name": "Question 7",
+		"showName": true,
+		"instructions": "How should you interact with elements inside an iFrame?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "bd00dc0f-4310-7cc0-3642-f0113e8afda5",
+				"correct": true,
+				"answer": "Locate them just like any other element"
+			},
+			{
+				"_id": "25762e69-522e-b06d-247c-5fd07695a090",
+				"correct": false,
+				"answer": "You can’t use iFrames in Playwright"
+			},
+			{
+				"_id": "effbe542-27a8-59cb-f87a-aaf39cd78672",
+				"correct": false,
+				"answer": "Use switchTo() to get inside the iFrame"
+			},
+			{
+				"_id": "3328d240-7227-907b-df9f-010c6b1ec3d3",
+				"correct": false,
+				"answer": "Use a frame locator"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

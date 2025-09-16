@@ -1,0 +1,252 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3534494785",
+  "source": {
+   "name": "Error handling",
+   "showName": true,
+   "instructions": "Which one is better?\nWith regards to early error detection",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "5822f518-23b1-f45c-910e-32e81843c6d0",
+     "correct": true,
+     "answer": "Throwing exceptions"
+    },
+    {
+     "_id": "63124283-4da9-8d14-a5e7-f64bcd558363",
+     "correct": false,
+     "answer": "Logging errors to a file"
+    },
+    {
+     "_id": "0550374e-353b-bd6c-d0f3-f67c9483f246",
+     "correct": false,
+     "answer": "Ignoring errors"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-322444438",
+  "source": {
+   "name": "Which variable is disposed first?",
+   "showName": true,
+   "instructions": "```\npublic bool test(int num){\n  int x=1;\n  for(int i=1; i<3; i++){\n    System.out.println(\"this is i \" + i);\n  }\n  return x>num;\n}\n```",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "4959eb67-5dfd-0afd-c94a-33ce51a57b46",
+     "correct": false,
+     "answer": "num"
+    },
+    {
+     "_id": "042ddb0a-56cb-50c0-1f97-95471446d571",
+     "correct": false,
+     "answer": "x"
+    },
+    {
+     "_id": "fa3f9fc1-d55a-99cf-9bc7-f8ffa501d435",
+     "correct": true,
+     "answer": "i"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3956955116",
+  "source": {
+   "name": "For/Foreach",
+   "showName": true,
+   "instructions": "When you should not use for each?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "d239f86f-29af-c242-4058-4d964c31ea7e",
+     "correct": false,
+     "answer": "When printing all items in an array"
+    },
+    {
+     "_id": "6062e91b-b1d8-6278-95cd-3a0e75243ebe",
+     "correct": false,
+     "answer": "When working with hash maps"
+    },
+    {
+     "_id": "ac013eac-cffc-ff58-9e25-203e16e7bc00",
+     "correct": true,
+     "answer": "When modifying the collection while iterating"
+    },
+    {
+     "_id": "3e3a5030-50bd-6aef-e6ff-8564ddebca3f",
+     "correct": false,
+     "answer": "When it is possible to use for instead"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2370551751",
+  "source": {
+   "name": "Boxed primitives",
+   "showName": true,
+   "instructions": "Which is correct?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "b785a68f-3159-f481-3493-96ffc11e9a39",
+     "correct": false,
+     "answer": "```\nprivate bool isBigger(int x){\n    return x != null && x > 10;\n}\n```"
+    },
+    {
+     "_id": "cc523dfe-07d3-d3b9-4373-88296b27c217",
+     "correct": true,
+     "answer": "```\nprivate bool isBigger(Integer x){\n    return x != null && x > 10;\n}\n```"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3625361664",
+  "source": {
+   "name": "Using strings",
+   "showName": true,
+   "instructions": "When you should not use strings?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "268b8390-d7a5-504e-d666-062d3c72aa2a",
+     "correct": false,
+     "answer": "When you should use enums"
+    },
+    {
+     "_id": "3cd3de54-a125-97d4-f67f-ecfbf5cff25e",
+     "correct": false,
+     "answer": "When you should use a class"
+    },
+    {
+     "_id": "6c3a1b7d-f583-a03c-01ab-92c8c5d2a68c",
+     "correct": false,
+     "answer": "When you should use a different type"
+    },
+    {
+     "_id": "92bff223-57bc-d71d-a5d2-171fc3eb7ca4",
+     "correct": true,
+     "answer": "All of the above"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]

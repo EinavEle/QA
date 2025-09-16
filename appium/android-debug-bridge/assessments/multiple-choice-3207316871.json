@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-3207316871",
+	"source": {
+		"name": "4",
+		"showName": true,
+		"instructions": "Which ADB command is used to list all connected devices/emulators?\n",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "0148b5f9-8e94-6033-737f-68311c9cef4f",
+				"correct": true,
+				"answer": "adb devices\n"
+			},
+			{
+				"_id": "2fb13e7c-a9d7-21b0-99ec-9a069a7009c6",
+				"correct": false,
+				"answer": "adb shell\n"
+			},
+			{
+				"_id": "fbe86d40-8556-1115-dc42-1aea8f5e0593",
+				"correct": false,
+				"answer": "adb install\n"
+			},
+			{
+				"_id": "91984ab6-b4c7-4fed-dee0-b1435c4e8cdf",
+				"correct": false,
+				"answer": "adb logcat\n"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

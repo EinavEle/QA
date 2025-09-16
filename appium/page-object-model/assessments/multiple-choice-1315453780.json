@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-1315453780",
+	"source": {
+		"name": "Question 4",
+		"showName": true,
+		"instructions": "In POM, what is the purpose of encapsulation?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "015593ac-982f-0780-21aa-d902255c26a8",
+				"correct": false,
+				"answer": "To create a hierarchy of classes"
+			},
+			{
+				"_id": "17bf7e00-206d-bb3b-dfcc-060d1494e9b6",
+				"correct": false,
+				"answer": "To select relevant information about an object"
+			},
+			{
+				"_id": "59ad371a-0963-59a5-d51e-bfdcf7824b97",
+				"correct": true,
+				"answer": "To bundle data and behavior within a single unit"
+			},
+			{
+				"_id": "fa49b4a3-a5ce-3eed-bf21-f206411ac7c6",
+				"correct": false,
+				"answer": "To treat objects of different classes as if they were of the same class"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

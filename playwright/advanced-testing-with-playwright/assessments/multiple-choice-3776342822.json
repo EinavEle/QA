@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-3776342822",
+	"source": {
+		"name": "Question 6",
+		"showName": true,
+		"instructions": "When is it appropriate to use authentication in Playwright tests?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "11758278-c97b-b6de-293c-65697b6d6a75",
+				"correct": false,
+				"answer": "When multiple tests require the same setup"
+			},
+			{
+				"_id": "2df109ae-3393-ad66-aad3-1b9266b224a1",
+				"correct": false,
+				"answer": "When tests need to mess with the server-side data"
+			},
+			{
+				"_id": "13699ca2-f0d5-c420-ef08-b0e5293a36f7",
+				"correct": true,
+				"answer": "When tests need to run simultaneously with different accounts"
+			},
+			{
+				"_id": "f9bd5fcd-ca57-3049-70d3-f99e5d8c955a",
+				"correct": false,
+				"answer": "When tests need to use different browsers"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

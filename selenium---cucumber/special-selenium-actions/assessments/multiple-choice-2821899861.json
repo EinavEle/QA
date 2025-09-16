@@ -1,0 +1,49 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-2821899861",
+	"source": {
+		"name": "Question 4",
+		"showName": true,
+		"instructions": "What command should you use to execute JavaScript?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "a6f1f0bd-961e-9c21-7b0a-93b6e6b24800",
+				"correct": false,
+				"answer": "sendKeys()"
+			},
+			{
+				"_id": "b22ce41f-f440-c7fc-b146-fe0cf672a0de",
+				"correct": true,
+				"answer": "executeScript()"
+			},
+			{
+				"_id": "2206faa2-2b9d-aa28-8ce8-4052de7ba79f",
+				"correct": false,
+				"answer": "assertEquals()"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

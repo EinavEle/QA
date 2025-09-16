@@ -1,0 +1,28 @@
+{
+	"title": "Cucumber Basics",
+	"theme": "light",
+	"scripts": [],
+	"lexikonTopic": "",
+	"suppressPageNumbering": false,
+	"useSubmitButtons": true,
+	"useMarkAsComplete": true,
+	"hideMenu": false,
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideSectionsToggle": false,
+	"hideBackToDashboard": false,
+	"protectLayout": false,
+	"order": [
+		"Intro-and-Learning-Goals-4d4f",
+		"What-is-BDD--0bd1",
+		"Installation-And-Running-1eab",
+		"What-is-Cucumber--4201",
+		"Features-and-Scenarios-c6b8",
+		"Spot-Check-ab87",
+		"Steps-4b75",
+		"Spot-Check-7287",
+		"Step-Syntax-and-Conventions-9a4f",
+		"Exercise-c508",
+		"Comprehension-Check-1422"
+	]
+}

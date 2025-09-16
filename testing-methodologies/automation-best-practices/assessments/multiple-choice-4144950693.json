@@ -1,0 +1,59 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-4144950693",
+	"source": {
+		"name": "4",
+		"showName": true,
+		"instructions": "Which of the following statements is true regarding hybrid tests?\n",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "d0960907-8b86-4d46-c657-c43600ca62fb",
+				"correct": false,
+				"answer": "Hybrid tests combine UI testing with performance testing.\n"
+			},
+			{
+				"_id": "cd987c2b-08d8-f29f-4275-bc57bb5ff7b4",
+				"correct": false,
+				"answer": "Hybrid tests only focus on API functionality and data consistency.\n"
+			},
+			{
+				"_id": "7c985178-961e-3010-4a2c-62039c106c87",
+				"correct": false,
+				"answer": "Hybrid tests are not necessary for applications relying on APIs.\n"
+			},
+			{
+				"_id": "744f7bda-71c5-4ce1-6a0a-4341c1b6b403",
+				"correct": true,
+				"answer": "Hybrid tests provide a comprehensive view of the system by testing both API and UI aspects."
+			},
+			{
+				"_id": "bc235b5c-23e2-05df-9e48-5438debdb81e",
+				"correct": false,
+				"answer": "Hybrid tests are exclusively performed using tools like Postman.\n"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

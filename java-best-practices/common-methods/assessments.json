@@ -1,0 +1,364 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1138187637",
+  "source": {
+   "name": "Equals 1",
+   "showName": true,
+   "instructions": "True or False - You should always override `equals()` in your classes",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "5f171f8f-c11a-62c3-b067-2fdaaa01ed1b",
+     "correct": false,
+     "answer": "True"
+    },
+    {
+     "_id": "ad3eee76-2238-1bdd-5202-1478273397bc",
+     "correct": true,
+     "answer": "False"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3592653440",
+  "source": {
+   "name": "Equals 2",
+   "showName": true,
+   "instructions": "True or False - If x.equals(y) and y.equals(z), x.equals(z) must return:",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "7977ceca-6955-54ed-e697-a7565a688927",
+     "correct": true,
+     "answer": "True"
+    },
+    {
+     "_id": "f57601c1-dd38-28a3-607e-d60496d2fe5b",
+     "correct": false,
+     "answer": "False"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1460982489",
+  "source": {
+   "name": "Equals 3",
+   "showName": true,
+   "instructions": "When is it a good idea to override `equals()`?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "d8052546-fe95-a26f-7a13-012c2009b27d",
+     "correct": false,
+     "answer": "When each instance is unique"
+    },
+    {
+     "_id": "51dc7b63-59e3-cae8-8947-a55108d0f0f0",
+     "correct": true,
+     "answer": "When a logical comparison of data is required"
+    },
+    {
+     "_id": "8839eb2a-99e5-7801-80d8-c11744d7d660",
+     "correct": false,
+     "answer": "When `equals()` is never called"
+    },
+    {
+     "_id": "355f3450-5f3c-1c64-9432-e9a055fe0b8b",
+     "correct": false,
+     "answer": "When a superclass already overrides `equals()`"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-794439875",
+  "source": {
+   "name": "Hash Code 1",
+   "showName": true,
+   "instructions": "Is this a correct implementation of overriding `hashCode()`?\n```\nclass CarModel {\n    private final String manufacturer;\n    private final String model;\n    private final int year;\n\n    public CarModel(String manufacturer, String model, int year) {\n        this.manufacturer = manufacturer;\n        this.model = model;\n        this.year = year;\n    }\n\n    @Override\n    public boolean equals(Object o) {\n        if (this == o) return true;\n        if (!(o instanceof CarModel)) return false;\n\n        CarModel carModel = (CarModel) o;\n\n        if (year != carModel.year) return false;\n        if (!manufacturer.equals(carModel.manufacturer)) return false;\n        return model.equals(carModel.model);\n    }\n\n    @Override\n    public int hashCode() {\n        int result = manufacturer.hashCode();\n        result = 31 * result + model.hashCode();\n        return result;\n    }\n}\n```",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "23cf6f4d-c17c-faab-0096-83b263089901",
+     "correct": false,
+     "answer": "Yes"
+    },
+    {
+     "_id": "d8f4120b-8a11-63c1-390e-cde08f0f6cc4",
+     "correct": true,
+     "answer": "No"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1420955834",
+  "source": {
+   "name": "Hash Code 2",
+   "showName": true,
+   "instructions": "True or False - Whenever we override `equals()` we must override `hashCode()`",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "fbdc91b7-a2a4-afa7-0b98-b7afbe488a4f",
+     "correct": true,
+     "answer": "True"
+    },
+    {
+     "_id": "7dca18f1-fd55-4728-c778-d604a3bd2a33",
+     "correct": false,
+     "answer": "False"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1191340643",
+  "source": {
+   "name": "ToString()",
+   "showName": true,
+   "instructions": "True or False - The default `toString()` function does a good enough job and rarely needs to be overridden.",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "bdb99880-1697-6441-10e1-d44f7ceaf31c",
+     "correct": false,
+     "answer": "True"
+    },
+    {
+     "_id": "e3f36385-efab-1832-47a9-3cb7e7c4a77c",
+     "correct": true,
+     "answer": "False"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-4079887309",
+  "source": {
+   "name": "Clone 1",
+   "showName": true,
+   "instructions": "True or False - Copy constructors or factories are a superior alternative to `Object.clone()`",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "09edf192-4e75-fcdc-f7c4-db6847193e7f",
+     "correct": true,
+     "answer": "True"
+    },
+    {
+     "_id": "e172c039-6bd9-74e3-2450-af1377963dab",
+     "correct": false,
+     "answer": "False"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2695399737",
+  "source": {
+   "name": "Clone 2",
+   "showName": true,
+   "instructions": "True or False - Using the `Cloneable` interface is a good example of the usage of interfaces",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "c4e8a912-21f8-8b4c-9a58-c93a61361cf9",
+     "correct": false,
+     "answer": "True"
+    },
+    {
+     "_id": "038edd9c-9e1a-80af-ec0a-5d119f1fef3d",
+     "correct": true,
+     "answer": "False"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]

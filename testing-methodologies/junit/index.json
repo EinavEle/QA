@@ -1,0 +1,28 @@
+{
+	"title": "JUnit",
+	"theme": "light",
+	"scripts": [],
+	"lexikonTopic": "",
+	"suppressPageNumbering": false,
+	"useSubmitButtons": true,
+	"useMarkAsComplete": true,
+	"hideMenu": false,
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideSectionsToggle": false,
+	"hideBackToDashboard": false,
+	"protectLayout": false,
+	"order": [
+		"Intro---Learning-Goals-2b05",
+		"What-is-JUnit--be0e",
+		"Hooks-90ef",
+		"Spot-Check-1947",
+		"Assertions-8932",
+		"Spot-Check-1683",
+		"Annotations-7afd",
+		"Parameterized-5638",
+		"Mockito-c226",
+		"Spot-Check-2685",
+		"Comprehension-Check-e66e"
+	]
+}

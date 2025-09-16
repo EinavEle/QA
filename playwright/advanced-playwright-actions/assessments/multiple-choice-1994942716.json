@@ -1,0 +1,44 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-1994942716",
+	"source": {
+		"name": "Question 9",
+		"showName": true,
+		"instructions": "Fixtures in Playwright can be used to pass state between tests to avoid duplicating setup code.",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "a1d8b4d6-4c24-98f7-ffd8-d02169ff666f",
+				"correct": false,
+				"answer": "True"
+			},
+			{
+				"_id": "9fe94c28-783b-ae74-c160-6a7bf43b64ba",
+				"correct": true,
+				"answer": "False"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

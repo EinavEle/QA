@@ -1,0 +1,17 @@
+- [Automation Best Practices Home](./README.md)
+
+- [Intro---Learning-Goals](./Intro---Learning-Goals.md "Intro---Learning-Goals")
+- [Manual-vs--Automatic](./Manual-vs--Automatic.md "Manual-vs--Automatic")
+- [Failure-Types](./Failure-Types.md "Failure-Types")
+- [False-Flags](./False-Flags.md "False-Flags")
+- [Fail-Fast](./Fail-Fast.md "Fail-Fast")
+- [API-vs--UI](./API-vs--UI.md "API-vs--UI")
+- [The-Tests-Pyramid](./The-Tests-Pyramid.md "The-Tests-Pyramid")
+- [Sleep---Retry](./Sleep---Retry.md "Sleep---Retry")
+- [Spot-Check](./Spot-Check.md "Spot-Check")
+- [Stability](./Stability.md "Stability")
+- [Tagging](./Tagging.md "Tagging")
+- [Reporting](./Reporting.md "Reporting")
+
+- [⬅ Back to Module](../README.md)
+- [⬅ Back to Course](../../README.md)

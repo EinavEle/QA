@@ -1,0 +1,44 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "a52013d3-28f4-2f5d-274d-a08552fe4422",
+				"answer": "True",
+				"correct": true
+			},
+			{
+				"_id": "e2620df5-983e-bc71-d1de-1dceacb240ad",
+				"answer": "False",
+				"correct": false
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "True or False - Making a class immutable makes it easier and safer to use.",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"maxAttemptsCount": 1,
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "Mutability 2",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"showName": true
+	},
+	"taskId": "multiple-choice-4076551742",
+	"type": "multiple-choice"
+}

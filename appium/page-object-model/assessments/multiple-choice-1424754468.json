@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-1424754468",
+	"source": {
+		"name": "Question 1",
+		"showName": true,
+		"instructions": "What does POM stand for in software development?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "20542caf-7b63-c6c7-ae4b-96b2fd4207e5",
+				"correct": false,
+				"answer": "Page Object Method"
+			},
+			{
+				"_id": "098441eb-a856-db72-93c2-acd1e33c1f12",
+				"correct": true,
+				"answer": "Page Object Model"
+			},
+			{
+				"_id": "f5fe9841-6c66-01d7-3eff-a64287374289",
+				"correct": false,
+				"answer": "Programming Object Method"
+			},
+			{
+				"_id": "1b0a8b37-b18f-cb64-042a-2366a4225e24",
+				"correct": false,
+				"answer": "Programming Object Model"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

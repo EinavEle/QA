@@ -1,0 +1,44 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-881012373",
+	"source": {
+		"name": "Question 5",
+		"showName": true,
+		"instructions": "The testInfo object in Playwright provides information about the currently running test, such as its title and annotations.",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "55d6a8a5-ad42-4379-9499-c75c97ccdda7",
+				"correct": true,
+				"answer": "True"
+			},
+			{
+				"_id": "0a6b3be3-2f25-23c8-5ae4-33a3aa58aeb4",
+				"correct": false,
+				"answer": "False"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

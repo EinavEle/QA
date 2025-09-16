@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-2312846196",
+	"source": {
+		"name": "Question 4",
+		"showName": true,
+		"instructions": "What is the main advantage of using POM in Playwright?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "b2f9b67f-afe2-429a-726f-802b3f6c6c61",
+				"correct": false,
+				"answer": "It provides a blueprint for the website layout."
+			},
+			{
+				"_id": "b9cd94ac-3e32-8843-be58-1714afaf9445",
+				"correct": false,
+				"answer": "It allows for organizing tests in a hierarchical structure."
+			},
+			{
+				"_id": "11147479-11c2-6189-bd12-d374e837adcd",
+				"correct": false,
+				"answer": "It ensures that each web page is represented by a separate class."
+			},
+			{
+				"_id": "48dc6c77-3f54-250a-650b-cbf9d4cad691",
+				"correct": true,
+				"answer": "It makes the code more readable and maintainable."
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

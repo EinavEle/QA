@@ -1,0 +1,44 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-760141091",
+	"source": {
+		"name": "8",
+		"showName": true,
+		"instructions": "True/False: \"Fail Fast\" in testing involves designing tests to quickly detect and report failures during test execution.\n",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "d9d36c15-5b34-97ee-a6c7-04cedff90998",
+				"correct": true,
+				"answer": "True"
+			},
+			{
+				"_id": "79d61774-45e4-e4f4-294d-54e3fbfbc99a",
+				"correct": false,
+				"answer": "False"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

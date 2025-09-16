@@ -1,0 +1,31 @@
+{
+	"type": "free-text",
+	"taskId": "free-text-3293001898",
+	"source": {
+		"name": "Spot Check",
+		"showName": true,
+		"instructions": "Write a program that enters the website and uses the previous login data (PersistentContext), please note that you must perform one manual login during the test in order for the login data to be saved in the context.",
+		"guidance": "```Playwright\n    test('browser and context spot check', async () => {\n        const persistentContext = await chromium\n                                    .launchPersistentContext('myUserData');\n        page = await persistentContext.newPage();\n        await page\n          .goto('https://practicetestautomation.com/logged-in-successfully/');\n        const header = page.locator('//h1');\n        expect(header).toContainText('Logged In Successfully')\n    })\n\n\n```",
+		"showGuidanceAfterResponseOption": {
+			"type": "Attempts",
+			"passedFrom": 1
+		},
+		"maxAttemptsCount": 0,
+		"previewType": "NONE",
+		"arePartialPointsAllowed": false,
+		"points": 20,
+		"rubrics": [],
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Free Text"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

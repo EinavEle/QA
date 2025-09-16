@@ -1,0 +1,44 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-3734135206",
+	"source": {
+		"name": "7",
+		"showName": true,
+		"instructions": "Emulators allow developers to test and fix their apps without needing a physical Android device for each scenario",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "3b6df686-aa84-3672-ee10-71f9fede0eee",
+				"correct": true,
+				"answer": "True"
+			},
+			{
+				"_id": "91d3e800-67a2-a382-ca3e-cc11e2ea6759",
+				"correct": false,
+				"answer": "False"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

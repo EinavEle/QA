@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-1577986921",
+	"source": {
+		"name": "4",
+		"showName": true,
+		"instructions": "What is the purpose of setting the \"hostname\" in the Appium configuration?\n",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "91365c97-d461-1394-b0ba-68b2de5c1e0a",
+				"correct": false,
+				"answer": "It specifies the name of the target device.\n"
+			},
+			{
+				"_id": "06d3fbf3-481c-02a0-28d9-a05f702e589f",
+				"correct": false,
+				"answer": "It defines the path where the Appium server is listening.\n"
+			},
+			{
+				"_id": "27aa5b4e-1b8a-fc81-b8ae-e435b748a138",
+				"correct": false,
+				"answer": "It indicates the platform on which the application will be tested.\n"
+			},
+			{
+				"_id": "c690e046-34cc-a6ac-2637-5801dc845847",
+				"correct": true,
+				"answer": "It specifies the hostname or IP address of the machine where the Appium server is running.\n"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

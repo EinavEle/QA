@@ -1,0 +1,113 @@
+{
+ "sections": [
+  {
+   "id": "f246e0b4-2804-2461-abca-69b7d0491c21",
+   "title": "Intro",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-f246.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "66c1cad6-e1b9-15b1-98fe-a6ae2f006faa",
+   "title": "Conventions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Conventions-66c1.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "3bbb1316-e266-21f9-e498-869cd27f20b9",
+   "title": "Indentation and Line Breaks",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Indentation-and-Line-Breaks-3bbb.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "772dc5dc-76ed-619c-b1bd-454e488a239c",
+   "title": "Blocks and Curly Braces",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Blocks-and-Curly-Braces-772d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "c51fa1d5-1c91-d3ae-8756-6cfb060a5929",
+   "title": "Spacing",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Spacing-c51f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "6520fb4f-0793-0e60-e477-c27e55ed5d8c",
+   "title": "Meaningful Naming",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Meaningful-Naming-6520.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "bcc120e9-be98-1033-d17f-c58c727f3fae",
+   "title": "Comments",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Comments-bcc1.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

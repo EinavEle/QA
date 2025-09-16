@@ -1,0 +1,44 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-4002480460",
+	"source": {
+		"name": "Question 4",
+		"showName": true,
+		"instructions": "True or False - ‘WaitForLoadState’ is only useful when dealing with pages that have lots of images and other resources that take a long time to load",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "4970dc29-dc7b-545c-3d47-45cd613b3042",
+				"correct": false,
+				"answer": "True"
+			},
+			{
+				"_id": "be34bcbc-517b-ff19-87fb-23c2d09ba97e",
+				"correct": true,
+				"answer": "False"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-2981394425",
+	"source": {
+		"name": "Question 5",
+		"showName": true,
+		"instructions": "This is a step text: “click the profile button”. What is missing here?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "ea778751-4685-830e-7fe6-162cfe9268a8",
+				"correct": false,
+				"answer": "Nothing, this is good as it is\n"
+			},
+			{
+				"_id": "1a16ce40-d77f-e377-e54b-24a661bd2092",
+				"correct": true,
+				"answer": "The page on which the button exists"
+			},
+			{
+				"_id": "6c1266c6-b89b-6b12-47ce-4a029582077d",
+				"correct": false,
+				"answer": "The location of the button on the page"
+			},
+			{
+				"_id": "92f4afe9-4638-01b2-f754-d6a52c788192",
+				"correct": false,
+				"answer": "The xpath selector of the button"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

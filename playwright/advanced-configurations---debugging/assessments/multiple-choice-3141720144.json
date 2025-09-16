@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-3141720144",
+	"source": {
+		"name": "Question 6",
+		"showName": true,
+		"instructions": "How can you run only tests that match a specific tag in Playwright?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "f953c7de-cf93-e731-dbf3-9b9fd2d956c9",
+				"correct": true,
+				"answer": "Use the --grep option followed by the tag name"
+			},
+			{
+				"_id": "375c7393-8453-5269-5044-2ab0ea5dccfe",
+				"correct": false,
+				"answer": "Use the --tag option followed by the tag name"
+			},
+			{
+				"_id": "60a2ee19-bf39-8c70-312b-72141917cda5",
+				"correct": false,
+				"answer": "Use the --only option followed by the tag name"
+			},
+			{
+				"_id": "e016bd72-77a9-f049-14ee-1e29f0567e5c",
+				"correct": false,
+				"answer": "Use the --skip option followed by the tag name"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

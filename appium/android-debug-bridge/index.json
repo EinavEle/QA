@@ -1,0 +1,23 @@
+{
+	"title": "Android Debug Bridge",
+	"theme": "light",
+	"scripts": [],
+	"lexikonTopic": "",
+	"suppressPageNumbering": false,
+	"useSubmitButtons": true,
+	"useMarkAsComplete": true,
+	"hideMenu": false,
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideSectionsToggle": false,
+	"hideBackToDashboard": false,
+	"protectLayout": false,
+	"order": [
+		"Intro-2b35",
+		"What-is-ADB--3999",
+		"Installation-ebc9",
+		"Connecting-an-Android-Device-5af8",
+		"Emulators-3088",
+		"AVD---Android-Virtual-Device-56cc"
+	]
+}

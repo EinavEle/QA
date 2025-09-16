@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-1040865459",
+	"source": {
+		"name": "Question 9",
+		"showName": true,
+		"instructions": "Which command is used to enable the Allure reporter for Playwright test results?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "168ed140-6c14-453d-b3c6-5e868f70bb6a",
+				"correct": true,
+				"answer": "npx playwright test --reporter=allure-playwright"
+			},
+			{
+				"_id": "13b47d06-8178-07c4-fc3c-f4a94bbe2489",
+				"correct": false,
+				"answer": "npx playwright test --reporter=allure"
+			},
+			{
+				"_id": "8378bbd9-9296-a7b1-b799-7bf3551cfee0",
+				"correct": false,
+				"answer": "npx playwright test --reporter=html"
+			},
+			{
+				"_id": "a43045e7-0be1-f333-0f84-f96468f1b4b5",
+				"correct": false,
+				"answer": "npx playwright test --reporter=line"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

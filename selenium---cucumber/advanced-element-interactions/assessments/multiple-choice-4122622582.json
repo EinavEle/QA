@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-4122622582",
+	"source": {
+		"name": "Question 2",
+		"showName": true,
+		"instructions": "When should you use explicit waits?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "67542bd3-2248-50d3-525e-68c3c3f7e8d1",
+				"correct": false,
+				"answer": "Everytime you perform actions in Selenium"
+			},
+			{
+				"_id": "12acf9d4-007a-39ff-3519-856a659f3e02",
+				"correct": false,
+				"answer": "When you are not sure if the element is displayed or not"
+			},
+			{
+				"_id": "a7d87171-2d03-c4e6-335b-3ce36dae3cc7",
+				"correct": false,
+				"answer": "When you navigate to a new page"
+			},
+			{
+				"_id": "ddbd212c-c921-5fdb-9393-ccb85b45e77d",
+				"correct": true,
+				"answer": "When you want to wait for a specific condition"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

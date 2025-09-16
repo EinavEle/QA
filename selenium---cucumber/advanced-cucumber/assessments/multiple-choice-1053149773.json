@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-1053149773",
+	"source": {
+		"name": "Question 1",
+		"showName": true,
+		"instructions": "What is the purpose of hooks?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "d06a270b-6da7-79ca-35b2-76c1557293e1",
+				"correct": true,
+				"answer": "Executing code before/after each test/step/run"
+			},
+			{
+				"_id": "939a6559-29e8-ef5b-450b-cb44f884f7c2",
+				"correct": false,
+				"answer": "Executing steps before every scenario"
+			},
+			{
+				"_id": "c66f5a88-ebe2-0245-d3ee-c955ef2eea14",
+				"correct": false,
+				"answer": "Adding more data to the tests"
+			},
+			{
+				"_id": "73888ef5-4b0c-e6dc-e6b5-eb03440168d8",
+				"correct": false,
+				"answer": "Reporting"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

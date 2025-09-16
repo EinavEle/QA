@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-850774683",
+	"source": {
+		"name": "Question 4",
+		"showName": true,
+		"instructions": "Why should you not use Assertions in the page? Select all that apply.",
+		"multipleResponse": true,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "b7807c8e-441c-e648-d3fb-a0ddc098f79f",
+				"correct": false,
+				"answer": "You can use assertions in the page"
+			},
+			{
+				"_id": "729514d6-e3bb-bb77-29ec-993e6583ec98",
+				"correct": true,
+				"answer": "The page is not a part of the test but a resource the test uses"
+			},
+			{
+				"_id": "338d2fee-7d58-3365-1b02-d31c0ef095d3",
+				"correct": true,
+				"answer": "Assertions should happen in the test layer"
+			},
+			{
+				"_id": "3675093e-a039-d9d5-445b-e18e58378d7a",
+				"correct": true,
+				"answer": "Asserting inside pages make the assertions unclear and not visible to the tester"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

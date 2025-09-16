@@ -1,0 +1,44 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-1556882270",
+	"source": {
+		"name": "8",
+		"showName": true,
+		"instructions": "8) Android emulators simulate the Android environment on a computer, mimicking features of real devices like screen simulation, touch input, and file access.",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "3e5b4b70-dd11-d38d-0063-cd696bf5864b",
+				"correct": true,
+				"answer": "True"
+			},
+			{
+				"_id": "39c2b3fe-64b7-670a-d628-b4e5a15c588c",
+				"correct": false,
+				"answer": "False"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"title": "Automatic Test Structure Lesson",
+	"theme": "light",
+	"scripts": [],
+	"lexikonTopic": "",
+	"suppressPageNumbering": false,
+	"useSubmitButtons": true,
+	"useMarkAsComplete": true,
+	"hideMenu": false,
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideSectionsToggle": false,
+	"hideBackToDashboard": false,
+	"protectLayout": false,
+	"order": [
+		"Slideshow-85a1",
+		"Intro-and-Learning-Goals-2925",
+		"Atomic-Test-fdac",
+		"Autonomous-Tests-16ff",
+		"Spot-Check-2624",
+		"Arrange---Act---Assert-3580",
+		"Spot-Check-de7f",
+		"Setup-and-Teardown-7066",
+		"Assertions-08c5",
+		"Error-Handling-4a2f",
+		"Spot-Check-9563",
+		"Exercise-8fb5",
+		"Comprehension-Check-670e"
+	]
+}

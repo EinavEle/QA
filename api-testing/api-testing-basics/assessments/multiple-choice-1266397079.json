@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-1266397079",
+	"source": {
+		"name": "Question 1",
+		"showName": true,
+		"instructions": "What does API stand for?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "03fe6ee4-51bb-67fb-23d7-67df164c640a",
+				"correct": true,
+				"answer": "Application Programming Interface"
+			},
+			{
+				"_id": "f5331545-3934-c73c-f674-e42f70318d7c",
+				"correct": false,
+				"answer": "A Physical Interaction"
+			},
+			{
+				"_id": "c9e7938b-9717-1b12-1a6f-8e2334f102ae",
+				"correct": false,
+				"answer": "Augmented Parameter Injection"
+			},
+			{
+				"_id": "c5cfa952-c95f-8868-ab0d-2cc7efe84dd1",
+				"correct": false,
+				"answer": "Automatic Program Implementation"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

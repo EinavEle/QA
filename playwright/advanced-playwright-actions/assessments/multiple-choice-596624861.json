@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-596624861",
+	"source": {
+		"name": "Question 2",
+		"showName": true,
+		"instructions": "Which method is used to execute JavaScript in Playwright?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "962cc0f9-97dc-51c3-53c0-123fbfb78148",
+				"correct": false,
+				"answer": "executeScript()"
+			},
+			{
+				"_id": "0a1fcfcc-e2d9-a761-4468-bc30f4b299de",
+				"correct": false,
+				"answer": "runJavaScript()"
+			},
+			{
+				"_id": "0f3d987f-7c05-f951-6889-69658075c7b6",
+				"correct": true,
+				"answer": "evaluate()"
+			},
+			{
+				"_id": "42b429a3-7346-5afb-d2ab-10b89b34c24f",
+				"correct": false,
+				"answer": "performJavaScript()"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

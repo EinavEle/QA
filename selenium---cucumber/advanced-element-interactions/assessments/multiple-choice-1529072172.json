@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-1529072172",
+	"source": {
+		"name": "Question 3",
+		"showName": true,
+		"instructions": "When working with lists you should…",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "84420734-58ec-b60e-7408-1a2672180a1f",
+				"correct": false,
+				"answer": "Always use findElements and not findElement"
+			},
+			{
+				"_id": "3c214da6-5580-8172-7c4c-36a254f6bb8d",
+				"correct": false,
+				"answer": "Model each row of the list into a complex element class"
+			},
+			{
+				"_id": "fa69c437-11e9-a69f-d7c8-aee573da1114",
+				"correct": true,
+				"answer": "Use your judgment to decide whether you model the whole list or just get specific data"
+			},
+			{
+				"_id": "ce825cd1-e865-fb5d-1db7-8bb991f086ce",
+				"correct": false,
+				"answer": "Use a for-each loop\n"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

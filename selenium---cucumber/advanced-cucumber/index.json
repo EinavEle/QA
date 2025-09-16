@@ -1,0 +1,29 @@
+{
+	"title": "Advanced Cucumber",
+	"theme": "light",
+	"scripts": [],
+	"lexikonTopic": "",
+	"suppressPageNumbering": false,
+	"useSubmitButtons": true,
+	"useMarkAsComplete": true,
+	"hideMenu": false,
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideSectionsToggle": false,
+	"hideBackToDashboard": false,
+	"protectLayout": false,
+	"order": [
+		"Intro-and-Learning-Goals-d20d",
+		"Hooks-499b",
+		"Spot-Check-4cc9",
+		"Scenario-Data-a0cb",
+		"Data-Tables-fcb3",
+		"Spot-Check-c702",
+		"Scenario-Outline-2a94",
+		"Spot-Check-3021",
+		"Test-Context-02c2",
+		"Spot-Check-0c6a",
+		"Exercise-aa9e",
+		"Comprehension-Check-c6d8"
+	]
+}

@@ -1,0 +1,47 @@
+{
+ "name": "Functions",
+ "children": [
+  {
+   "title": "Intro",
+   "id": "03718285-c226-db33-26f7-e37a137a52d9",
+   "type": "page",
+   "pageId": "03718285-c226-db33-26f7-e37a137a52d9"
+  },
+  {
+   "title": "Parameters & Arguments",
+   "id": "d4f35f17-b0b6-973a-07e7-c6c9291d4c4a",
+   "type": "page",
+   "pageId": "949a6301-dfb7-1024-0cdc-13bcdcacc3e5"
+  },
+  {
+   "title": "Return",
+   "id": "f780bde6-8d35-b30f-a45b-d6a9534fdc2e",
+   "type": "page",
+   "pageId": "6fb1b42f-d832-d4ed-fa80-09050defe806"
+  },
+  {
+   "title": "Function Expression vs. Function Declaration, Methods",
+   "id": "ce25a45c-7171-9df6-9c70-9a92d02e9013",
+   "type": "page",
+   "pageId": "1f6edd62-8ff8-1466-cfe4-8f47335ed194"
+  },
+  {
+   "title": "Spot Check",
+   "id": "a0450e91-4cf3-010d-2e3d-3c3a112b3c00",
+   "type": "page",
+   "pageId": "e55c1b30-4a09-cf35-b272-b557cc3a8823"
+  },
+  {
+   "title": "Exercises",
+   "id": "3954f7c7-a0e5-bf12-c146-41ec6f753cba",
+   "type": "page",
+   "pageId": "c20b5b67-2101-b384-72c0-c93752342a37"
+  },
+  {
+   "title": "Comprehension Check",
+   "id": "de8e5869-97dc-03c0-6c86-59bf43bbb955",
+   "type": "page",
+   "pageId": "6e3f3f25-9878-2361-5bc6-7309614ead38"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-1792532350",
+	"source": {
+		"name": "Question 6",
+		"showName": true,
+		"instructions": "What is the role of compound actions in POM?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "c8e47fc8-72cb-3452-8bc7-5f8b61c6aef0",
+				"correct": false,
+				"answer": "To define locators for elements on a page"
+			},
+			{
+				"_id": "d05a44a2-f0a9-4c88-f63c-aa6f972237f1",
+				"correct": false,
+				"answer": "To create a hierarchy of classes for page objects"
+			},
+			{
+				"_id": "4259d678-74e5-9b56-4896-a81e623a9cf4",
+				"correct": true,
+				"answer": "To bundle multiple methods into a single reusable function"
+			},
+			{
+				"_id": "74ec2555-2508-0d34-f9a6-90e1ffb179ee",
+				"correct": false,
+				"answer": "To perform complex mathematical operations in tests"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

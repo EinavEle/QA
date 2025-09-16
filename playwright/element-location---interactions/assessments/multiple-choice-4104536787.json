@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-4104536787",
+	"source": {
+		"name": "Question 4",
+		"showName": true,
+		"instructions": "Which of the following locator functionality allows you to select the first element that matches a selector?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "38021a25-ab67-13b2-df49-ec617d2e0783",
+				"correct": false,
+				"answer": "Nth"
+			},
+			{
+				"_id": "1c4c775c-1965-3883-318c-063bdcf64203",
+				"correct": false,
+				"answer": "Count"
+			},
+			{
+				"_id": "42be1cb9-ff64-4922-083e-f6703939a6d9",
+				"correct": false,
+				"answer": "Filter"
+			},
+			{
+				"_id": "b299f21d-50f3-c803-237b-b8c8cf9cf3dd",
+				"correct": true,
+				"answer": "None of the above.\n"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

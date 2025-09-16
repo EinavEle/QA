@@ -1,0 +1,44 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-2977439747",
+	"source": {
+		"name": "Question 4",
+		"showName": true,
+		"instructions": "Test annotations in Playwright are only used to mark tests as failed or skipped.",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "d7f15ed3-2130-00a3-cbe7-ad9145f7d618",
+				"correct": false,
+				"answer": "True"
+			},
+			{
+				"_id": "f1d491b6-aafe-8ca9-33c2-9cbd4dd7ee2f",
+				"correct": true,
+				"answer": "False"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

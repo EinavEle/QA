@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-86014021",
+	"source": {
+		"name": "Question 2",
+		"showName": true,
+		"instructions": "How can you run tests in a loop with different input values in Playwright?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "ff8f4e30-41df-33fd-4ce6-63b51e0f00e7",
+				"correct": false,
+				"answer": "By using annotations"
+			},
+			{
+				"_id": "d8911a85-00b6-33f9-567c-09167dbf2fae",
+				"correct": false,
+				"answer": "By using fixtures"
+			},
+			{
+				"_id": "5b574a12-9328-0772-0059-d370898f669f",
+				"correct": true,
+				"answer": "By parameterizing the tests"
+			},
+			{
+				"_id": "b3012ad5-ed02-73dc-66c4-4fd81bea450c",
+				"correct": false,
+				"answer": "By using request objects"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

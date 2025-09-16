@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-3454934649",
+	"source": {
+		"name": "5",
+		"showName": true,
+		"instructions": "How are JUnit test results reported?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "43fa7db4-4416-a6b6-5519-d2c48647e6ee",
+				"correct": true,
+				"answer": "Through console output\n"
+			},
+			{
+				"_id": "bf2296b7-bab6-b548-2c6a-c8ecdd812f27",
+				"correct": false,
+				"answer": "In a separate log file\n"
+			},
+			{
+				"_id": "d6645b56-a3ac-d4cb-6b11-821b662fc3d0",
+				"correct": false,
+				"answer": "Via email notifications"
+			},
+			{
+				"_id": "9e0616a1-140b-04e9-bb0b-ef939917ebe5",
+				"correct": false,
+				"answer": "Through graphical user interface (GUI) reports\n"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

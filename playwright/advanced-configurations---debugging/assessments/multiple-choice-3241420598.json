@@ -1,0 +1,44 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-3241420598",
+	"source": {
+		"name": "Question 8",
+		"showName": true,
+		"instructions": "Tracing in Playwright allows you to see the sequence of operations and events during script execution.",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "92eb4df7-b9d3-50e0-0f43-e276af20edc8",
+				"correct": true,
+				"answer": "True"
+			},
+			{
+				"_id": "45eefd1e-558a-f127-f46c-bbc9d4390cfb",
+				"correct": false,
+				"answer": "False"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-1435941199",
+	"source": {
+		"name": "8",
+		"showName": true,
+		"instructions": "What is the purpose of the \"appium:deviceName\" capability?\n",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "82633628-430b-e5dc-7424-d59f995e27ae",
+				"correct": false,
+				"answer": "Setting the version of the Android or iOS operating system.\n"
+			},
+			{
+				"_id": "601f9b80-fa71-7f9d-c5fa-8a20161aa1de",
+				"correct": false,
+				"answer": "Specifying the automation framework to be used for testing."
+			},
+			{
+				"_id": "c2678a78-cf80-8813-0928-74be54b2be08",
+				"correct": true,
+				"answer": "Defining the name or identifier of the target device/emulator to be used for\ntesting.\n"
+			},
+			{
+				"_id": "795c67f1-8d93-7730-1db4-1c029214de3e",
+				"correct": false,
+				"answer": "Specifying the name of the application to be tested.\n"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

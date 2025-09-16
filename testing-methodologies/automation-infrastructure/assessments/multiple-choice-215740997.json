@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-215740997",
+	"source": {
+		"name": "7",
+		"showName": true,
+		"instructions": "Which of the following is a recommended approach for handling credentials in automation testing?\n",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "325f1e55-d3a8-d756-9518-819ad41c205f",
+				"correct": false,
+				"answer": "Hard Coding credentials in the code for easy access.\n"
+			},
+			{
+				"_id": "d5483a06-dad3-1da2-87ab-034637b51a07",
+				"correct": false,
+				"answer": "Storing credentials in version control systems for better visibility.\n"
+			},
+			{
+				"_id": "4ad1dd04-199a-49b0-d38a-295560f193ab",
+				"correct": true,
+				"answer": "Providing credentials externally during the build process."
+			},
+			{
+				"_id": "dda2763a-25f4-9136-969c-6505cbaa2463",
+				"correct": false,
+				"answer": "Sharing credentials with multiple users for convenience."
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

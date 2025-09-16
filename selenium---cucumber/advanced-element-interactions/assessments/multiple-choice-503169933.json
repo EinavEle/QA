@@ -1,0 +1,49 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-503169933",
+	"source": {
+		"name": "Question 5",
+		"showName": true,
+		"instructions": "What is the best way to handle a group of elements that appear in different places of our tested web application?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "af28651c-6c25-ec05-81c9-77bcd86160b7",
+				"correct": true,
+				"answer": "Make a component class modeling these elements and use it in different pages\n"
+			},
+			{
+				"_id": "33bd3627-70a9-47bd-3757-85c3a1e22bf2",
+				"correct": false,
+				"answer": "Locate them in each page they appear on\n"
+			},
+			{
+				"_id": "02d5752b-a37f-5d4a-5100-d2aae1fac763",
+				"correct": false,
+				"answer": "Nothing special, they are just like any other element"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

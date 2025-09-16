@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-1705812027",
+	"source": {
+		"name": "Question 10",
+		"showName": true,
+		"instructions": "What is the purpose of using explicit waits in Appium?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "4a203b6c-8ae0-05f8-da6b-4083a07e4b6b",
+				"correct": true,
+				"answer": "To handle dynamic content by waiting for a certain condition to happen before moving on to the next step in the test"
+			},
+			{
+				"_id": "ebfe9886-09a5-781c-16b9-f2cb8cb56c46",
+				"correct": false,
+				"answer": "To perform drag-and-drop operations"
+			},
+			{
+				"_id": "3c730a89-7634-1333-1eb4-b57af0156c29",
+				"correct": false,
+				"answer": "To check if an element is enabled for interaction"
+			},
+			{
+				"_id": "7406925d-b8f4-97f7-f0ec-ae480f7eaa41",
+				"correct": false,
+				"answer": "To clear the text or input of an editable element"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

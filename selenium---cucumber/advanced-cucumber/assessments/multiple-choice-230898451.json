@@ -1,0 +1,44 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-230898451",
+	"source": {
+		"name": "Question 3",
+		"showName": true,
+		"instructions": "Which of the following will you use in order to create 2 users in the same test?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "ee1ad043-d861-85e7-50c6-12aa1e06b086",
+				"correct": false,
+				"answer": "Scenario Outline"
+			},
+			{
+				"_id": "95c3ca43-afff-cac8-43e2-df623be5d651",
+				"correct": true,
+				"answer": "A step with a data table"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

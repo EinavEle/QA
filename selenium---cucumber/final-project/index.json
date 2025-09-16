@@ -1,0 +1,22 @@
+{
+	"title": "Final Project",
+	"theme": "light",
+	"scripts": [],
+	"lexikonTopic": "",
+	"suppressPageNumbering": false,
+	"useSubmitButtons": true,
+	"useMarkAsComplete": true,
+	"hideMenu": false,
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideSectionsToggle": false,
+	"hideBackToDashboard": false,
+	"protectLayout": false,
+	"order": [
+		"Intro-8a67",
+		"Test-Plan-6e02",
+		"Guidelines-3573",
+		"API---UI-Integration-3b72",
+		"Grading-db21"
+	]
+}

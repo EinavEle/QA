@@ -1,0 +1,221 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1017384604",
+  "source": {
+   "name": "1.",
+   "showName": false,
+   "instructions": "What will we see in the console log?\n\n```\nlet x = {\n            count: 12,\n            go: () => {\n                setTimeout(function () {\n                    console.log(this.count)\n                }, 1500)\n            }\n      }\n  x.go()\n```",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "d0720bbd-674c-2f0b-e04f-fa4e8958ca04",
+     "correct": false,
+     "answer": "12, 1.5 seconds later"
+    },
+    {
+     "_id": "043c03b1-5fb7-1e3f-40e9-d9d85d420ac3",
+     "correct": false,
+     "answer": "An error immediately"
+    },
+    {
+     "_id": "5bb1aabe-3d96-20a5-e6f5-dff9d2ca4191",
+     "correct": true,
+     "answer": "undefined, 1.5 seconds later"
+    },
+    {
+     "_id": "b188f500-a2f7-ddfd-bc50-1eb322efd068",
+     "correct": false,
+     "answer": "Nothing, this doesn't run"
+    },
+    {
+     "_id": "6bf07a57-e626-34a8-50bd-f745c0485dc6",
+     "correct": false,
+     "answer": "None of the above"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-701558196",
+  "source": {
+   "name": "2.",
+   "showName": false,
+   "instructions": "What is the difference between an anonymous and named function?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "f07ad7b3-5e8a-4c90-ed0f-a1821b79396b",
+     "correct": true,
+     "answer": "Anonymous functions don't have names, named functions do"
+    },
+    {
+     "_id": "0ae63cd9-9384-0466-5b15-bcab0dae430a",
+     "correct": false,
+     "answer": "Anonymous functions get invoked automatically, named functions need to be invoked"
+    },
+    {
+     "_id": "3ee8d5e6-bfdf-5f0a-4d2d-beffd8a6646e",
+     "correct": false,
+     "answer": "Anonymous functions have to be callbacks, named functions do not"
+    },
+    {
+     "_id": "9c00191e-a832-70dc-93aa-7cd0274ab383",
+     "correct": false,
+     "answer": "a and c"
+    },
+    {
+     "_id": "527360e5-32ae-7bbd-6e59-836158265045",
+     "correct": false,
+     "answer": "All of the above"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2659257315",
+  "source": {
+   "name": "3.",
+   "showName": false,
+   "instructions": "What will we see in the console log?\n\n```\nsetInterval(()=>{console.log(\"hi\")}, 2000)\n```",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "d8aa2a97-80c2-6601-79ce-2b2602e7db60",
+     "correct": true,
+     "answer": "\"hi\" every two seconds"
+    },
+    {
+     "_id": "b947551c-e366-cb54-7a60-27b92e400b8e",
+     "correct": false,
+     "answer": "\"hi\" after two seconds"
+    },
+    {
+     "_id": "1df53cdb-a97d-92f6-ac9d-0d542c876bd9",
+     "correct": false,
+     "answer": "\"hi\""
+    },
+    {
+     "_id": "0e221ad8-a36c-1bff-6557-eea9dce3a0d7",
+     "correct": false,
+     "answer": "undefined"
+    },
+    {
+     "_id": "99644e6b-2aec-629f-b768-82fe19989006",
+     "correct": false,
+     "answer": "Nothing, there is no invocation"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3079431291",
+  "source": {
+   "name": "4.",
+   "showName": false,
+   "instructions": "What gets printed here?\n```\nconst run = (name) => {console.log(\"Run, \" + name + \", run!\")}\nconst yell = function(action){\n    let env = \"Forest\"\n    action(env)\n}\nrun(yell)\n```",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "ab86afa1-d80e-3b68-61bc-0f2f73fe0f1a",
+     "correct": false,
+     "answer": "Syntax Error, because `yell` is defined before `run`"
+    },
+    {
+     "_id": "1f4390f0-cacc-135f-9a81-ba41d54a826f",
+     "correct": false,
+     "answer": "Run, Forest, run!"
+    },
+    {
+     "_id": "0d571002-4ecd-66fa-a643-05a2009920d8",
+     "correct": true,
+     "answer": "Run, ${yell function}, run!"
+    },
+    {
+     "_id": "db3bffde-18e8-0129-62e9-1f8e12f11e8e",
+     "correct": false,
+     "answer": "undefined"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]

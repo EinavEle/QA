@@ -1,0 +1,44 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "568722bc-aef7-7ccb-2621-b579dd6a8d69",
+				"answer": "True",
+				"correct": false
+			},
+			{
+				"_id": "2751b7d2-5e89-db2a-bee4-2c5c0ffb1459",
+				"answer": "False",
+				"correct": true
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "True or False - It is a good practice to give the user maximum accessibility to the fields and functions of a class?",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"maxAttemptsCount": 1,
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "Accessibility 2",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"showName": true
+	},
+	"taskId": "multiple-choice-852163067",
+	"type": "multiple-choice"
+}

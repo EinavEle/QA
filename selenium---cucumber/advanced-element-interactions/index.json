@@ -1,0 +1,29 @@
+{
+	"title": "Advanced Element Interactions",
+	"theme": "light",
+	"scripts": [],
+	"lexikonTopic": "",
+	"suppressPageNumbering": false,
+	"useSubmitButtons": true,
+	"useMarkAsComplete": true,
+	"hideMenu": false,
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideSectionsToggle": false,
+	"hideBackToDashboard": false,
+	"protectLayout": false,
+	"order": [
+		"Intro---Learning-Goals-58d8",
+		"Waits-4204",
+		"Spot-Check-d1ce",
+		"More-Element-Interactions-c445",
+		"Spot-Check-0cb0",
+		"Lists-and-Tables-f89e",
+		"Spot-Check-c167",
+		"Complex-Elements-63e5",
+		"Spot-Check-11cb",
+		"Dynamic-Content-9361",
+		"Exercise-58bb",
+		"Comprehension-Check-0522"
+	]
+}

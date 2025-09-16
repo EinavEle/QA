@@ -1,0 +1,44 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-3116669029",
+	"source": {
+		"name": "Question 5",
+		"showName": true,
+		"instructions": "In Playwright POM, \"Separation of Concerns\" refers to the separation of test logic from UI logic.",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "f7c9e991-23aa-9f9c-8c3e-d94cd9b215ef",
+				"correct": true,
+				"answer": "True"
+			},
+			{
+				"_id": "8aa00737-44d5-cd7d-206e-0ff3c913a94f",
+				"correct": false,
+				"answer": "False"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

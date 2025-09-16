@@ -1,0 +1,83 @@
+{
+ "name": "Methods",
+ "children": [
+  {
+   "title": "Intro",
+   "id": "09846881-741c-015e-7fa5-6f75924382e5",
+   "type": "page",
+   "pageId": "09846881-741c-015e-7fa5-6f75924382e5"
+  },
+  {
+   "title": "Parameter Validation",
+   "id": "c4c5a4fb-f3be-8b86-0f4f-d9ed5f91d84d",
+   "type": "page",
+   "pageId": "c4c5a4fb-f3be-8b86-0f4f-d9ed5f91d84d"
+  },
+  {
+   "title": "Spot Check",
+   "id": "213fc275-e2f8-f901-0e38-45ceda8df270",
+   "type": "page",
+   "pageId": "804dff64-4611-6eee-af3d-be2a060eed4d"
+  },
+  {
+   "title": "Defensive Copies",
+   "id": "f1c04332-6f39-7a1b-9075-8883e9ad518f",
+   "type": "page",
+   "pageId": "afb2be7a-664b-6189-495d-f3c6dd486e92"
+  },
+  {
+   "title": "Spot Check",
+   "id": "309420cb-5f73-d94f-ae54-9ad20eea2f1e",
+   "type": "page",
+   "pageId": "19da9a1e-ac93-1e64-5384-2555a8527801"
+  },
+  {
+   "title": "Signature",
+   "id": "0efba931-6a6b-81f0-2740-ebecf5d94cf5",
+   "type": "page",
+   "pageId": "b66e20fd-64e0-9144-4dae-fbcf637e344c"
+  },
+  {
+   "title": "Overloading",
+   "id": "292edb1c-73cd-9fd0-051e-50e3cf7e4287",
+   "type": "page",
+   "pageId": "df8cd59a-5b53-cb57-c987-ef8506e9a694"
+  },
+  {
+   "title": "Spot Check",
+   "id": "66f12be8-31f5-936b-0ebb-bf6e85a1469d",
+   "type": "page",
+   "pageId": "91447739-1004-45fb-2b36-8768b32d9413"
+  },
+  {
+   "title": "Empties vs. Nulls",
+   "id": "a80ca78a-6f70-3748-346c-801a704ca44b",
+   "type": "page",
+   "pageId": "6ad95b32-92f9-753c-a348-4c4e0573da65"
+  },
+  {
+   "title": "Optionals",
+   "id": "c1a92a1d-6ba3-1e28-8a4c-368f493276cd",
+   "type": "page",
+   "pageId": "a1f331ca-5447-aad6-ee5c-feeb76afa388"
+  },
+  {
+   "id": "7e493b73-8166-c4af-a52a-35570918087d",
+   "title": "Spot Check",
+   "pageId": "74808448-9599-a038-0c46-ddc9ba8f3557",
+   "type": "page"
+  },
+  {
+   "title": "Comprehension Check",
+   "id": "2d8abdea-0b9e-2995-0c6c-db13e283cf76",
+   "type": "page",
+   "pageId": "b7a241ef-263b-570a-e8ed-79964a5be614"
+  },
+  {
+   "title": "Exercise",
+   "id": "96e1eadd-cdbb-f10c-750c-16e99d7bc9ad",
+   "type": "page",
+   "pageId": "183e3776-e0d0-0fd3-4e58-4e36420c96be"
+  }
+ ]
+}

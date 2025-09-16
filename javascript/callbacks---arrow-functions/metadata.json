@@ -1,0 +1,166 @@
+{
+ "sections": [
+  {
+   "id": "5dbff1d6-73a2-2c03-c030-e2aa08888d05",
+   "title": "Intro",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-5dbf.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "9e2af05d-9f46-4329-ddb3-b6049c48eac8",
+   "title": "Spot Check 1",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Spot-Check-1-9e2a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "c17b7e63-4ef9-fb83-69ef-daf76f885b52",
+   "title": "Spot Check 2",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Spot-Check-2-c17b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "4e3d9b8c-f3b8-0de0-5dd1-f29a6df0d257",
+   "title": "Callback Functions II",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Callback-Functions-II-4e3d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "0adeb3e3-9bc4-e98e-04dc-eb0223065f82",
+   "title": "Spot Check 3",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Spot-Check-3-0ade.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "13dfeced-212d-f632-51f7-84eb5a85ec9e",
+   "title": "Arrow Functions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Arrow-Functions-13df.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "c04cc62d-aba2-988b-fe78-3ef7226e3a98",
+   "title": "Spot Check 4",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Spot-Check-4-c04c.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "62381ec8-baa7-a45e-3312-11e73b973a72",
+   "title": "Arrow Functions II",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Arrow-Functions-II-6238.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "5fabd43a-1602-e947-f9e4-2c4c6c6f2437",
+   "title": "Spot Check 5",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Spot-Check-5-5fab.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "674882da-70ce-3b10-095d-4cbbfea083d7",
+   "title": "this",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/this-6748.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "b4e63082-78d5-a665-4143-cbf80a0dadd2",
+   "title": "Exercises",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Exercises-b4e6.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "f732c2e0-e134-ec1a-fb43-7ef09d22bf8f",
+   "title": "Comprehension Check",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Comprehension-Check-f732.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

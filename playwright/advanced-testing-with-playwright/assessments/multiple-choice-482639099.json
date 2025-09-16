@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-482639099",
+	"source": {
+		"name": "Question 10",
+		"showName": true,
+		"instructions": "Which fixture provides an isolated page for each test run in Playwright?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "2355c079-0f84-83f0-b861-6faa4b097743",
+				"correct": true,
+				"answer": "page"
+			},
+			{
+				"_id": "2dfeaaa3-28e5-c7f9-0ec0-11f965c8df91",
+				"correct": false,
+				"answer": "context"
+			},
+			{
+				"_id": "89e5acd3-0137-54ba-7ff9-ad368d167521",
+				"correct": false,
+				"answer": "browser"
+			},
+			{
+				"_id": "baeebecf-191c-7bf7-7f90-46bd96666cf4",
+				"correct": false,
+				"answer": "request"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

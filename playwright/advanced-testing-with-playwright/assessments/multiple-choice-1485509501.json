@@ -1,0 +1,44 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-1485509501",
+	"source": {
+		"name": "Question 9",
+		"showName": true,
+		"instructions": "Fixtures in Playwright help avoid duplicating setup code and promote resource sharing among tests.",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "64f6ba3f-2857-849d-8ea9-ac9eee7ca54e",
+				"correct": true,
+				"answer": "True"
+			},
+			{
+				"_id": "a73a51d0-3730-09e7-a338-bfa0bd1ad070",
+				"correct": false,
+				"answer": "False"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

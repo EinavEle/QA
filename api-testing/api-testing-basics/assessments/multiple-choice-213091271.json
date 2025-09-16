@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-213091271",
+	"source": {
+		"name": "Question 10",
+		"showName": true,
+		"instructions": "What is the purpose of functional testing in API testing?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "352c3e16-aafc-d1f1-cc1d-34f47516cc84",
+				"correct": false,
+				"answer": "To check if the API's response matches your expectations."
+			},
+			{
+				"_id": "8da5dc60-961b-3376-94fb-159f3b5820aa",
+				"correct": false,
+				"answer": "To ensure that the data returned by an API is correct and in the right format."
+			},
+			{
+				"_id": "19048dbc-ad74-305a-3591-8941e4fe72e1",
+				"correct": false,
+				"answer": "To test the API's ability to handle different types of input."
+			},
+			{
+				"_id": "2dca720f-11a1-3aa2-dd1d-c0ee38effcfd",
+				"correct": true,
+				"answer": "To check if an API does what it's supposed to do."
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

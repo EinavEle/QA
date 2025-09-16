@@ -1,0 +1,59 @@
+{
+ "name": "Lambdas & Streams",
+ "children": [
+  {
+   "title": "Intro",
+   "id": "4ace1ac4-da5b-1f37-831f-b8a0c9ab36af",
+   "pageId": "4ace1ac4-da5b-1f37-831f-b8a0c9ab36af",
+   "type": "page"
+  },
+  {
+   "title": "Functional Interfaces",
+   "id": "1a08e21b-21ea-3404-b9c4-6b87b41798ca",
+   "pageId": "1a08e21b-21ea-3404-b9c4-6b87b41798ca",
+   "type": "page"
+  },
+  {
+   "id": "9782b23a-2be4-5298-5491-eb0946f113d8",
+   "title": "Spot Check",
+   "pageId": "c249f14a-58c5-757c-7815-8227ddf6b15e",
+   "type": "page"
+  },
+  {
+   "id": "929993f8-d304-0737-73f5-b9f6ec327133",
+   "title": "Method Reference",
+   "pageId": "9a7f30fc-751a-a499-d5cd-cbcb378dfc62",
+   "type": "page"
+  },
+  {
+   "id": "2ebc8f77-e884-3376-800c-bbe018ca17cf",
+   "title": "Spot Check",
+   "pageId": "b1edfb1c-8260-eda6-8513-b4c37e65339a",
+   "type": "page"
+  },
+  {
+   "id": "874b2325-3ce0-0779-f7a6-2e52d0c3cf49",
+   "title": "Standard Functional Interfaces",
+   "pageId": "b4360e9b-e71b-8f4e-1689-a78c3efd80aa",
+   "type": "page"
+  },
+  {
+   "id": "d044feb2-d8df-275c-f39a-1b8d75ec588a",
+   "title": "Streams",
+   "pageId": "069d5cbd-35df-9187-c77b-47bdb26c3562",
+   "type": "page"
+  },
+  {
+   "id": "aacbe443-682d-b5fb-3c90-bcfa8d334ddd",
+   "title": "Comprehension Check",
+   "pageId": "f9e582e9-79e5-0fc4-1c73-0e78bdccf848",
+   "type": "page"
+  },
+  {
+   "id": "002fb771-a964-959a-0c13-b552cabf323a",
+   "title": "Exercise",
+   "pageId": "2382ff0a-a22d-47e4-6f72-2d7b86876f5e",
+   "type": "page"
+  }
+ ]
+}

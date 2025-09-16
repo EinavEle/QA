@@ -1,0 +1,49 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-427660616",
+	"source": {
+		"name": "Question 1",
+		"showName": true,
+		"instructions": "Why should you combine API and UI in your tests?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "972e4a47-7787-1186-5d73-f0e40885fbc5",
+				"correct": true,
+				"answer": "To make them faster and more stable"
+			},
+			{
+				"_id": "1ffabf3d-a1a4-9c67-4bdb-bc47cd3f5648",
+				"correct": false,
+				"answer": "To make them more accurate"
+			},
+			{
+				"_id": "5127de1c-54c1-41f3-2de8-22f54a0229ee",
+				"correct": false,
+				"answer": "To make them easier to develop"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

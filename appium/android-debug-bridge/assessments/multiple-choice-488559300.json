@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-488559300",
+	"source": {
+		"name": "1",
+		"showName": true,
+		"instructions": "What is ADB primarily used for?\n",
+		"multipleResponse": false,
+		"isRandomized": true,
+		"answers": [
+			{
+				"_id": "8494386a-03b9-ae94-4a4b-403cad8bb60b",
+				"correct": false,
+				"answer": "Customizing the appearance of Android apps\n"
+			},
+			{
+				"_id": "e4fc67fc-44f7-daa0-85bf-84e881df53b1",
+				"correct": true,
+				"answer": "Testing and developing Android applications\n"
+			},
+			{
+				"_id": "f8d36caa-e135-c314-1126-1e47211029a9",
+				"correct": false,
+				"answer": "Installing apps on your Android device\n"
+			},
+			{
+				"_id": "e0019a41-cceb-b787-fe5b-ea08034a136a",
+				"correct": false,
+				"answer": "Running commands on your computer's shell\n"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

@@ -1,0 +1,29 @@
+{
+	"title": "Automatic Test Structure",
+	"theme": "light",
+	"scripts": [],
+	"lexikonTopic": "",
+	"suppressPageNumbering": false,
+	"useSubmitButtons": true,
+	"useMarkAsComplete": true,
+	"hideMenu": false,
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideSectionsToggle": false,
+	"hideBackToDashboard": false,
+	"protectLayout": false,
+	"order": [
+		"Intro---Learning-Goals-d2c0",
+		"Atomic-Test-b21a",
+		"Autonomous-Tests-6431",
+		"Spot-Check-83a2",
+		"Arrange---Act---Assert-d556",
+		"New-Page-5a4c",
+		"Spot-Check-6b84",
+		"Setup---Teardown-4a2a",
+		"Assertions-fb08",
+		"Error-Handling-cbff",
+		"Exercise-7a0b",
+		"Comprehension-Check-b41e"
+	]
+}

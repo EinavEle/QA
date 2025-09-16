@@ -1,0 +1,51 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "76bc833e-9686-c5b3-ef43-4390d488031f",
+				"answer": "An HTML element targeted using JavaScript",
+				"correct": false
+			},
+			{
+				"_id": "b339fe85-0127-ca78-86e1-538c9955d59a",
+				"answer": "A library for servers",
+				"correct": false
+			},
+			{
+				"_id": "30bd5dc7-bc96-571b-80c3-b3962459dc87",
+				"answer": "A language used to code servers",
+				"correct": false
+			},
+			{
+				"_id": "4cf6c28c-9845-d245-35f6-862c0b99466f",
+				"answer": "A JavaScript runtime environment",
+				"correct": true
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "What is Node JS",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "1.",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": false,
+		"showName": false
+	},
+	"taskId": "multiple-choice-2416788147",
+	"type": "multiple-choice"
+}

@@ -1,0 +1,16 @@
+- [Java Best Practices Home](./README.md)
+
+- [Annotations](./annotations/README.md "Annotations")
+- [Classes   Interfaces](./classes---interfaces/README.md "Classes   Interfaces")
+- [Common Methods](./common-methods/README.md "Common Methods")
+- [Creating   Destroying Objects](./creating---destroying-objects/README.md "Creating   Destroying Objects")
+- [Enums](./enums/README.md "Enums")
+- [Exceptions](./exceptions/README.md "Exceptions")
+- [General Programming](./general-programming/README.md "General Programming")
+- [Generics](./generics/README.md "Generics")
+- [Java Basics](./java-basics/README.md "Java Basics")
+- [Lambdas   Streams](./lambdas---streams/README.md "Lambdas   Streams")
+- [Methods](./methods/README.md "Methods")
+- [Reflections](./reflections/README.md "Reflections")
+
+- [⬅ Back to Course](../README.md)

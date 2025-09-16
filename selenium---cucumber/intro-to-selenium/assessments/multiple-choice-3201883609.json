@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-3201883609",
+	"source": {
+		"name": "Question 5",
+		"showName": true,
+		"instructions": "How does Selenium communicate with browsers?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "0a5637e2-4eb7-cbf5-6813-cb5969cdf8d3",
+				"correct": false,
+				"answer": "Using the debugging protocol"
+			},
+			{
+				"_id": "31fcadf8-902e-6813-e11b-35b3e793cd9d",
+				"correct": false,
+				"answer": "Using the browser API"
+			},
+			{
+				"_id": "ae4b1068-76e2-97f4-17c1-a3cb33ac4de7",
+				"correct": true,
+				"answer": "Using a specific driver for each browser"
+			},
+			{
+				"_id": "15d3ad2b-747c-8d98-7b59-986b2f2b3963",
+				"correct": false,
+				"answer": "Using TCP requests"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

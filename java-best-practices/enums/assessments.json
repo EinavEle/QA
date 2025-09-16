@@ -1,0 +1,100 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2614469323",
+  "source": {
+   "name": "Enums 1",
+   "showName": true,
+   "instructions": "Why should we implement abstract methods in enums and not use `switch`?",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "882e3c2f-f118-1d2b-e183-da53c0bfc7b9",
+     "correct": false,
+     "answer": "To make our code prettier"
+    },
+    {
+     "_id": "a2cf6b0b-e79f-2d55-eecc-02b7e4d94adf",
+     "correct": false,
+     "answer": "To improve performance"
+    },
+    {
+     "_id": "970a951a-5570-ed8d-2fa5-7452816fb6a3",
+     "correct": true,
+     "answer": "To make our code less prone to human error"
+    },
+    {
+     "_id": "83382cce-e7f0-a0fd-2a82-b61f5975f1bd",
+     "correct": false,
+     "answer": "All of the above"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-4135098597",
+  "source": {
+   "name": "Enums 2",
+   "showName": true,
+   "instructions": "Usually when we have a set of known constants we should use an enum.",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "02b07836-797b-4ba3-aec0-17d7eab88b70",
+     "correct": true,
+     "answer": "True"
+    },
+    {
+     "_id": "b55c7be5-86f4-47b6-e321-1c533b740f31",
+     "correct": false,
+     "answer": "False"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]

@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-3548679612",
+	"source": {
+		"name": "9",
+		"showName": true,
+		"instructions": "Consider the following code :\n\n```java\n@ParameterizedTest\n@MethodSource(\"dataProvider\")\nvoid testStringLength(String input, int expectedLength) {\n    int actualLength = input.length();\n    assertEquals(expectedLength, actualLength);\n}\n\nstatic Stream<Arguments> dataProvider() {\n    return Stream.of(\n        Arguments.of(\"hello\", 5),\n        Arguments.of(\"JUnit\", 5),\n        Arguments.of(\"parameterized\", 13)\n    );\n}\n```\n\nWhat is the purpose of the dataProvider method in the code above?\n",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "2c4c840d-54e6-90c2-b4f2-d21f0ecdf735",
+				"correct": false,
+				"answer": "It defines the test method that will be executed.\n"
+			},
+			{
+				"_id": "f09d3d73-5202-052c-b0b1-3b42ddcc4c7b",
+				"correct": true,
+				"answer": "It provides the input data for the parameterized test.\n"
+			},
+			{
+				"_id": "3b2d6027-2ef0-f380-1f79-69a0f73dea59",
+				"correct": false,
+				"answer": "It verifies the expected length of the input string.\n"
+			},
+			{
+				"_id": "69b0c6b8-0913-615d-1e03-05cb45bea58b",
+				"correct": false,
+				"answer": "It sets up the environment for the test.\n"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

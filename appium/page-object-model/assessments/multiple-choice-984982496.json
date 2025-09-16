@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-984982496",
+	"source": {
+		"name": "Question 9",
+		"showName": true,
+		"instructions": "Why is it important to maintain separation of concerns in testing with POM?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "5fbef201-6df4-412a-d941-d125d38be142",
+				"correct": true,
+				"answer": "It allows for direct access to locators in the test code."
+			},
+			{
+				"_id": "4ef8b305-3db6-63c9-d726-afbd15aa4e9a",
+				"correct": false,
+				"answer": "It helps to bundle all assertions within the page class."
+			},
+			{
+				"_id": "f77ae5ce-12b3-b9ec-13b5-d255604dcb31",
+				"correct": false,
+				"answer": "It reduces the need for inheritance in test classes."
+			},
+			{
+				"_id": "cfc59f9c-1c79-d99f-2dd2-c643eb0220ef",
+				"correct": false,
+				"answer": "It makes the code more readable, maintainable, and extendable."
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

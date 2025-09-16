@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-1404752348",
+	"source": {
+		"name": "Question 6",
+		"showName": true,
+		"instructions": "Which of the following statements about Browser Contexts in Playwright is true?\n",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "75592eef-0c30-970f-032a-9e613178e4f0",
+				"correct": true,
+				"answer": "Each Browser Context can have its own set of cookies, permissions, and state.\n"
+			},
+			{
+				"_id": "e9c71f01-56de-1541-0109-7028438f0190",
+				"correct": false,
+				"answer": "Browser Contexts are used to control and interact with the browser using code.\n"
+			},
+			{
+				"_id": "4359d98b-47f0-3ae3-6722-c2583fe0f3e8",
+				"correct": false,
+				"answer": "Browser Contexts are similar to Sessions, as they allow sharing data between different contexts."
+			},
+			{
+				"_id": "a7f638e6-a48b-54f1-4ca2-5db104c84bec",
+				"correct": false,
+				"answer": "Persistent Contexts are a type of Browser Context that only stays open temporarily."
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

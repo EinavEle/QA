@@ -1,0 +1,35 @@
+{
+ "name": "Scope",
+ "children": [
+  {
+   "title": "Intro",
+   "id": "fd11855f-1f82-8e1e-0d61-ea942b92871a",
+   "pageId": "fd11855f-1f82-8e1e-0d61-ea942b92871a",
+   "type": "page"
+  },
+  {
+   "title": "Global vs Local Scope",
+   "id": "eea0d0bc-b509-70a4-8f2a-26dead35d8f8",
+   "pageId": "eea0d0bc-b509-70a4-8f2a-26dead35d8f8",
+   "type": "page"
+  },
+  {
+   "id": "3a6bc051-cb72-4936-5cd8-e40c3cb5b592",
+   "title": "Var, Let and Const",
+   "pageId": "e5d53e6c-00b1-34d8-0cd7-40e6ffd349d7",
+   "type": "page"
+  },
+  {
+   "id": "dcf3ea5c-45c7-37ce-5455-e6adf7050683",
+   "title": "Loops",
+   "pageId": "950f258d-62a6-8886-29c7-d9b165129682",
+   "type": "page"
+  },
+  {
+   "id": "9afa4b93-ae6e-f5b2-2396-389f8d8fe151",
+   "title": "Exercises",
+   "pageId": "1004efc7-7b4a-3b70-6ac3-58782aa583dc",
+   "type": "page"
+  }
+ ]
+}

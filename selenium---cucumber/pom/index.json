@@ -1,0 +1,25 @@
+{
+	"title": "POM",
+	"theme": "light",
+	"scripts": [],
+	"lexikonTopic": "",
+	"suppressPageNumbering": false,
+	"useSubmitButtons": true,
+	"useMarkAsComplete": true,
+	"hideMenu": false,
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideSectionsToggle": false,
+	"hideBackToDashboard": false,
+	"protectLayout": false,
+	"order": [
+		"Intro-and-Learning-Goals-1828",
+		"What-is-POM--f469",
+		"Implementing-POM-5e3c",
+		"Spot-Check-0146",
+		"Testing-With-POM-78f7",
+		"Spot-Check-ebb2",
+		"Exercise-af65",
+		"Comprehension-Check-9087"
+	]
+}

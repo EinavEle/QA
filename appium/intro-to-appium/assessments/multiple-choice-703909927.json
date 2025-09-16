@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-703909927",
+	"source": {
+		"name": "5",
+		"showName": true,
+		"instructions": "Which automation framework is used as the default for testing on Android devices?\n",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "8d803027-e8da-54b6-5570-2e7ad0b764de",
+				"correct": false,
+				"answer": "Espresso"
+			},
+			{
+				"_id": "4beb3311-7259-f8f1-7131-ef8538712ffd",
+				"correct": false,
+				"answer": "AppiumDriver"
+			},
+			{
+				"_id": "19cb422f-6844-1c80-664b-35bbf63af716",
+				"correct": true,
+				"answer": "UiAutomator2"
+			},
+			{
+				"_id": "2ec7a95b-06a1-127e-11fb-fa7ca7a13bfd",
+				"correct": false,
+				"answer": "XCUITest"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-1286974710",
+	"source": {
+		"name": "5",
+		"showName": true,
+		"instructions": "Which of the following is NOT true about unit tests in the Tests Pyramid?\n",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "bf1139d9-2fa8-28c5-cba8-dac8e6d02591",
+				"correct": false,
+				"answer": "Unit tests check individual code components.\n"
+			},
+			{
+				"_id": "4386ca41-71a1-ac71-2dd0-44064ca2e6a3",
+				"correct": false,
+				"answer": "They form the largest part of the pyramid.\n"
+			},
+			{
+				"_id": "186310df-c0c1-0ea8-f4f9-19c4c6392b09",
+				"correct": true,
+				"answer": "Unit tests are slower and more fragile compared to UI tests.\n"
+			},
+			{
+				"_id": "6e643207-1179-c975-9f21-9477cd720439",
+				"correct": false,
+				"answer": "These tests catch bugs early in the development process.\n"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

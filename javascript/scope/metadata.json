@@ -1,0 +1,87 @@
+{
+ "sections": [
+  {
+   "id": "fd11855f-1f82-8e1e-0d61-ea942b92871a",
+   "title": "Intro",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Intro-fd11.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "eea0d0bc-b509-70a4-8f2a-26dead35d8f8",
+   "title": "Global vs Local Scope",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Global-vs-Local-Scope-eea0.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "e5d53e6c-00b1-34d8-0cd7-40e6ffd349d7",
+   "title": "Var, Let and Const",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Var--Let-and-Const-e5d5.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "950f258d-62a6-8886-29c7-d9b165129682",
+   "title": "Loops",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Loops-950f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "1004efc7-7b4a-3b70-6ac3-58782aa583dc",
+   "title": "Exercises",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Exercises-1004.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

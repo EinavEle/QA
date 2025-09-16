@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-585098245",
+	"source": {
+		"name": "1",
+		"showName": true,
+		"instructions": "What is JUnit?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "baf8db3f-f36b-c52a-f8fb-1ca7f655d018",
+				"correct": false,
+				"answer": "A programming language\n"
+			},
+			{
+				"_id": "4d8809bd-8760-cad0-91f2-2276763c13a8",
+				"correct": true,
+				"answer": "A testing framework for Java\n"
+			},
+			{
+				"_id": "8c5c689c-0c0e-1dd6-e53c-050d232cb8c4",
+				"correct": false,
+				"answer": "A database management system"
+			},
+			{
+				"_id": "993f1f79-f963-e1a5-6d70-6d960436e1f1",
+				"correct": false,
+				"answer": "An integrated development environment (IDE)"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

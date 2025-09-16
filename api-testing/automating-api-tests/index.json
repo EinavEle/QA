@@ -1,0 +1,25 @@
+{
+	"title": "Automating API Tests",
+	"theme": "light",
+	"scripts": [],
+	"lexikonTopic": "",
+	"suppressPageNumbering": false,
+	"useSubmitButtons": true,
+	"useMarkAsComplete": true,
+	"hideMenu": false,
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideSectionsToggle": false,
+	"hideBackToDashboard": false,
+	"protectLayout": false,
+	"order": [
+		"Intro-and-Learning-Goals-6e0b",
+		"HTTP-Requests-in-Java-a998",
+		"Spot-Check-b8ac",
+		"Automatic-API-Test-Example-4861",
+		"Authentication-and-Authorization-e4d9",
+		"API-Validations-f552",
+		"Exercise-c86c",
+		"Comprehension-3b33"
+	]
+}

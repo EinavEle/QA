@@ -1,0 +1,44 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-2523947431",
+	"source": {
+		"name": "Question 3",
+		"showName": true,
+		"instructions": "The \"Select\" class in Appium is used to handle dropdowns or selection elements in mobile applications.",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "054eb1b8-539a-1eff-5584-ccdf98e1a477",
+				"correct": true,
+				"answer": "True"
+			},
+			{
+				"_id": "63298c0f-f5bc-31a5-3be3-5d1cffd35b86",
+				"correct": false,
+				"answer": "False"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

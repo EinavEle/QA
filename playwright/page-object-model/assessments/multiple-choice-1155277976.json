@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-1155277976",
+	"source": {
+		"name": "Question 3",
+		"showName": true,
+		"instructions": "Which Playwright module allows you to interact with web elements on a page?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "64630763-0f7f-24f1-5cf1-f83c50c3d77e",
+				"correct": false,
+				"answer": "playwright.page"
+			},
+			{
+				"_id": "4587f9a9-cef2-86a7-92bd-51516fa35d32",
+				"correct": true,
+				"answer": "playwright.locator"
+			},
+			{
+				"_id": "9accfa2c-ffe9-5746-d322-d6f14d33fd82",
+				"correct": false,
+				"answer": "playwright.element"
+			},
+			{
+				"_id": "f3fc43b8-c498-09ec-1f89-5f5ff1b65275",
+				"correct": false,
+				"answer": "playwright.browser"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

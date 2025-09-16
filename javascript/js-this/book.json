@@ -1,0 +1,35 @@
+{
+ "name": "JS This",
+ "children": [
+  {
+   "title": "Intro",
+   "id": "6b092548-5983-3eae-2bc2-6dc85ecbcbcf",
+   "type": "page",
+   "pageId": "6b092548-5983-3eae-2bc2-6dc85ecbcbcf"
+  },
+  {
+   "title": "A Definition",
+   "id": "e68f0c17-451c-b020-2890-be387d76561c",
+   "type": "page",
+   "pageId": "e68f0c17-451c-b020-2890-be387d76561c"
+  },
+  {
+   "title": "Spot Check",
+   "id": "39a8264a-1d99-a0dd-010e-400623731219",
+   "type": "page",
+   "pageId": "4b861eea-410c-bb8f-502e-b7af8d6102f1"
+  },
+  {
+   "title": "Exercises",
+   "id": "22acccd9-5223-206e-fe84-1cedeee15031",
+   "type": "page",
+   "pageId": "32f8e04b-f1ad-cedf-57ba-5f6507130658"
+  },
+  {
+   "title": "Comprehension Check",
+   "id": "d56d57db-8c5b-136f-e401-2db68412c625",
+   "type": "page",
+   "pageId": "290c65e9-31f5-2de8-9b09-1bbaa97817fc"
+  }
+ ]
+}

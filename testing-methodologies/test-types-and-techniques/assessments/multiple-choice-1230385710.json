@@ -1,0 +1,59 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-1230385710",
+	"source": {
+		"name": "3",
+		"showName": true,
+		"instructions": "Which of the following is not a part of a bug description?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "31428fcc-bf92-e667-973b-8811dfceb348",
+				"correct": false,
+				"answer": "Expected Result"
+			},
+			{
+				"_id": "f726a565-323d-0934-ddf5-d1fdebf866fd",
+				"correct": false,
+				"answer": "Severity"
+			},
+			{
+				"_id": "8328758e-b557-34a3-c2d9-6f8db4e3fd0a",
+				"correct": false,
+				"answer": "Environment"
+			},
+			{
+				"_id": "0b0363a0-7e2c-1b3c-4095-b789f94278c8",
+				"correct": false,
+				"answer": "Steps to Reproduce"
+			},
+			{
+				"_id": "8cea0dcb-15c6-a7f8-191c-99f9210da977",
+				"correct": true,
+				"answer": "None of the above"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

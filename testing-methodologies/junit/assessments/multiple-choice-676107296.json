@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-676107296",
+	"source": {
+		"name": "3",
+		"showName": true,
+		"instructions": "How are test cases organized in JUnit?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "574287bc-e293-9dfe-3080-70e3aae03f03",
+				"correct": false,
+				"answer": "In packages"
+			},
+			{
+				"_id": "3f4b8d83-1cbb-5b73-7916-9d5b0c30b9cd",
+				"correct": true,
+				"answer": "In classes"
+			},
+			{
+				"_id": "b3d03475-3d30-6830-6881-0e6885013d7b",
+				"correct": false,
+				"answer": "In variables"
+			},
+			{
+				"_id": "efb5737f-513d-3ef0-593b-be14bb0547d4",
+				"correct": false,
+				"answer": "In methods"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

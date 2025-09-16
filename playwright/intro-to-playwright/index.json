@@ -1,0 +1,31 @@
+{
+	"title": "Intro to Playwright",
+	"theme": "light",
+	"scripts": [],
+	"lexikonTopic": "",
+	"suppressPageNumbering": false,
+	"useSubmitButtons": true,
+	"useMarkAsComplete": true,
+	"hideMenu": false,
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideSectionsToggle": false,
+	"hideBackToDashboard": false,
+	"protectLayout": false,
+	"order": [
+		"Intro---Learning-Goals-03a7",
+		"What-is-Playwright-197f",
+		"Playwright-Architecture-b93e",
+		"Installation-72d2",
+		"Browser-939d",
+		"Browser-Context-930e",
+		"Spot-Check-33df",
+		"Page-09f9",
+		"Spot-Check-45b4",
+		"Specs-01e1",
+		"Assertions-526d",
+		"Spot-Check-df39",
+		"Exercise-f01e",
+		"Comprehension-Check-ed94"
+	]
+}

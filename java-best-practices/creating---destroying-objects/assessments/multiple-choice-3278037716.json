@@ -1,0 +1,49 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "52a28501-fd34-df2d-c13c-db79f7efbf78",
+				"answer": "We want to catch exceptions",
+				"correct": false
+			},
+			{
+				"_id": "601e4ae2-d28a-c26b-2771-304a0e4e268f",
+				"answer": "We write data to files",
+				"correct": false
+			},
+			{
+				"_id": "891c7713-0eba-fe11-22bb-f9bc687b4c5d",
+				"answer": "We use an auto closable resource",
+				"correct": true
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "We should use try-with-resources when:",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"maxAttemptsCount": 1,
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "Try-with-resources",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"showName": true
+	},
+	"taskId": "multiple-choice-3278037716",
+	"type": "multiple-choice"
+}

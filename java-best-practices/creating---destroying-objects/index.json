@@ -1,0 +1,28 @@
+{
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideBackToDashboard": false,
+	"hideMenu": false,
+	"hideSectionsToggle": false,
+	"lexikonTopic": "",
+	"order": [
+		"Intro-c608",
+		"Static-Factory-Methods-47d0",
+		"Spot-Check-b25e",
+		"Dependency-Injection-a505",
+		"Avoiding-Unnecessary-Objects-29a8",
+		"Spot-Check-2-4f7c",
+		"Avoid-Obsolete-References-fe13",
+		"Try-With-Resources-97ef",
+		"Spot-Check-1e54",
+		"Comprehension-Check-48e3",
+		"Excercise-6972"
+	],
+	"protectLayout": false,
+	"scripts": [],
+	"suppressPageNumbering": false,
+	"theme": "light",
+	"title": "Creating \u0026 Destroying Objects",
+	"useMarkAsComplete": true,
+	"useSubmitButtons": true
+}

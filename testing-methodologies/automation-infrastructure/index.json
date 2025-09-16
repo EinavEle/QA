@@ -1,0 +1,24 @@
+{
+	"title": "Automation Infrastructure",
+	"theme": "light",
+	"scripts": [],
+	"lexikonTopic": "",
+	"suppressPageNumbering": false,
+	"useSubmitButtons": true,
+	"useMarkAsComplete": true,
+	"hideMenu": false,
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideSectionsToggle": false,
+	"hideBackToDashboard": false,
+	"protectLayout": false,
+	"order": [
+		"Intro---Learning-Goals-06b4",
+		"The-Purpose-of-Infrastructure-1c6a",
+		"Infrastructure-Layers-0d86",
+		"Spot-Check-5de6",
+		"Orchestration-03c3",
+		"Features-of-Infrastructure-d61d",
+		"Comprehension-Check-9e2c"
+	]
+}

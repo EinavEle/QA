@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-75535247",
+	"source": {
+		"name": "Question 1",
+		"showName": true,
+		"instructions": "Which of the following locator functionality is used to select elements based on their position in a list?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "add8d31f-a58e-f387-b007-30a37f1a7c99",
+				"correct": true,
+				"answer": "Nth"
+			},
+			{
+				"_id": "69fdd20a-639b-e599-f08a-f98dded5acd9",
+				"correct": false,
+				"answer": "Count"
+			},
+			{
+				"_id": "536eb9cf-416c-a4d9-dc9b-2d1a388f28f0",
+				"correct": false,
+				"answer": "Filter"
+			},
+			{
+				"_id": "17a28a87-1927-3801-455a-f0445d817f22",
+				"correct": false,
+				"answer": "None of the above."
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

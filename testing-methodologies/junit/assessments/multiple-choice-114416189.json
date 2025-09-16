@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-114416189",
+	"source": {
+		"name": "2",
+		"showName": true,
+		"instructions": "What is the purpose of JUnit?\n",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "e88ad599-2e2b-cb77-82fc-1e18336c5593",
+				"correct": true,
+				"answer": "Writing and running automated tests\n"
+			},
+			{
+				"_id": "b7ec43f3-2c2a-c05b-159b-d2eea7c39414",
+				"correct": false,
+				"answer": "Debugging Java programs"
+			},
+			{
+				"_id": "d0a0004e-d2d7-3e42-e5ac-53d2651d4e1f",
+				"correct": false,
+				"answer": "Compiling Java code\n"
+			},
+			{
+				"_id": "0b482626-9c13-1092-a21d-a1cff4176cda",
+				"correct": false,
+				"answer": "Documenting Java code\n"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-840470322",
+	"source": {
+		"name": "Question 3",
+		"showName": true,
+		"instructions": "Which of the following will we use in order to read the text of an element?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "3bfdcd52-9206-b971-c33f-d47b3feb1388",
+				"correct": false,
+				"answer": "element.sendKeys()\n"
+			},
+			{
+				"_id": "4dff356f-b012-c263-5ff9-0ec43e470563",
+				"correct": true,
+				"answer": "element.getText()"
+			},
+			{
+				"_id": "f8db9255-fa2f-c99b-4b09-d20cb846f553",
+				"correct": false,
+				"answer": "element.click()"
+			},
+			{
+				"_id": "a4479a06-36f0-a593-eb97-389ef29f3e42",
+				"correct": false,
+				"answer": "element.select()\n"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-1684173415",
+	"source": {
+		"name": "Question 5",
+		"showName": true,
+		"instructions": "How should you execute an action sequence using the Action class?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "572cdb06-448b-c87e-022d-17d416647e42",
+				"correct": false,
+				"answer": "action.perform()\n"
+			},
+			{
+				"_id": "b4daaae0-7b44-f302-ac70-14bb86a5e874",
+				"correct": false,
+				"answer": "action.build()\n"
+			},
+			{
+				"_id": "2e9f59f8-17e9-49a0-ac3d-0f39877e450a",
+				"correct": true,
+				"answer": "action.click().moveToElement(target).build().perform()"
+			},
+			{
+				"_id": "fcdef64f-5c40-3e7f-69d9-08e42706f21d",
+				"correct": false,
+				"answer": "action.sendKeys()\n"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

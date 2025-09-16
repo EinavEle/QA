@@ -1,0 +1,54 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "943c6402-63bf-1a62-391f-e197261b6f66",
+				"answer": "It's extending a class",
+				"correct": false
+			},
+			{
+				"_id": "ba339832-120d-afd7-4e9e-80391edbab91",
+				"answer": "It is implementing an interface",
+				"correct": false
+			},
+			{
+				"_id": "64fc21b0-0fe0-0b9e-cadd-a494594c369a",
+				"answer": "It holds an object as a private field to enrich its functionality",
+				"correct": true
+			},
+			{
+				"_id": "2b686d1c-3192-20d8-88f8-ac54206a94fd",
+				"answer": "It is a bad idea to use it",
+				"correct": false
+			}
+		],
+		"arePartialPointsAllowed": false,
+		"bloomsObjectiveLevel": "",
+		"guidance": "",
+		"incorrectPoints": 0,
+		"instructions": "What is true for composition?",
+		"isRandomized": false,
+		"learningObjectives": "",
+		"maxAttemptsCount": 1,
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "Inheritance 2",
+		"points": 20,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"showName": true
+	},
+	"taskId": "multiple-choice-222511312",
+	"type": "multiple-choice"
+}

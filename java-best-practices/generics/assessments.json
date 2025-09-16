@@ -1,0 +1,188 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2856061401",
+  "source": {
+   "name": "Generics 1",
+   "showName": true,
+   "instructions": "What is the risk when using this code?\n```\n    public <T> T get(String key){\n        return (T)items.get(key);\n    }\n```",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "1346ad70-fd60-082c-f52d-14a25a435cd4",
+     "correct": true,
+     "answer": "Unchecked cast"
+    },
+    {
+     "_id": "85f07918-b004-47b5-9385-fb63b7640fcf",
+     "correct": false,
+     "answer": "Slow performance"
+    },
+    {
+     "_id": "c6840880-8016-25c7-c5d3-40d3248c5be0",
+     "correct": false,
+     "answer": "The code is unclear"
+    },
+    {
+     "_id": "57912379-898a-2848-1dd3-3b7150d8dd87",
+     "correct": false,
+     "answer": "Nothing, looks good to me"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-79075102",
+  "source": {
+   "name": "Generics 2",
+   "showName": true,
+   "instructions": "Generics help you detect errors at",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "92f307e4-28e6-158c-464a-45751c9284ed",
+     "correct": false,
+     "answer": "Run time"
+    },
+    {
+     "_id": "08116f35-fff4-e0b9-4df8-21ac2087a6b2",
+     "correct": true,
+     "answer": "Compile time"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3448503198",
+  "source": {
+   "name": "Generics 3",
+   "showName": true,
+   "instructions": "Using generics we can make methods more flexible and usable",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "88b4255c-7ef1-b991-dc27-f9cc99cdad42",
+     "correct": true,
+     "answer": "True"
+    },
+    {
+     "_id": "4372e6e3-2140-7922-40d5-1131a3ca2d76",
+     "correct": false,
+     "answer": "False"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1557234440",
+  "source": {
+   "name": "Generics 4",
+   "showName": true,
+   "instructions": "True or False - Using raw types `List` is a good practice.",
+   "multipleResponse": false,
+   "isRandomized": false,
+   "answers": [
+    {
+     "_id": "1c1def9b-6dec-00d1-4872-0a3a89ce0f41",
+     "correct": false,
+     "answer": "True"
+    },
+    {
+     "_id": "cf00624f-c15a-9f29-3793-a44d5a43be6b",
+     "correct": true,
+     "answer": "False"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponseOption": {
+    "type": "Never"
+   },
+   "maxAttemptsCount": 1,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]

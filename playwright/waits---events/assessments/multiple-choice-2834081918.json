@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-2834081918",
+	"source": {
+		"name": "Question 5",
+		"showName": true,
+		"instructions": "Which of the following is NOT a type of timeout in Playwright?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "54e52681-0594-d90b-97b7-be7a5bdd66f1",
+				"correct": false,
+				"answer": " page.setDefaultTimeout(timeout)"
+			},
+			{
+				"_id": "b90e7c5d-8238-3d67-0c10-42b6a0338121",
+				"correct": false,
+				"answer": "page.setDefaultNavigationTimeout(timeout)"
+			},
+			{
+				"_id": "757940ec-fe1d-ace4-7ade-e267dc391501",
+				"correct": true,
+				"answer": "page.setDefaultSelectorTimeout(timeout)"
+			},
+			{
+				"_id": "652a5da3-6bb6-1a2e-ba0f-05e63155e103",
+				"correct": false,
+				"answer": "page.setDefaultRequestTimeout(timeout)"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

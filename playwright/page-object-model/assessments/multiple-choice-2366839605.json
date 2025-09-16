@@ -1,0 +1,54 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-2366839605",
+	"source": {
+		"name": "Question 6",
+		"showName": true,
+		"instructions": "Which Playwright method is used to wait for the page to load its content?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "d19bde18-79a9-8789-ba83-17d49c486875",
+				"correct": true,
+				"answer": "page.waitForLoadState()"
+			},
+			{
+				"_id": "3b69c792-edf4-f523-b84f-8794a33e816e",
+				"correct": false,
+				"answer": "page.waitForNavigation()"
+			},
+			{
+				"_id": "f0ac9cd3-1494-3172-34b0-b7fb047f0e89",
+				"correct": false,
+				"answer": "page.waitForSelector()"
+			},
+			{
+				"_id": "6b17d2ca-91bd-7986-b976-2c300f02eca6",
+				"correct": false,
+				"answer": "page.waitForFunction()"
+			}
+		],
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}
